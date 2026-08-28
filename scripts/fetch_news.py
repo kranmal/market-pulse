@@ -60,6 +60,9 @@ NAMED_FEEDS = [
     ("https://cryptopotato.com/feed/", "CryptoPotato", "crypto", "Global"),
     ("https://www.crypto-news-flash.com/feed/", "Crypto News Flash", "crypto", "Global"),
     ("https://beincrypto.com/feed/", "BeInCrypto", "crypto", "Global"),
+    # Metals / mining
+    ("https://www.mining.com/feed/", "Mining.com", "metals", "Global"),
+    ("https://www.investing.com/rss/commodities_Metals.rss", "Investing.com Metals", "metals", "Global"),
 ]
 
 # ── Google News RSS search feeds — broad worldwide net ──────────────────
@@ -77,11 +80,20 @@ GNEWS_QUERIES = [
     ("ethereum", "crypto", "Global", "en-US", "US", "US:en"),
     ("cryptocurrency regulation", "crypto", "Global", "en-US", "US", "US:en"),
     ("crypto market", "crypto", "Asia", "en-SG", "SG", "SG:en"),
+    ("gold price", "metals", "Global", "en-US", "US", "US:en"),
+    ("silver price", "metals", "Global", "en-US", "US", "US:en"),
+    ("copper price", "metals", "Global", "en-US", "US", "US:en"),
+    ("platinum price", "metals", "Global", "en-US", "US", "US:en"),
 ]
 
 CRYPTO_KEYWORDS = re.compile(
     r"\b(bitcoin|btc|ethereum|eth\b|crypto|blockchain|token|defi|nft|stablecoin|"
     r"altcoin|binance|coinbase|solana|dogecoin|xrp|ripple)\b",
+    re.IGNORECASE,
+)
+METALS_KEYWORDS = re.compile(
+    r"\b(gold|silver|copper|platinum|palladium|bullion|precious metal|mining|"
+    r"ounce|xau|xag)\b",
     re.IGNORECASE,
 )
 
@@ -106,7 +118,11 @@ def fetch(url):
 
 
 def classify_category(title, default):
-    return "crypto" if CRYPTO_KEYWORDS.search(title or "") else default
+    if CRYPTO_KEYWORDS.search(title or ""):
+        return "crypto"
+    if default != "crypto" and METALS_KEYWORDS.search(title or ""):
+        return "metals"
+    return default
 
 
 def item_key(link, title):

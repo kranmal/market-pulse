@@ -6,6 +6,7 @@
 <title>Market Pulse — worldwide stock &amp; crypto news</title>
 <meta name="description" content="A live feed of stock market and crypto news aggregated from dozens of publishers worldwide, refreshed automatically every 30 minutes. Free, no sign-up.">
 <link rel="canonical" href="https://kranmal.github.io/market-pulse/">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%233987e5'/%3E%3Cstop offset='1' stop-color='%231a4f9c'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='16' fill='url(%23g)'/%3E%3Cpolyline points='9,37 20,37 25,23 32,46 38,30 43,37 55,37' fill='none' stroke='%23ffffff' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://kranmal.github.io/market-pulse/">
@@ -36,6 +37,7 @@
   --accent:      #2a78d6;
   --crypto:      #eda100;
   --stocks:      #1baf7a;
+  --metals:      #8b7a9e;
 }
 @media (prefers-color-scheme: dark) {
   :root:where(:not([data-theme="light"])) {
@@ -54,6 +56,7 @@
     --accent:      #3987e5;
     --crypto:      #c98500;
     --stocks:      #199e70;
+    --metals:      #a594ba;
   }
 }
 :root[data-theme="dark"] {
@@ -72,6 +75,7 @@
   --accent:      #3987e5;
   --crypto:      #c98500;
   --stocks:      #199e70;
+  --metals:      #a594ba;
 }
 
 * { box-sizing: border-box; }
@@ -140,6 +144,7 @@ button, input { font: inherit; color: inherit; }
 }
 .badge.crypto { background: var(--crypto); }
 .badge.stocks { background: var(--stocks); }
+.badge.metals { background: var(--metals); }
 .region { font-size: 11.5px; color: var(--text-muted); }
 .item-title { font-size: 15px; font-weight: 500; color: var(--text-1); margin: 0 0 4px; line-height: 1.4; }
 .item-meta { font-size: 12.5px; color: var(--text-muted); }
@@ -177,6 +182,7 @@ a { color: var(--accent); }
       <button type="button" data-cat="all" aria-pressed="true">All</button>
       <button type="button" data-cat="stocks" aria-pressed="false">Stocks</button>
       <button type="button" data-cat="crypto" aria-pressed="false">Crypto</button>
+      <button type="button" data-cat="metals" aria-pressed="false">Metals</button>
     </div>
     <div class="search-wrap">
       <label class="sr-only" for="q">Search headlines</label>
@@ -194,7 +200,7 @@ a { color: var(--accent); }
   </section>
 
   <footer>
-    Aggregated from ~30 publisher &amp; Google News feeds worldwide, refreshed every 30 minutes by an automated job.
+    Aggregated from ~30 publisher &amp; Google News feeds worldwide — stocks, crypto, and precious/industrial metals — refreshed every 30 minutes by an automated job.
     Headlines link to the original publisher. Not investment advice. ·
     <a href="https://kranmal.github.io/privacy.html" target="_blank" rel="noopener">Privacy Policy</a>
   </footer>

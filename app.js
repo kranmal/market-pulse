@@ -80,7 +80,7 @@ function render() {
   list.innerHTML = filtered.map((item) => `
     <a class="item" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">
       <div class="item-top">
-        <span class="badge ${item.category === "crypto" ? "crypto" : "stocks"}">${item.category}</span>
+        <span class="badge ${escapeHtml(item.category || "stocks")}">${escapeHtml(item.category)}</span>
         <span class="region">${escapeHtml(item.region || "")}</span>
       </div>
       <p class="item-title">${escapeHtml(item.title)}</p>
