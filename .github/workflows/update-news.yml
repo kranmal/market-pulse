@@ -40,5 +40,9 @@ jobs:
           else
             git add data/news.json
             git commit -m "Update news feed"
-            git push
+            for i in 1 2 3; do
+              git push && break
+              git fetch origin main
+              git rebase origin/main
+            done
           fi
