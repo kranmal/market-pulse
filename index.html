@@ -123,6 +123,7 @@ button, input { font: inherit; color: inherit; }
 
 .filters { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 16px; }
 .filters .search-wrap { flex: 1 1 200px; min-width: 160px; }
+.status-wrap { display: flex; align-items: center; gap: 10px; }
 .status { font-size: 12px; color: var(--text-muted); display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
 .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--up); flex: none; }
 .status.warn .dot { background: var(--down); }
@@ -152,6 +153,8 @@ a { color: var(--accent); }
 
 @media (max-width: 640px) {
   .wrap { padding: 18px 14px 48px; }
+  .filters .search-wrap { flex: 1 1 100%; order: 3; }
+  .status-wrap { margin-left: auto; }
 }
 </style>
 </head>
@@ -179,8 +182,10 @@ a { color: var(--accent); }
       <label class="sr-only" for="q">Search headlines</label>
       <input class="field" id="q" type="text" placeholder="Search headlines, sources, tickers…" autocomplete="off">
     </div>
-    <span class="status" id="status" role="status" aria-live="polite"></span>
-    <button class="btn btn-icon" id="refreshBtn" title="Refresh" aria-label="Refresh">↻</button>
+    <div class="status-wrap">
+      <span class="status" id="status" role="status" aria-live="polite"></span>
+      <button class="btn btn-icon" id="refreshBtn" title="Refresh" aria-label="Refresh">↻</button>
+    </div>
   </div>
 
   <section class="card" aria-label="News feed">
