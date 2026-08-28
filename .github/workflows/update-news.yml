@@ -1,0 +1,44 @@
+name: Update news feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - scripts/fetch_news.py
+      - .github/workflows/update-news.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install feedparser
+
+      - run: python scripts/fetch_news.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "market-pulse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/news.json; then
+            echo "No changes"
+          else
+            git add data/news.json
+            git commit -m "Update news feed"
+            git push
+          fi
