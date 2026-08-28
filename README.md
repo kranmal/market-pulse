@@ -1,6 +1,6 @@
 # Market Pulse
 
-A live stock &amp; crypto news aggregator. A GitHub Actions cron job polls ~30
+A live stock, crypto &amp; metals news aggregator. A GitHub Actions cron job polls ~30
 publisher RSS feeds plus per-region/per-topic Google News search feeds every
 30 minutes, dedupes and classifies the results, and writes `data/news.json`.
 A static page (`index.html` / `app.js`) reads that file client-side — no
