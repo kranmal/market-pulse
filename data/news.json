@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:09:58.607259+00:00",
+  "generated_at": "2026-11-05T02:34:05.551039+00:00",
   "count": 400,
   "sources_polled": 44,
   "items": [
@@ -9,7 +9,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076549+00:00"
+      "published": "2026-11-05T02:33:54.994637+00:00"
     },
     {
       "title": "Gold Faces Directional Risk as Trump’s Iran Stance Keeps Shifting",
@@ -17,7 +17,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076539+00:00"
+      "published": "2026-11-05T02:33:54.994626+00:00"
     },
     {
       "title": "Gold: Iran Conflict Leaves Bullion Caught Between Risk and Resistance",
@@ -25,7 +25,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076530+00:00"
+      "published": "2026-11-05T02:33:54.994616+00:00"
     },
     {
       "title": "Gold’s Monthly Close Could Define Its Next Directional Move",
@@ -33,7 +33,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076520+00:00"
+      "published": "2026-11-05T02:33:54.994606+00:00"
     },
     {
       "title": "Can Gold Really Reach $20,000? The Market Conditions Behind the Forecast",
@@ -41,7 +41,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076510+00:00"
+      "published": "2026-11-05T02:33:54.994594+00:00"
     },
     {
       "title": "Gold, Oil Outlook: US-Iran Tensions Leave Markets at a Crossroads",
@@ -49,7 +49,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076500+00:00"
+      "published": "2026-11-05T02:33:54.994582+00:00"
     },
     {
       "title": "Chile’s Copper Rebound Is the Supply Story Nobody’s Pricing",
@@ -57,7 +57,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076490+00:00"
+      "published": "2026-11-05T02:33:54.994570+00:00"
     },
     {
       "title": "Gold Caught in Trump’s Negotiation Impasse: Signs of an Impending Breakdown",
@@ -65,7 +65,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076477+00:00"
+      "published": "2026-11-05T02:33:54.994556+00:00"
     },
     {
       "title": "Gold and Silver Under Pressure, But a Technical Rebound May Be Near",
@@ -73,7 +73,7 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076467+00:00"
+      "published": "2026-11-05T02:33:54.994542+00:00"
     },
     {
       "title": "Gold: The Calm Before the Storm",
@@ -81,23 +81,167 @@
       "source": "Investing.com Metals",
       "category": "metals",
       "region": "Global",
-      "published": "2026-11-05T02:09:47.076440+00:00"
+      "published": "2026-11-05T02:33:54.994500+00:00"
     },
     {
-      "title": "China's slumping state airlines pin hopes on overseas demand like exporters",
-      "link": "https://asia.nikkei.com/business/transportation/china-s-slumping-state-airlines-pin-hopes-on-overseas-demand-like-exporters",
-      "source": "Nikkei Asia",
+      "title": "539% return in 5 years: GMDC share price rallies 10% - What’s fuelling the PSU stock rally? Decoded",
+      "link": "https://www.livemint.com/market/stock-market-news/539-return-in-5-years-by-gmdc-gujarat-mineral-development-corporation-share-price-rallies-10-what-s-fuelling-the-psu-11793801117537.html",
+      "source": "Livemint Markets",
       "category": "stocks",
-      "region": "Asia",
-      "published": "2026-11-05T02:09:37.660370+00:00"
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093970+00:00"
     },
     {
-      "title": "Asian stocks face volatility as Democratic blue wave sweeps US",
-      "link": "https://asia.nikkei.com/business/markets/asian-stocks-face-volatility-as-democratic-blue-wave-sweeps-us",
-      "source": "Nikkei Asia",
+      "title": "Nasdaq jumps 2%, Dow soars over 1,000 points after US midterm election results",
+      "link": "https://www.livemint.com/market/stock-market-news/us-market-nasdaq-dow-ai-stocks-after-us-midterm-election-results-11793804138598.html",
+      "source": "Livemint Markets",
       "category": "stocks",
-      "region": "Asia",
-      "published": "2026-11-05T02:09:37.660361+00:00"
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093954+00:00"
+    },
+    {
+      "title": "US Markets: Why Qualcomm shares are in top focus today with quarterly earnings, growth outlook amid AI costs concerns",
+      "link": "https://www.livemint.com/market/stock-market-news/us-markets-why-qualcomm-shares-are-in-top-focus-today-with-quarterly-earnings-growth-outlook-amid-ai-costs-concerns-11793799657674.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093935+00:00"
+    },
+    {
+      "title": "SEBI relaxes KYC rules for NRIs, OCIs: Can overseas investors now onboard digitally from abroad? Decoded",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093918+00:00"
+    },
+    {
+      "title": "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List",
+      "link": "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093898+00:00"
+    },
+    {
+      "title": "Wall Street cheers US midterm results as Dow Jones jumps 1300 points; Amazon, Apple, Microsoft among top gainers",
+      "link": "https://www.livemint.com/market/stock-market-news/wall-street-cheers-us-midterm-results-as-dow-jones-jumps-1300-points-amazon-apple-microsoft-among-top-gainers-11793807617877.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093880+00:00"
+    },
+    {
+      "title": "SBI vs SBI Life vs SBI Cards: Which SBI Group stock emerged as the Q2 results 2026 winner? Check technical targets",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-vs-sbi-life-vs-sbi-cards-which-sbi-group-stock-emerged-as-the-q2-results-2026-winner-check-analyst-targets-11793811829732.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093860+00:00"
+    },
+    {
+      "title": "Will tighter AI regulation slow Big Tech spending? What the US midterm results mean for tech stocks - Explained",
+      "link": "https://www.livemint.com/market/stock-market-news/will-tighter-ai-regulation-slow-big-tech-spending-what-the-us-midterm-results-mean-for-tech-stocks-explained-11793813477058.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093841+00:00"
+    },
+    {
+      "title": "Who Keeps Crashing China’s Stock Market?",
+      "link": "https://www.livemint.com/market/who-keeps-crashing-china-s-stock-market-11793820174602.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093830+00:00"
+    },
+    {
+      "title": "Diwali stock picks: of crackers and crashes",
+      "link": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-samvat-2083-11793786699285.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093819+00:00"
+    },
+    {
+      "title": "Stock recommendations for 5 November from MarketSmith India",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-5-november-from-marketsmith-india-11793814548711.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093808+00:00"
+    },
+    {
+      "title": "Smaller deal sizes, valuation discipline sustain India’s record IPO rush",
+      "link": "https://www.livemint.com/market/ipo/ipo-size-and-valuation-trends-in-india-11793774074385.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093792+00:00"
+    },
+    {
+      "title": "Raja Venkatraman recommends three stocks for 5 November",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-5-november-11793839245375.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093781+00:00"
+    },
+    {
+      "title": "Nextdc Shares Surge After Rival Data Center Firms Seek Stake",
+      "link": "https://www.livemint.com/market/nextdc-shares-surge-after-rival-data-center-firms-seek-stake-11793840529134.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093768+00:00"
+    },
+    {
+      "title": "US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nifty, gold, silver rates? Experts' views",
+      "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-2026-impact-what-trumps-loss-mean-for-sensex-nifty-gold-silver-rates-experts-views-11793838614653.html",
+      "source": "Livemint Markets",
+      "category": "metals",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093749+00:00"
+    },
+    {
+      "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
+      "link": "https://www.livemint.com/market/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs-11793841623449.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093736+00:00"
+    },
+    {
+      "title": "Stock market outlook today, 5 Nov: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-5-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793841005838.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093715+00:00"
+    },
+    {
+      "title": "Upbeat Earnings Bolster Case for India Stocks as Asia Wavers",
+      "link": "https://www.livemint.com/market/upbeat-earnings-bolster-case-for-india-stocks-as-asia-wavers-11793843572772.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093701+00:00"
+    },
+    {
+      "title": "Top stocks to watch today: Bharti Airtel, LIC, Nykaa, Torrent Power shares in focus on Thursday, 5 Nov | Full list",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-bharti-airtel-lic-nykaa-torrent-power-shares-in-focus-on-thursday-5-nov-full-list-11793843425775.html",
+      "source": "Livemint Markets",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093677+00:00"
+    },
+    {
+      "title": "Muhurat Trading Picks: Shanti Gold to Apollo Micro Systems - Angel One’s 8 stocks to buy on Diwali 2026 for Samvat 2083",
+      "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-picks-shanti-gold-to-apollo-micro-systems-angel-one-s-8-stocks-to-buy-on-diwali-2026-for-samvat-2083-11793842607672.html",
+      "source": "Livemint Markets",
+      "category": "metals",
+      "region": "India",
+      "published": "2026-11-05T02:33:49.093641+00:00"
     },
     {
       "title": "Tencent says its Hy4 joins 'top-tier' of open-source AI models",
@@ -105,7 +249,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660350+00:00"
+      "published": "2026-11-05T02:33:45.972200+00:00"
     },
     {
       "title": "Indonesia chief of staff sacked for allegedly wiretapping President Prabowo",
@@ -113,7 +257,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660340+00:00"
+      "published": "2026-11-05T02:33:45.972188+00:00"
     },
     {
       "title": "Japan's trading house chiefs warn of uncertainty after US midterms",
@@ -121,7 +265,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660331+00:00"
+      "published": "2026-11-05T02:33:45.972175+00:00"
     },
     {
       "title": "Japan wants US tech companies to share undisclosed software flaws as risks mount",
@@ -129,7 +273,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660320+00:00"
+      "published": "2026-11-05T02:33:45.972162+00:00"
     },
     {
       "title": "Japan's scandal-hit Nidec to have $3.8bn in credit lines renewed",
@@ -137,7 +281,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660309+00:00"
+      "published": "2026-11-05T02:33:45.972148+00:00"
     },
     {
       "title": "Toyota supplier buys Nissan-linked peer amid China competition",
@@ -145,7 +289,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660299+00:00"
+      "published": "2026-11-05T02:33:45.972136+00:00"
     },
     {
       "title": "Japan lender leads $600m credit line to help Malaysia's Petronas cut CO2",
@@ -153,7 +297,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660288+00:00"
+      "published": "2026-11-05T02:33:45.972123+00:00"
     },
     {
       "title": "Analysis: How a secret feud ignited Xi Jinping's governance drive",
@@ -161,7 +305,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660272+00:00"
+      "published": "2026-11-05T02:33:45.972110+00:00"
     },
     {
       "title": "Japan's Koito looks to keep lighting way with smart automotive lamps",
@@ -169,7 +313,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660261+00:00"
+      "published": "2026-11-05T02:33:45.972097+00:00"
     },
     {
       "title": "McDonald's wages war on KFC in Japan as consumers crave chicken",
@@ -177,7 +321,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660249+00:00"
+      "published": "2026-11-05T02:33:45.972083+00:00"
     },
     {
       "title": "The price of building Japanese stealth frigates in Australia",
@@ -185,7 +329,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660240+00:00"
+      "published": "2026-11-05T02:33:45.972072+00:00"
     },
     {
       "title": "U.S. Steel grows to 40% of Nippon Steel profit as prices surge",
@@ -193,7 +337,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660228+00:00"
+      "published": "2026-11-05T02:33:45.972057+00:00"
     },
     {
       "title": "Toyota to bring Celica back to premier rally racing after 32-year break",
@@ -201,7 +345,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660216+00:00"
+      "published": "2026-11-05T02:33:45.972042+00:00"
     },
     {
       "title": "US midterms live: Wall Street rallies as Trump signals cooperation",
@@ -209,7 +353,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660206+00:00"
+      "published": "2026-11-05T02:33:45.972030+00:00"
     },
     {
       "title": "Fast-growing India is the next North America for Japan's Marubeni: CEO",
@@ -217,7 +361,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660194+00:00"
+      "published": "2026-11-05T02:33:45.972015+00:00"
     },
     {
       "title": "Japan logistics startups expand cold food networks in Malaysia, Vietnam",
@@ -225,7 +369,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660184+00:00"
+      "published": "2026-11-05T02:33:45.972002+00:00"
     },
     {
       "title": "Malaysia's main opposition calls for greater power for states",
@@ -233,7 +377,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660172+00:00"
+      "published": "2026-11-05T02:33:45.971989+00:00"
     },
     {
       "title": "North Korea's patient cyber operations pay off in crypto",
@@ -241,7 +385,143 @@
       "source": "Nikkei Asia",
       "category": "crypto",
       "region": "Asia",
-      "published": "2026-11-05T02:09:37.660141+00:00"
+      "published": "2026-11-05T02:33:45.971979+00:00"
+    },
+    {
+      "title": "Indian capital doubles parking fees, asks 50% remote work to curb pollution",
+      "link": "https://asia.nikkei.com/spotlight/environment/indian-capital-doubles-parking-fees-asks-50-remote-work-to-curb-pollution",
+      "source": "Nikkei Asia",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-05T02:33:45.971963+00:00"
+    },
+    {
+      "title": "China's curbs on tungsten used in drill bits squeeze AI supply chain",
+      "link": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
+      "source": "Nikkei Asia",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-05T02:33:45.971926+00:00"
+    },
+    {
+      "title": "Goldman flags fresh state buying in China stocks, awaits volume recovery By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOURFWEkyWmpTV3RvNDI1cHAtRXZTNFJncEVmZlg3bVhwamZxOUJBb1ltWmdlazBqWVprckNUR1lMUU9wa1p1S0R0R2xWYmF1dUlBdWJValh5TExOTVNwWjRIUWo0QTdmYjdfSEFEV2VnSFRKUWU4MmQ3MnhhcjBTeGJEVngyN25JWGNyU3phNGV2Vm9iSExES1I5TkRRYVJYcy1UVkNWWVgtR2d1VGhreEREUGVlOE45bjhIeTdNZEwwa1J5WlE?oc=5",
+      "source": "Investing.com India",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-05T02:30:42+00:00"
+    },
+    {
+      "title": "French bank resumes transfers after $133 million attack but leaves crypto loss unconfirmed",
+      "link": "https://cryptoslate.com/french-bank-resumes-transfers-after-133-million-attack-but-leaves-crypto-loss-unconfirmed/",
+      "source": "CryptoSlate",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-05T02:30:38+00:00"
+    },
+    {
+      "title": "LeMaitre Vascular declares $0.25 dividend",
+      "link": "https://seekingalpha.com/news/4666052-lemaitre-vascular-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-05T02:30:21+00:00"
+    },
+    {
+      "title": "Sinclair Broadcast declares $0.25 dividend",
+      "link": "https://seekingalpha.com/news/4666051-sinclair-broadcast-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-05T02:29:45+00:00"
+    },
+    {
+      "title": "Safety Insurance declares $0.92 dividend",
+      "link": "https://seekingalpha.com/news/4666050-safety-insurance-declares-0_92-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-05T02:29:17+00:00"
+    },
+    {
+      "title": "AFLAC declares $0.61 dividend",
+      "link": "https://seekingalpha.com/news/4666049-aflac-declares-0_61-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-05T02:28:52+00:00"
+    },
+    {
+      "title": "Runway Growth Finance declares $0.33 dividend",
+      "link": "https://seekingalpha.com/news/4666048-runway-growth-finance-declares-0_33-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-05T02:28:22+00:00"
+    },
+    {
+      "title": "Blue Owl Capital declares $0.31/share & supplemental dividend of $0.01/share",
+      "link": "https://seekingalpha.com/news/4666047-blue-owl-capital-declares-031share-supplemental-dividend-of-001share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-05T02:27:55+00:00"
+    },
+    {
+      "title": "Figma forecasts Q4 revenue of $402M-$404M while raising FY 2026 outlook to $1.497B-$1.499B",
+      "link": "https://seekingalpha.com/news/4666046-figma-forecasts-q4-revenue-of-402m-404m-while-raising-fy-2026-outlook-to-1_497b-1_499b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-05T02:25:30+00:00"
+    },
+    {
+      "title": "$250 Each in Bitcoin, Ethereum, XRP and Solana at the Start of October: What Is the $1,000 Worth Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkNObFRGNXFVZ2sxeFF2RkJ1dzVIWkFFaW9tbWhvdG9HSUFfYWRRWUVVNWx3RnFNWGpkQWFwRXRoMEtEbWlQbktkN2cza3FvYklRUXNGNWtFRU5XaGFOaUlhNEk1V1ZqWVZlVzJVSzhGQTJXNHdLaXZDWFBINnFzV2tLbXlpVFJvU0FOTzFSdWpsWWlYeTUyRWs2MkU?oc=5",
+      "source": "Yahoo Finance",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-05T02:19:23+00:00"
+    },
+    {
+      "title": "ASX 200 Live Today - Thursday, 5th November - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTHkwX3NqTUxiN0dGckZNYkgtUFUwYTdmOG5aRDFDWi1vbENvSGhORFgtMHNleHIyTXhuUk9ZNjgwSXZKenQwUGhfcy1PSnpzdnIwRGRWUnlWS3RjUEdWbC1QSnZ5bEVLYjB0bVp5dy0tclVvcFI1OXUxQ0E2b0w2bDJn?oc=5",
+      "source": "Market Index",
+      "category": "stocks",
+      "region": "Australia",
+      "published": "2026-11-05T02:16:35+00:00"
+    },
+    {
+      "title": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says",
+      "link": "https://www.investing.com/news/stock-market-news/openai-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises-brockman-says-5002023",
+      "source": "Investing.com",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-05T02:13:49+00:00"
+    },
+    {
+      "title": "BOJ debated need for more rate hikes, scope for faster moves, September minutes show",
+      "link": "https://www.investing.com/news/economy-news/boj-board-saw-the-need-to-keep-raising-rates-september-meeting-minutes-show-5001844",
+      "source": "Investing.com",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-05T02:13:26+00:00"
+    },
+    {
+      "title": "Australia’s 188-year-old retailer David Jones enters administration, faces sale",
+      "link": "https://www.investing.com/news/stock-market-news/australian-retailer-david-jones-enters-administration-and-faces-sale-media-reports-5001887",
+      "source": "Investing.com",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-05T02:12:47+00:00"
+    },
+    {
+      "title": "Goldman flags fresh state buying in China stocks, awaits volume recovery",
+      "link": "https://www.investing.com/news/stock-market-news/goldman-flags-fresh-state-buying-in-china-stocks-awaits-volume-recovery-5002027",
+      "source": "Investing.com",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-05T02:09:37+00:00"
     },
     {
       "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
@@ -252,12 +532,28 @@
       "published": "2026-11-05T02:07:35+00:00"
     },
     {
-      "title": "Progyny raises 2026 revenue outlook to $1.365B-$1.385B as it adds 1.3 million new covered lives",
-      "link": "https://seekingalpha.com/news/4666037-progyny-raises-2026-revenue-outlook-to-1_365b-1_385b-as-it-adds-1_3-million-new-covered-lives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha",
+      "title": "Doximity director Wampler sells $65,780 in shares",
+      "link": "https://www.investing.com/news/insider-trading-news/doximity-director-wampler-sells-65780-in-shares-93CH-5002022",
+      "source": "Investing.com",
       "category": "stocks",
-      "region": "US",
-      "published": "2026-11-05T02:05:34+00:00"
+      "region": "Global",
+      "published": "2026-11-05T02:05:36+00:00"
+    },
+    {
+      "title": "BillionToOne CEO Oguzhan Atay sells $3.33 million in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/billiontoone-ceo-oguzhan-atay-sells-333-million-in-stock-93CH-5002021",
+      "source": "Investing.com",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-05T02:05:27+00:00"
+    },
+    {
+      "title": "BillionToOne SVP John ten Bosch sells $320,723 in stock",
+      "link": "https://www.investing.com/news/insider-trading-news/billiontoone-svp-john-ten-bosch-sells-320723-in-stock-93CH-5002020",
+      "source": "Investing.com",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-05T02:05:26+00:00"
     },
     {
       "title": "$250 Each in Bitcoin, Ethereum, XRP and Solana at the Start of October: What Is the $1,000 Worth Now? - 24/7 Wall St.",
@@ -266,6 +562,30 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-05T02:05:00+00:00"
+    },
+    {
+      "title": "3D Systems exchanges $92M in 2030 notes for new debt, stock",
+      "link": "https://www.investing.com/news/company-news/3d-systems-exchanges-92m-in-2030-notes-for-new-debt-stock-93CH-5002016",
+      "source": "Investing.com",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-05T02:04:35+00:00"
+    },
+    {
+      "title": "Gold extends rally above $4,100 as dollar, Treasury yields fall after U.S. vote",
+      "link": "https://www.investing.com/news/commodities-news/gold-extends-rally-above-4100-as-dollar-treasury-yields-fall-after-us-vote-5002012",
+      "source": "Investing.com",
+      "category": "metals",
+      "region": "Global",
+      "published": "2026-11-05T02:03:19+00:00"
+    },
+    {
+      "title": "Hang Seng overbought at RSI 79 after V-Bottom surge: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/hang-seng-trapped-in-ichimoku-cloud-at-supertrend-live-93CH-4989804",
+      "source": "Investing.com",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-05T02:02:11+00:00"
     },
     {
       "title": "Chinese banks explore local e-CNY wallets for foreign firms via upgraded platform",
@@ -284,44 +604,12 @@
       "published": "2026-11-05T02:00:06+00:00"
     },
     {
-      "title": "Flotek outlines $15M-$20M 2027 data analytics capex plan while guiding 2026 revenue to $382M-$390M",
-      "link": "https://seekingalpha.com/news/4666036-flotek-outlines-15m-20m-2027-data-analytics-capex-plan-while-guiding-2026-revenue-to-382m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha",
-      "category": "stocks",
-      "region": "US",
-      "published": "2026-11-05T01:58:41+00:00"
-    },
-    {
-      "title": "EHealth anticipates breakeven or better 2026 operating cash flow while targeting mid-single-digit revenue growth in 2027",
-      "link": "https://seekingalpha.com/news/4666035-ehealth-anticipates-breakeven-or-better-2026-operating-cash-flow-while-targeting-mid-single?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha",
-      "category": "stocks",
-      "region": "US",
-      "published": "2026-11-05T01:55:53+00:00"
-    },
-    {
-      "title": "Codi narrows 2026 adjusted EBITDA outlook to $330M-$355M while targeting further deleveraging",
-      "link": "https://seekingalpha.com/news/4666034-codi-narrows-2026-adjusted-ebitda-outlook-to-330m-355m-while-targeting-further-deleveraging?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha",
-      "category": "stocks",
-      "region": "US",
-      "published": "2026-11-05T01:55:38+00:00"
-    },
-    {
-      "title": "Silvaco signals mid- to high teens revenue growth in 2027 with $22M Q4 revenue midpoint",
-      "link": "https://seekingalpha.com/news/4666033-silvaco-signals-mid-to-high-teens-revenue-growth-in-2027-with-22m-q4-revenue-midpoint?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha",
-      "category": "stocks",
-      "region": "US",
+      "title": "Nearly $1 Billion in Crypto Liquidations Hit as Bitcoin Jumps 4.6%",
+      "link": "https://beincrypto.com/crypto-liquidations-bitcoin-shorts-80000/",
+      "source": "BeInCrypto",
+      "category": "crypto",
+      "region": "Global",
       "published": "2026-11-05T01:55:27+00:00"
-    },
-    {
-      "title": "Motorola Solutions signals 2027 revenue in the “ZIP Code of $14.25B” while expecting Silvus to grow ~30%",
-      "link": "https://seekingalpha.com/news/4666032-motorola-solutions-signals-2027-revenue-in-the-zip-code-of-14_25b-while-expecting-silvus-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha",
-      "category": "stocks",
-      "region": "US",
-      "published": "2026-11-05T01:55:22+00:00"
     },
     {
       "title": "George Yeo adds 100,000 Wilmar shares at S$2.97 apiece, taking stake to over 1 million shares",
@@ -336,13 +624,13 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjdpcExLSzBnbXZYVFAzRUlmRGtMNEZ6dEFIRDZGaXF0TDRHb0NuSFE0cWJKdWV3cVdNaE1WQ3ZVU1VMTnhoZzQ1X1ZrYXdpV29DT2dPQ1g0dFNyc1Fzc3FBZjJSallXQkp0VjB5NmxJNXhrZzI5cVdDemZNOHVWelZrcTg1NXptdUJEN3hPLTRYQThrRENPUFFnUmM?oc=5",
       "source": "Yahoo Finance",
       "category": "stocks",
-      "region": "UK",
+      "region": "US",
       "published": "2026-11-05T01:53:52+00:00"
     },
     {
-      "title": "Upbeat Earnings Bolster Case for India Stocks as Asia Wavers",
-      "link": "https://www.livemint.com/market/upbeat-earnings-bolster-case-for-india-stocks-as-asia-wavers-11793843572772.html",
-      "source": "Livemint Markets",
+      "title": "Upbeat Earnings Bolster Case for India Stocks as Asia Wavers - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWJDdFk0T3BkakNjVndJY2NiWnBqSWhZSWtfWHBSakRsWW1TZVBVNFNMelFlSzBMR1Y0RFNDNVZmYjkxM2pDR2ZiYXF2V1h6cEl1R3NUcUVSdjBUQy1BYkpUQU5VT3cwV3RYYVFFMmVrOWk4cUYtR3JodkdfQVdpS09lbmtZNXNuRE1LOGtYMzdpYkY5RnBvNzBDTDlrZzR4YnZBQjVzZEJPM18tb00xeXBR0gG3AUFVX3lxTE1ubkMtSGZIa2c2SkZVNnFDVk1ybjA4cnVxWHR0VEtVdVFGVHBBRk5tX1VHOTVPd1lxRW1oTEp5YVJMd0VaUjNrNlFpSUo2N0JaSUI0LTA5R01FZ3NoSmVwQzVfaU1LcG9vQU03eFZUZXJISmd0aTV6VjVpZW5zNi1SRXZTZ1RBQ3R3eTdYeVF0MzdnTWNMVE5hYU1tX1BheGIzVDY3S1JpYnpjaW1aQzY0ZDhzYjF6dw?oc=5",
+      "source": "Livemint",
       "category": "stocks",
       "region": "India",
       "published": "2026-11-05T01:52:52+00:00"
@@ -356,83 +644,27 @@
       "published": "2026-11-05T01:51:21+00:00"
     },
     {
-      "title": "Dutch Bros executive chairman Boersma sells $106.4m in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/dutch-bros-executive-chairman-boersma-sells-1064m-in-stock-93CH-5002001",
-      "source": "Investing.com",
+      "title": "Democratic Senate Majority Blocks Trump's Federal Reserve Control - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZl9qWTFGeUc1VW45SEdDelRPNTZXLXN2VkJSUzU4R0xqZDlJUm94ZE1KWWRVZDFieUpRakplaHNGb0g0NWE5WENQNXk0czNvLWI2aUlRUzZPUV9KUlVDbzZBNENzZ0NveDllTF93VnlVdUtTb0ptbkVZdmdWZmtVRlplbVI?oc=5",
+      "source": "조선일보",
       "category": "stocks",
       "region": "Global",
-      "published": "2026-11-05T01:50:22+00:00"
+      "published": "2026-11-05T01:50:04+00:00"
     },
     {
-      "title": "Dutch Bros 10% owner sells $37M in shares",
-      "link": "https://www.investing.com/news/insider-trading-news/dutch-bros-10-owner-sells-37m-in-shares-93CH-5002000",
-      "source": "Investing.com",
+      "title": "Indonesia stock market to publish more details on company shareholding - The Star",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWN4ZFRkMV9MdXRIeHRVWGxYQTdHYUxqTnJrSUEzaDFoNGR2dlFfOXBSTWJXQnJXd0FLTmF5UFMycFI2OXh3SFlNSnZ4MkpOY3NXbE9yOGhCZGVCWlptTDRUaFI2SEdUTTM2N2c1RVNuMlBUNWNBTU83WlpRbVhRMEVrUmJYQ1h6d0dsN25paDYxNFN0TGZVeVlvX3ZhTnBGU1R0WjRFQ1VvUVRsQS1jMVloZzRMaU9ERGhqdWFOR3YwaEdpclliQ18yOUY?oc=5",
+      "source": "The Star",
       "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-05T01:49:00+00:00"
+    },
+    {
+      "title": "Fidelity's Timmer Doubts 60/40 Revival as Stock-Bond Correlation Slips",
+      "link": "https://beincrypto.com/timmer-stock-bond-correlation-60-40/",
+      "source": "BeInCrypto",
+      "category": "crypto",
       "region": "Global",
-      "published": "2026-11-05T01:50:12+00:00"
-    },
-    {
-      "title": "Defense firms fall as Democratic victory stokes fears of tighter Pentagon budget",
-      "link": "https://www.investing.com/news/stock-market-news/defense-firms-fall-as-democratic-victory-stokes-fears-of-tighter-pentagon-budget-5000702",
-      "source": "Investing.com",
-      "category": "stocks",
-      "region": "Global",
-      "published": "2026-11-05T01:48:22+00:00"
-    },
-    {
-      "title": "Stock market outlook today, 5 Nov: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-5-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793841005838.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-05T01:47:23+00:00"
-    },
-    {
-      "title": "Dutch Bros 10% owner DM Trust Aggregator sells $69.4 million in shares",
-      "link": "https://www.investing.com/news/insider-trading-news/dutch-bros-10-owner-dm-trust-aggregator-sells-694-million-in-shares-93CH-5001992",
-      "source": "Investing.com",
-      "category": "stocks",
-      "region": "Global",
-      "published": "2026-11-05T01:46:12+00:00"
-    },
-    {
-      "title": "Monopar Therapeutics director Raymond Anderson sells $214,746 stock",
-      "link": "https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-raymond-anderson-sells-214746-stock-93CH-5001991",
-      "source": "Investing.com",
-      "category": "stocks",
-      "region": "Global",
-      "published": "2026-11-05T01:46:06+00:00"
-    },
-    {
-      "title": "Arm signals up to $2B in Arm AGI CPU revenue across fiscal 2027-2028 as Q3 revenue seen at $1.54B",
-      "link": "https://seekingalpha.com/news/4666031-arm-signals-up-to-2b-in-arm-agi-cpu-revenue-across-fiscal-2027minus-2028-as-q3-revenue-seen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha",
-      "category": "stocks",
-      "region": "US",
-      "published": "2026-11-05T01:46:03+00:00"
-    },
-    {
-      "title": "Monopar Therapeutics director Kim Tsuchimoto sells $290,061 in shares.",
-      "link": "https://www.investing.com/news/insider-trading-news/monopar-therapeutics-director-kim-tsuchimoto-sells-290061-in-shares-93CH-5001990",
-      "source": "Investing.com",
-      "category": "stocks",
-      "region": "Global",
-      "published": "2026-11-05T01:46:01+00:00"
-    },
-    {
-      "title": "Rubrik director Yvonne Wassenaar sells $84,075 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/rubrik-director-yvonne-wassenaar-sells-84075-in-stock-93CH-5001989",
-      "source": "Investing.com",
-      "category": "stocks",
-      "region": "Global",
-      "published": "2026-11-05T01:45:56+00:00"
-    },
-    {
-      "title": "Indonesia stock market to publish more details on company shareholding - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazA1NmZxaURVYW16MEQ2T3kySExGUW5uNlNnMjZRdkJ2Vkk0ZGZiR2VOZVBjUDRvMTY4VkRPejdSMXJrQ2VjM1hCNW1LclFvcEFkNlNoNGFZZnZEN0NOZ2ZMRUswZ29PRFZRSWdLWlpjQUpFQmdOZWxjWWZaeXNYcDhZR2xwdFRxeEhCbHN4Wl9TVlVLMTVqNTkzQ2JGWERpZlpvdkNoT2JVRVVURGk5bzY5S3c4MG4t?oc=5",
-      "source": "Reuters",
-      "category": "stocks",
-      "region": "UK",
       "published": "2026-11-05T01:45:00+00:00"
     },
     {
@@ -444,11 +676,19 @@
       "published": "2026-11-05T01:44:49+00:00"
     },
     {
+      "title": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million - Bitcoin Magazine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QeHRKbUhubmdNbFRBU0J3dlU1Uy1hWlZBN29LcUFaX2o3VFRvaFBVc2laUXZ5Ti1XYTJVemI0X3hvNmpjd2JndzNIWGlseXh2aWRtZUt4dkVQbV9PYjlyb3pEazU1Nk5sbWQ0LXJJS2Rudw?oc=5",
+      "source": "Bitcoin Magazine",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-05T01:44:49+00:00"
+    },
+    {
       "title": "Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5",
       "source": "Bloomberg.com",
       "category": "stocks",
-      "region": "India",
+      "region": "Asia",
       "published": "2026-11-05T01:43:00+00:00"
     },
     {
@@ -460,28 +700,20 @@
       "published": "2026-11-05T01:42:10+00:00"
     },
     {
-      "title": "CrowdStrike director Sameer Gandhi sells $3.44M in stock on Nov. 2",
-      "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-director-sameer-gandhi-sells-344m-in-stock-on-nov-2-93CH-5001983",
-      "source": "Investing.com",
-      "category": "stocks",
+      "title": "One Corner of Crypto Missed the Post-Election Rally, and It Carries Trump’s Name",
+      "link": "https://beincrypto.com/trump-meme-coins-record-lows-midterms/",
+      "source": "BeInCrypto",
+      "category": "crypto",
       "region": "Global",
-      "published": "2026-11-05T01:36:43+00:00"
+      "published": "2026-11-05T01:41:16+00:00"
     },
     {
-      "title": "CrowdStrike CEO George Kurtz sells $746,799 in stock",
-      "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-746799-in-stock-93CH-5001982",
-      "source": "Investing.com",
-      "category": "stocks",
+      "title": "SK Hynix Sheds Nearly 8% While Dow Jumps: What Is Seoul Pricing In?",
+      "link": "https://beincrypto.com/sk-hynix-drops-dow-jumps-seoul/",
+      "source": "BeInCrypto",
+      "category": "crypto",
       "region": "Global",
-      "published": "2026-11-05T01:36:17+00:00"
-    },
-    {
-      "title": "CrowdStrike CFO Burt Podbere sells $1.94M in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-cfo-burt-podbere-sells-194m-in-company-stock-93CH-5001981",
-      "source": "Investing.com",
-      "category": "stocks",
-      "region": "Global",
-      "published": "2026-11-05T01:36:10+00:00"
+      "published": "2026-11-05T01:37:58+00:00"
     },
     {
       "title": "US midterm results herald upheaval in Middle East policy",
@@ -493,7 +725,7 @@
     },
     {
       "title": "[SMM Analysis] Copper’s Trading Range Shifts Lower—Has the Market Turned? Why Has Tight Supply Failed to Support Prices? - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPLW56VXUxdkItLTExeFpuUko2aEM5OExkbVZOZ2tUel9jOGJzbWJMMElfTFRWWEVFMkhaOUJKRU1JNTFkSXhmVWJFMHktNS1RZnN1akJQMjFnWTR4ZGEtNjZGcDQwOHRGVERnR1ZTM2VqTl9FNUljd1dCYWVTeEVLZ2xUVHNUSEJPQ2lLX3J3VUU3UlJuNjJRT3ZVZERhUy1sbzV5X3ByX0pNMHkzTEVIUXFVZHp6ZWhBWWdQZnh5eGtTY2VlLWNzc3dHRzlrWVUxemM3Qy1Tand4TERrbHNrMzBIMUJta01JWm90UU9YM0FrY3do?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX1FyU3J2aGwxN013RWdWeVBkTnoxSjlBVXRtVjNRbnhvYWVtb21PYlNfcUZSRy0xZFJiNHZWYzBEY3lkSnZBRlJSb3dtMVZwSXJmVTFPMllLb1I2eUcxeUhGVXdmaGZxNDl1amtwNEQwNGZ0N1pyWEdxUVp3bE5aRVZSRE1RQ1VXV01DcjUtTzJsN3RUQmNWeVlIckdxVnQ0bE0tejIyOFpYX3dmWG5KQ1pVWGkzU2tqUGtxREZnNUhPWV9vTDNIMHZfcXV3clBPT08yVU0xWHlVdWtEWEJyc3ljYUNQWXhwQTZhSEJsb2Y?oc=5",
       "source": "Shanghai Metals Market",
       "category": "metals",
       "region": "Global",
@@ -508,9 +740,17 @@
       "published": "2026-11-05T01:30:19+00:00"
     },
     {
-      "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
-      "link": "https://www.livemint.com/market/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs-11793841623449.html",
-      "source": "Livemint Markets",
+      "title": "A warning to all investors in ASX lithium and copper stocks: BHP, RIO, PLS at risk - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUEpTNnJWY2UyOVFvWG9Kdld1WUpnWkI1bzJuUTR3RWZuazVyVVdvRENadTdzS2YtOUVERHJTcHZodzFKMnlQVENxMUNlZnhJdEwtaUpmQUpoTm9wdnRPU05YVWVNWXZoa0kxOHZQREotclFOZ1gtSVVtbW9kU3ZxMHFUODBmTkhlNTc0S0p2VnAxQUNNSG1MUlFVZmZydThjWmhTUXpvd0Y2OElnQ2VuRmNVYzJtUQ?oc=5",
+      "source": "Market Index",
+      "category": "metals",
+      "region": "Australia",
+      "published": "2026-11-05T01:25:08+00:00"
+    },
+    {
+      "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0NDcU1YNGpLdF8xYkRfWXhnWDdEVmtxc0dEM3VvLVFZRGFZVFE2a1R1eThmZmlsRlZocFRrbWVrWWdNRWxQRWRPYk5UOUxhT25GYnJzSWl6SFlvMGFOVjBEaENWNnlWRWlMcDdBakEybjE4Q09qSDM2eGlYOXlTM002ZHc3SWVIMWxjb0dfSWQyN0lVZHJhLXRaUFNleWFLeDQ2TEZQQ3IwVkQweFFoNjlNSENBSTjSAbwBQVVfeXFMUDZtMXo3QzF4d0lkR3pXbWg3QmduSFg3SnJjWDdYdXhWN1B0NThOeFhVLUhleXVySkQ3YWNwXzFpOEdSdnVmSnVFbjVKRUc1V0dmSWdIQUU4U0pUd0pacHhrbnZLRl9RWVY1S1hDRnZPdy1qaXN4aTlsVjVMNXBPNmhNcENyUjJHVl9hVlFXYTF1UWFDYkU5R2lEMDF3RVlDTXYxVzhpcVoxQXJmc3VFRFM3QjU4WU5xQm1iR0s?oc=5",
+      "source": "Livemint",
       "category": "stocks",
       "region": "India",
       "published": "2026-11-05T01:20:23+00:00"
@@ -522,14 +762,6 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-05T01:13:46+00:00"
-    },
-    {
-      "title": "Form 13D/A Grindr Inc. For: 4 November By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNl9PYWpqbmlHYUxtc2FoYXpZT3lYUmp2WmI4VmJVSWtMVTdLNk5LT3BPOUdSZjA1WWtuN0k0NzVHSHRjOW1XZ3VQaExlR1pfWVlkbVYxZ0RrdWVEaTlUSzlENDA3Zy0xMkhuSkozSEE1Y1BnXzk4QXdXRjJEeVNEREhBYkdtV21rcDFPbUM2UlRZM2lqZURiQk5XMXM?oc=5",
-      "source": "Investing.com India",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-05T01:12:12+00:00"
     },
     {
       "title": "Top 3 Founder Led Stocks To Watch In November 2026 - Yahoo Finance",
@@ -546,14 +778,6 @@
       "category": "stocks",
       "region": "US",
       "published": "2026-11-05T01:11:26+00:00"
-    },
-    {
-      "title": "US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nifty, gold, silver rates? Experts' views",
-      "link": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-2026-impact-what-trumps-loss-mean-for-sensex-nifty-gold-silver-rates-experts-views-11793838614653.html",
-      "source": "Livemint Markets",
-      "category": "metals",
-      "region": "India",
-      "published": "2026-11-05T01:07:34+00:00"
     },
     {
       "title": "Qualcomm’s stock falls as twin forces pressure sales",
@@ -588,9 +812,17 @@
       "published": "2026-11-05T01:03:00+00:00"
     },
     {
-      "title": "Nextdc Shares Surge After Rival Data Center Firms Seek Stake",
-      "link": "https://www.livemint.com/market/nextdc-shares-surge-after-rival-data-center-firms-seek-stake-11793840529134.html",
-      "source": "Livemint Markets",
+      "title": "Is the Market Bottoming? 3 Tells to Watch - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUROZVdROERNVllacFM0Skk2c1N1ZFc4R01GU1pSczlsNTZENDVVU2ZBWkppWG13RkZKZkpnUzFkSUtoZjJlajl5VW5LbUQ3NUxQVnFZNnFhZFhTbVhFVkxhTTl2UG5nSU1iaDZvUzVYT1lhS0ljTG80bGd3amJJU2I0cklmZw?oc=5",
+      "source": "Yahoo Finance Australia",
+      "category": "stocks",
+      "region": "Australia",
+      "published": "2026-11-05T01:03:00+00:00"
+    },
+    {
+      "title": "Nextdc Shares Surge After Rival Data Center Firms Seek Stake - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalNKd0puZ1FxLWtYZ3pVVVZRaUJxOWJmOUswbWZmc2RUZDFkbFBobXJiVTAzb0hvaV9UX1ZKbnZJRzVBYjZNSFJXdk5LNEtXUFhTNWY4QUJaYTI4cTZQWU84ck5EV2ZCeVpzTGpiZU1TOXRpbGl2RUdPajVaQk92eXZTeXNqLVJYZTVpNmR3MnRZUzhzTWRpanhWb0tkZzlNUDl2c3hKdmw2dDJiZHhHRGJn0gG3AUFVX3lxTFBiVjViQXYwdlVsNldGbmpCVUZhbHVOalZ2T3gwNGNDclR5MU1acGR6eG5PWWFvaklvQUxhYnFtWTNSQS1jSVdUa1otS3ZGZXBVYjBhYjY2VG4wLUcyUHlZYTdzLUk4bWpvNW1PbzBzOXJRemVUNEk0OEFWZEVNdXZHZ3JqN1FmalpubEplMGQ1dFpaMWhKOFk5Z0pKaHdrdzBFUkFjZXhOTjAwYWpjNVZJVzl1LWZOUQ?oc=5",
+      "source": "Livemint",
       "category": "stocks",
       "region": "India",
       "published": "2026-11-05T01:02:08+00:00"
@@ -620,14 +852,6 @@
       "published": "2026-11-05T01:00:00+00:00"
     },
     {
-      "title": "Why is Goodman stock surging today? By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeEY2UExJTkdBel92SmtGc3pERzJxaTdSaThodU5KVVBOcmU5VjR1bU9Zd3FXY2pEVHZHejIxTmFWV3dCb1ZuRUpHLUxXTnI0ZUpBN21vTGdjMW5XWEY1c2VRZE9GRmxtbXZzQVVDRVY3aWdGSUdScXRwMVVBSHBKOEU4ZGt2Si1tbTJ4M1NLSlI4Y1kzVExJNzlScw?oc=5",
-      "source": "Investing.com India",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-05T00:58:50+00:00"
-    },
-    {
       "title": "ASX 200 LIVE: ASX jumps as oil plunges below $US95; NAB dives on results - AFR",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWWlYOTFreW1mVFIzSzdoaUtiUWs3UzNTbWlrUHA1eGx1eHJFQ29fSTBpTFYzR0toSDI1dkJhNzZWbWcwQnFMaEg5RWV5VE9fcEdhZkdMVU5PMHZoTC1aSjRvSUdiMk1SWC1GbU9JUGs2T2s0eW1scG5pWExWMmJmQkY1bGprMGp3TmsyWDJQNVNmcVp6a1lDeXBYZUdBSVRWNElod09QOWo2cFNkRmQxNEtn?oc=5",
       "source": "AFR",
@@ -644,36 +868,12 @@
       "published": "2026-11-05T00:56:15+00:00"
     },
     {
-      "title": "Kestra Medical CFO Vaseem Mahboob sells $2.4M in shares By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3NLcjczNnhRMkVFSmVFSlh4ZDg3b2w5VTNGZFFKdnMxYkhMeVR2eWN1cnlTZ1Q5R1dmOXdqN1FFaS1vRURIVjZPLXZXQXhzd1J1SkVEVC1nLXZuaWhFSUlXLTNHa1hJWWJEWnRIcFB1VVdCelRMTHdUbUJmeEFtM043SGV6c3k4bGxNNDhXWHU2OGZBVDJ1bGQyS01mNk5jcWpYTks5czlPdVptc0hUa0laT1g?oc=5",
-      "source": "Investing.com India",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-05T00:53:36+00:00"
-    },
-    {
       "title": "Democratic wave keeps US wealth taxes on the agenda despite California setback",
       "link": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
       "source": "Financial Times",
       "category": "stocks",
       "region": "UK",
       "published": "2026-11-05T00:52:16+00:00"
-    },
-    {
-      "title": "Raja Venkatraman recommends three stocks for 5 November",
-      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-5-november-11793839245375.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-05T00:50:43+00:00"
-    },
-    {
-      "title": "Tenable Holdings director A. Brooke Seawell sells $1.49 million in stock By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb1VYQWFqYkZuSTZvMzJyYzJJMHdlRlJIb1B4b19iUkxJakZQUFJXUGFTRk1iSWtsaWQyN0F4OG8xamlpdlYwVC1hSzdFZzVUVFJzamtYSHI1VHdlTzMzLS02NHpOMEVCWk8xTHYzNHY1UWlhUzdPS1Z3QTFZRWJBWlloc3lTaFV5VjBSRTZuN2t0VFQ5SHF0Yklyd01hQU1oOVJSbUFySG9NckszTlU3NndyamJCM09MOC0yS3dtZWVrYXdMaFBNWVdn?oc=5",
-      "source": "Investing.com India",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-05T00:43:22+00:00"
     },
     {
       "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
@@ -684,28 +884,12 @@
       "published": "2026-11-05T00:38:00+00:00"
     },
     {
-      "title": "5-star analyst resets Nvidia stock target after Intel crash - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYUcwZk1keE5vcUlBWHlZMVpBNWxpdjZ5TEZyLUdYaWRzRzFyMjliWmhxSkQzWDhRS0lRMEF5Smg0WTlnV2M4WDlubmhidGlkaDczN0c5Zko5ajNIWm4tLWZ6bUJLOEJlcWllX3N4aUU4QW5OYUNmYkFIS2pmaENhYXBiSQ?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "category": "stocks",
-      "region": "Asia",
-      "published": "2026-11-05T00:37:00+00:00"
-    },
-    {
-      "title": "Smaller deal sizes, valuation discipline sustain India’s record IPO rush",
-      "link": "https://www.livemint.com/market/ipo/ipo-size-and-valuation-trends-in-india-11793774074385.html",
-      "source": "Livemint Markets",
+      "title": "Smaller deal sizes, valuation discipline sustain India’s record IPO rush - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYThtVE1NUlZpVnFmaWtybmRqcUtoNFRTLUdfdjNmTFdYUFFkdExxZzJKUFlUV1B5eE5INlVmVmRDVDdwVFEzZHlWd1RMZEVvMHJkUkE5WDRRMDJwWXNvZmxvSGZ2NlNkZmp0RDQ1LVNiRFE2Z0wzZ3huNVpER3dvMUtnNjJSdWYydmRoc3dSc281SlZoVjJJUm930gGfAUFVX3lxTE9GZUNaSDgyWXJ5cVFCYTg0eWVGcl9oNlNSOVh2QThnNWdUUTljbzh4VTl6djBvOFkzcUdrcE5tNWQ0ZWNyNGlnNkllQk9kWXdKY3pIQTNBUWE4VjVDRm9xdmt0N3lIcE95VEY1UVBhTUpiT21KbFptdzZIODYtYmlNRXlpTXFTMFgtUVdUZUYwWTl5YTBMaEEyWFZhZlc5WQ?oc=5",
+      "source": "Livemint",
       "category": "stocks",
       "region": "India",
       "published": "2026-11-05T00:30:42+00:00"
-    },
-    {
-      "title": "Stock recommendations for 5 November from MarketSmith India",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-5-november-from-marketsmith-india-11793814548711.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-05T00:30:20+00:00"
     },
     {
       "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
@@ -732,9 +916,9 @@
       "published": "2026-11-05T00:14:47+00:00"
     },
     {
-      "title": "Diwali stock picks: of crackers and crashes",
-      "link": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-samvat-2083-11793786699285.html",
-      "source": "Livemint Markets",
+      "title": "Diwali stock picks: of crackers and crashes - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmh5bGV3M0wzcmNQTHZPVGhZM19QSXgzX0JpYkxmblRZSjQyQ2JoMHRuUmY4MHFEeGFhVFRKU2dzWDkwck4zZDVOellsQ2hGdnAyWVE1ZUwtUDhWQk1uUl8wN0FfNm1hVndyOEwtTzAyX3N3QnQtOThkTkR3OTMtMTY3eDllOXNDaFNZbTdVNWZHaXM0TTRZYXNjby1LbkFqTkHSAacBQVVfeXFMTW1FNk5jMjNRbF9zYUtUSmtlcjNldjBFWHQ3Y01WX3Q4QlQ4RDNfNlc3U1ZFenRUZ2c0VUZhSVcyMHRfVjZGNVdLbkJZNVhRczZ1YktTSi1EX0loNlpxU0NrYkMtS01YWGc3elBzWThFY2NnLXE3NHpDWUpNbDJZeU9JZWp2Tjk3aGVaVnF1R3JpWnpfdU1TY0hEUm5lLV9MRi1HQWNhUk0?oc=5",
+      "source": "Livemint",
       "category": "stocks",
       "region": "India",
       "published": "2026-11-05T00:10:59+00:00"
@@ -1084,14 +1268,6 @@
       "published": "2026-11-04T22:23:29+00:00"
     },
     {
-      "title": "Stock Market Today, Nov. 4: Oracle Falls on Canceled $7 Billion Tencent Chip-Leasing Deal - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGozRjJFd2k1Ynh2UlJNdjZueG5zX2Q5R1lIMGpYdTZaNE94VzQ2YUhuY3lHaG1NQ2VUZkNIclA1UHlNWVg5TzJKQzJQcnJlUVlCbXpVaktacE9sYVJPNms1SXNrd05vVHFxcTlxSG5IMTZCOGgxZjAxenlFN0pfWHJEN1FQVk9CaHpkcTJVWnRQVWs?oc=5",
-      "source": "Yahoo Finance",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T22:20:02+00:00"
-    },
-    {
       "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
       "link": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -1114,14 +1290,6 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T22:16:05+00:00"
-    },
-    {
-      "title": "FTC Solar resumes at-the-market stock offering program By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM25kYTQzYWgxZ0pfUTlaeDJqSTdNVDZHOHI2WFE3Q2lQSW5HeU9UbHhCakU5RklTS0xpYW5aUG5vQ1FJbWpmWk5yWkZrVHloY3o0ZzI2bjJOOXc5UWV3QTB3cmRxY2pMYVlUSTM3TXdOeldDem1reGl3aVlLTnRGMGVuVnNhVjZySXRhYTFZS2wxUGtmbDU5Snc2QUp1dG1XMWpJd1Q2UzJPQmstdlJ2MFVVUQ?oc=5",
-      "source": "Investing.com India",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T22:15:55+00:00"
     },
     {
       "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
@@ -1188,25 +1356,9 @@
       "published": "2026-11-04T22:00:01+00:00"
     },
     {
-      "title": "Amcor (AMCR) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkZ0SFVGT1lTclRjSFVqcjNjZTU1WEJ6Y1NQVmNFaHFEWHY2S1BFQWNDQVpPMVZkZ0RIcGc1QzF3bm4wbi00TDBPY0RINjBzTzNBNDV4TE00YmdqTlNkWFlfYjYxOGMzdUlCdzBySWVEdEQ3MlZnX1E0amJucnEwM3VLTFhyMDRGVm40ZW01SUFSTklzSlE?oc=5",
-      "source": "Yahoo Finance",
-      "category": "stocks",
-      "region": "US",
-      "published": "2026-11-04T22:00:01+00:00"
-    },
-    {
       "title": "Judge Lets Stock Perpetual Futures Keep Trading but Says CFTC Likely Overstepped Its Authority",
       "link": "https://bitcoinmagazine.com/news/judge-lets-stock-perps-keep-trading-cftc",
       "source": "Bitcoin Magazine",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-04T22:00:00+00:00"
-    },
-    {
-      "title": "US Midterms Hit One Class of Stocks the Hardest as Trump Mulls Hegseth Removal",
-      "link": "https://beincrypto.com/defense-stocks-fall-midterms-hegseth/",
-      "source": "BeInCrypto",
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T22:00:00+00:00"
@@ -1258,14 +1410,6 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T21:53:21+00:00"
-    },
-    {
-      "title": "A warning to all investors in ASX lithium and copper stocks: BHP, RIO, PLS at risk - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUEpTNnJWY2UyOVFvWG9Kdld1WUpnWkI1bzJuUTR3RWZuazVyVVdvRENadTdzS2YtOUVERHJTcHZodzFKMnlQVENxMUNlZnhJdEwtaUpmQUpoTm9wdnRPU05YVWVNWXZoa0kxOHZQREotclFOZ1gtSVVtbW9kU3ZxMHFUODBmTkhlNTc0S0p2VnAxQUNNSG1MUlFVZmZydThjWmhTUXpvd0Y2OElnQ2VuRmNVYzJtUQ?oc=5",
-      "source": "Market Index",
-      "category": "metals",
-      "region": "Australia",
-      "published": "2026-11-04T21:52:57+00:00"
     },
     {
       "title": "What Republicans' huge loss means for Trump",
@@ -1344,7 +1488,7 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EbTZhVlkwbnI2bDlFanRld2xMV01KTDN1MVBEZXNQMmlzWmlyV04zRnB6Z0VheVlRSnhTNEoxV3QwV29KN2VrbUlLT3BTa2w3MmVzN3NsSHlST1R4TUhfZXdjbmRzUDdUTXNDUzhvd2U2cEY1Vl9Ja3l30gF_QVVfeXFMT3Q0aERpSDZxdGo4RUhDX0t6TXFlWlV5bkFGOGFKZk02aGxOSXJ3SktoUHduSk4xemZQeDZTZ1pGbTVFLVhMSHBFRFVVUm1CV3lSMllDWnpvX3JXb1NwM2F5SXhEODhydVFiR1c3TGc5OHFCamw4amJwbFAybC1EVQ?oc=5",
       "source": "CNBC",
       "category": "stocks",
-      "region": "UK",
+      "region": "India",
       "published": "2026-11-04T21:32:01+00:00"
     },
     {
@@ -1364,14 +1508,6 @@
       "published": "2026-11-04T21:29:10+00:00"
     },
     {
-      "title": "Bitcoin Rises, Crypto Miners Sharply Divided As Midterms Dampen AI Outlook - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaHFSR0duQjllMk1SU1RFTWlzdWQ5VVhRMV9Cb2hFWmJRT0p5blhvblNnalItb2dCMTdILXNGMVNyWlNoN1Y4Yll3QmdjVDdodjl0X2VIRnptMzk4aVdaSzZtT1ZRaEhVYkUxWGNpa1VtUHNYblhmLWVwZkFiTllHRjh2SnRCX0V2MGx2NnJOT2JDMkxMaWJ0eko0N0dMWU50N2ZNNGVSNzZsZzZubVllYmQyU0k1STFJWXVsYXpBdVhtXy1GNDNfaGVn?oc=5",
-      "source": "Investor's Business Daily",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-04T21:24:00+00:00"
-    },
-    {
       "title": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest - NBC News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5",
       "source": "NBC News",
@@ -1386,6 +1522,14 @@
       "category": "stocks",
       "region": "Global",
       "published": "2026-11-04T21:22:30+00:00"
+    },
+    {
+      "title": "Arm Holdings Sales Climb 27% on AI Demand - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
+      "source": "WSJ",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-04T21:20:00+00:00"
     },
     {
       "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
@@ -1444,12 +1588,12 @@
       "published": "2026-11-04T21:05:02+00:00"
     },
     {
-      "title": "Ripple’s $2.6 Billion Stablecoin is Growing on Ethereum, Not XRP",
-      "link": "https://beincrypto.com/ripple-ceo-rlusd-ethereum-xrp-ledger/",
-      "source": "BeInCrypto",
+      "title": "Crypto tracks stocks higher after Democrat midterm wins - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RUzN1TWlQZ0x1M3N4Sl9zQU9HVFBhQW5lbDRnTUhCZGRFb3pmZl85d2ktdDBVS0JYTFNsLXhPUUtURUlmcS1meUJZamlwdWxk?oc=5",
+      "source": "The Edge Malaysia",
       "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-04T21:04:03+00:00"
+      "region": "Asia",
+      "published": "2026-11-04T21:04:23+00:00"
     },
     {
       "title": "Ripple’s $2.6 Billion Stablecoin is Growing on Ethereum, Not XRP - BeInCrypto",
@@ -1466,14 +1610,6 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T21:00:44+00:00"
-    },
-    {
-      "title": "How The AI Stock Selloff Is Hurting Copper Price",
-      "link": "https://beincrypto.com/copper-price-3-month-low-ai-selloff/",
-      "source": "BeInCrypto",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-04T20:59:02+00:00"
     },
     {
       "title": "How The AI Stock Selloff Is Hurting Copper Price - BeInCrypto",
@@ -1564,14 +1700,6 @@
       "published": "2026-11-04T20:39:09+00:00"
     },
     {
-      "title": "Stock market today: Dow rallies 1,500 points, S&P 500 and Nasdaq gain after Democrats win control of Congress - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVk1FS3BzdHJTaGpXZ0RUNjRmcFczWmFBZ2xiU2ZrM0tKM0w5VzhNWUFsbk5ENzBCdDg3Y1M3MWM5OWJLb3U4UjRxODg0U2xIUTZhT1ZLNDNZeWNhU3lndWlBUW9BVGlGQUZqMHN3cjk4QTQ1d0pmVkNyTldqWWdmYmtGR2wtd1ZrLVoxcWNaM1o2WHFuZlc0MUIzUGZJOF91SVJFMjVhYXl4VVBwOGlnbll6dUNjd2ppa09hTkU5TldxZ1hFM2s3YkRVV3l4Q20tZFU5bnRxS0lWWnZl?oc=5",
-      "source": "Yahoo Finance",
-      "category": "stocks",
-      "region": "Asia",
-      "published": "2026-11-04T20:36:27+00:00"
-    },
-    {
       "title": "Election stiffens the Fed's guardrails, but independence risks remain - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
       "source": "Reuters",
@@ -1642,6 +1770,14 @@
       "category": "stocks",
       "region": "US",
       "published": "2026-11-04T20:14:52+00:00"
+    },
+    {
+      "title": "Stock market today: Dow rallies 1,500 points, S&P 500 and Nasdaq gain after Democrats win control of Congress - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVk1FS3BzdHJTaGpXZ0RUNjRmcFczWmFBZ2xiU2ZrM0tKM0w5VzhNWUFsbk5ENzBCdDg3Y1M3MWM5OWJLb3U4UjRxODg0U2xIUTZhT1ZLNDNZeWNhU3lndWlBUW9BVGlGQUZqMHN3cjk4QTQ1d0pmVkNyTldqWWdmYmtGR2wtd1ZrLVoxcWNaM1o2WHFuZlc0MUIzUGZJOF91SVJFMjVhYXl4VVBwOGlnbll6dUNjd2ppa09hTkU5TldxZ1hFM2s3YkRVV3l4Q20tZFU5bnRxS0lWWnZl?oc=5",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-04T20:12:07+00:00"
     },
     {
       "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
@@ -1740,14 +1876,6 @@
       "published": "2026-11-04T19:26:17+00:00"
     },
     {
-      "title": "Who Keeps Crashing China’s Stock Market?",
-      "link": "https://www.livemint.com/market/who-keeps-crashing-china-s-stock-market-11793820174602.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T19:22:54+00:00"
-    },
-    {
       "title": "Who Keeps Crashing China’s Stock Market? - Livemint",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGpxN1U2WjNYMWZFbmgwbk9GRkNsOHdXVVE2SnFiYVJGTmNfMlhVV3JzNFhOTDBmREJsNGlQV1dfcWRET2dZVU9GcWVDM3ptekZadnV6NTljS2I1UlZEa0w2Wm5IWVBxU0NDNnhpUjlyYUpxcEk2YnNTWXo0ZHV1ZGVLRW41T0VoSlNwUi1oSFZNeWt6RlHSAZsBQVVfeXFMTUhybDllNWZsMTI2VGNQRTRxR2ZLZWpaNXRJX05JSTVpZENXX1NXbkVCVmhnTEpaeURyVlVUeUVQX3YwdmJmX0w3M1RsUjBlYXdfRzNkemlzMGVoYkFwS3kzWDlVYTh1SDBKYmxGbTJkQ2t1WThfeGlCLU9ZRkM5VWlIZU5hanM5blRQX3BkdzJMdGU0S0labElUSUE?oc=5",
       "source": "Livemint",
@@ -1824,16 +1952,8 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONExiNUo3N2hQNkpnNXZ6bTJXZ0p5Rk1QNW9PVm9nQkltX2JjRUtiYmVvUzR5b1B5akhOUEd6dTNwR3J3UFhrblJrQ2tfWjVja3ZPSUJ6VmNTVmxzcmpXNGJHN1dQUC1LaDNwRTJlY0o3SE0tX2NlMS1FOHRQOWhaWWhTRGRSeTNnaFBoLUpjdHJjdzhYaTc3Uw?oc=5",
       "source": "Bloomberg.com",
       "category": "stocks",
-      "region": "US",
+      "region": "UK",
       "published": "2026-11-04T19:01:09+00:00"
-    },
-    {
-      "title": "Der Aktienmarkt dreht in die Erfolgsspur – welcher Auslöser treibt den VN-Index zu einem Anstieg um 33 Punkte? - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN21lMUhabzRzMmVsOUhBcjRjV2VUOHc5V3NCcUxjRDZnVXUtQ1M3d19uTEVPREFrUTF0Qkg2SUs5NE4xVEM5c3d2QkE4VlVuRmZ2TXI0cDNocklDNWJNMDA2NXVZOEtoX1REOW02U05UV1MwampKczY1MWhrTGxhalR3RzU1T3ozRF8tOHAyV0dVS00?oc=5",
-      "source": "Vietnam.vn",
-      "category": "stocks",
-      "region": "Europe",
-      "published": "2026-11-04T18:52:38+00:00"
     },
     {
       "title": "Kamino links most of CEO’s KMNO vesting to valuation while holders have no foundation revenue claim",
@@ -1890,14 +2010,6 @@
       "category": "stocks",
       "region": "US",
       "published": "2026-11-04T18:35:00+00:00"
-    },
-    {
-      "title": "‘Cartwheels’ in Canada after Trump punished in US midterm elections",
-      "link": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "category": "stocks",
-      "region": "UK",
-      "published": "2026-11-04T18:34:21+00:00"
     },
     {
       "title": "Voters have put a helpful chill on the US data centre boom",
@@ -1972,14 +2084,6 @@
       "published": "2026-11-04T18:18:34+00:00"
     },
     {
-      "title": "How Will The New Texas Governor Impact the State’s Bitcoin Mining?",
-      "link": "https://beincrypto.com/texas-governor-bitcoin-mining-ai-data-center-impact/",
-      "source": "BeInCrypto",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-04T18:17:55+00:00"
-    },
-    {
       "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
       "link": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
       "source": "Decrypt",
@@ -2010,14 +2114,6 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T18:11:38+00:00"
-    },
-    {
-      "title": "Will tighter AI regulation slow Big Tech spending? What the US midterm results mean for tech stocks - Explained",
-      "link": "https://www.livemint.com/market/stock-market-news/will-tighter-ai-regulation-slow-big-tech-spending-what-the-us-midterm-results-mean-for-tech-stocks-explained-11793813477058.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T18:08:05+00:00"
     },
     {
       "title": "Rare Earths Norway OKs $27 million Fen pilot plant",
@@ -2124,14 +2220,6 @@
       "published": "2026-11-04T17:18:21+00:00"
     },
     {
-      "title": "SBI vs SBI Life vs SBI Cards: Which SBI Group stock emerged as the Q2 results 2026 winner? Check technical targets",
-      "link": "https://www.livemint.com/market/stock-market-news/sbi-vs-sbi-life-vs-sbi-cards-which-sbi-group-stock-emerged-as-the-q2-results-2026-winner-check-analyst-targets-11793811829732.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T17:08:32+00:00"
-    },
-    {
       "title": "Bitcoin Touches $81K as $380M in Shorts Are Wiped Out - Bitcoin Foundation",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXQ5cmpZN0VpOUxLMF9VaEUwTndJYVVjVHdHR1dMUEpya0FMcWxfNm5helEzYkVDcWlaMVBmc2xWRFdSODBxdVRNWEJCZ3BWeTgwRVJlTUFCZlNmNmM2RlN1Z3VUekpyUXNfYU1RakpKa1JtRS1GNXZCekVOak91T0hSU21EWVdFSnkxVE5iSnM0eWFQZ2FhUWprTQ?oc=5",
       "source": "Bitcoin Foundation",
@@ -2204,28 +2292,12 @@
       "published": "2026-11-04T16:49:31+00:00"
     },
     {
-      "title": "Citadel sees year-end stock rally as Wall Street’s biggest buyers return - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmxHaUJNNTdiWTBTcDMyUVAyTHBaLVBGVUc3WlFIMmpGNmJrY2ViMjZLZXRCZ3BEdWtZRVJEblNtNnZCeDlYYkdOc1dVTDJQaXNXSENLeHNwcFhOMHJVaUhKeVZyb3hZclV4TUtqZVAyb2dIUG1pTWREZ1RJN3k2MW9yaw?oc=5",
-      "source": "Yahoo Finance Australia",
-      "category": "stocks",
-      "region": "Australia",
-      "published": "2026-11-04T16:44:11+00:00"
-    },
-    {
       "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
       "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
       "source": "The Guardian Business",
       "category": "stocks",
       "region": "UK",
       "published": "2026-11-04T16:38:28+00:00"
-    },
-    {
-      "title": "Wall Street cheers US midterm results as Dow Jones jumps 1300 points; Amazon, Apple, Microsoft among top gainers",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-cheers-us-midterm-results-as-dow-jones-jumps-1300-points-amazon-apple-microsoft-among-top-gainers-11793807617877.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T16:36:24+00:00"
     },
     {
       "title": "Ethereum Foundation launches DPI initiative focused on digital sovereignty - Biometric Update",
@@ -2284,14 +2356,6 @@
       "published": "2026-11-04T16:24:00+00:00"
     },
     {
-      "title": "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List",
-      "link": "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T16:22:30+00:00"
-    },
-    {
       "title": "Gold Price Today: Gold Rises 2.26% on November 04, 2026 - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVM2eGhSMTVkTU5SVW5lWVI0WlM2WnM5WkFlVzl0N2JxUWRFSFlUS0RPUU92RllKZ0xiQjVfemh3S1AwMzdyeGM1d2J6R3FwUmhEaUswbnZXTzZneUE3cjlIMzd2dTlWNk1ObnhlRGRlbVBqclRVMlVCRGc2S21Td2U5VUhkSGhZSW5TaXVRbWtoOVIzRENZV0ZQR1RIMlRBbUlPTTRBcnQ4Wm8?oc=5",
       "source": "USA Today",
@@ -2340,14 +2404,6 @@
       "published": "2026-11-04T15:57:49+00:00"
     },
     {
-      "title": "Bitcoin and Ethereum await a bounce as stocks slide - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXZ4eFhEbGFka1FJUm52aTNMVGV0WFFEa0NGblFxOU4xWUZxM2VyMk9tbmF0U21TQnZvUTBuTURYaUJPQnlpSEZYQnE3T2VSam9hZEpSZ3ZNRFpseFNHY0lNYlFIOEtQeWxiMU5lbjlhOVB6WE96ckdyWWFmOHNUVDFPRk1fa0NuUmt5SlpoTk8?oc=5",
-      "source": "Kitco",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-04T15:56:41+00:00"
-    },
-    {
       "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
       "link": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets",
       "source": "The Guardian Business",
@@ -2378,14 +2434,6 @@
       "category": "stocks",
       "region": "UK",
       "published": "2026-11-04T15:43:36+00:00"
-    },
-    {
-      "title": "SEBI relaxes KYC rules for NRIs, OCIs: Can overseas investors now onboard digitally from abroad? Decoded",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T15:37:17+00:00"
     },
     {
       "title": "$380M in Shorts Liquidated in an Hour as Bitcoin (BTC) Skyrockets to $81K",
@@ -2436,6 +2484,14 @@
       "published": "2026-11-04T15:29:00+00:00"
     },
     {
+      "title": "US Stock Market Moves | Alibaba (BABA.US) Rises Over 6% as Apple Intelligence Launches in China, Qwen Sees New Opportunities - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2VHWWt2WWNkTmZPUEFHTG5uY1ZVQkpGTDk1YV8wZzA2LXJqUkpTTVg2YkpvS1JBZlJKakY5TUxRTkstS3NsOGQ3OTdSNlBrU1Jhd24tcVVSVTZHTFlzal9rQUZvT2Nqbk1ybDdKMnVSTktyZURNYXpGN3dDRmlkRTd4SGVpUXFwcmFhNUxvaGNxQWF5Q2hESm5QaXI?oc=5",
+      "source": "Moomoo",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-04T15:27:24+00:00"
+    },
+    {
       "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
       "link": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
       "source": "CoinDesk",
@@ -2476,14 +2532,6 @@
       "published": "2026-11-04T15:13:08+00:00"
     },
     {
-      "title": "US Markets: Why Qualcomm shares are in top focus today with quarterly earnings, growth outlook amid AI costs concerns",
-      "link": "https://www.livemint.com/market/stock-market-news/us-markets-why-qualcomm-shares-are-in-top-focus-today-with-quarterly-earnings-growth-outlook-amid-ai-costs-concerns-11793799657674.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T15:11:53+00:00"
-    },
-    {
       "title": "What Wall Street is Missing About Micron’s (MU) Ultra-Low Earnings Multiple - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZm5OcG9fOWsxbGR6RGlCZXVQRFdDNFZYb1dWUVZqNUw3UUdKcWd6Rk1XVkFZVFZTc0RKMUZuRTVIZmxZSUhFTVZZYm81al9uT3B4QXQzUzRKR3FjdXVhOW55WF94enVWdWpha3RJUHJPZ0JGUEtvTjNxbmtmNTQzOEdNbldicGtjNXU1TGd4dzJqeld2bjZEalV3?oc=5",
       "source": "Yahoo Finance",
@@ -2500,14 +2548,6 @@
       "published": "2026-11-04T15:09:34+00:00"
     },
     {
-      "title": "Gold is being treated ‘like an AI stock, which it’s not,’ says Peter Boockvar - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeG1GS3pHc2hfZW1sNVgzcWRjWW5reXd5RUFKWll2YVVkdzhzNU1pTVVwTDVXWlRnRFNBUUt0aWg5N2hWSHM3Y19TdFA1cGhSRkl3SUhQclhkOGNCMEY4RVJvUWVQbV9YTFJxUmc3M3VZY1hGR05OZk5rS0dVNkQ2UVJfc1ZoTEpEUnp2V1l6Yy1jeUdrcmJ3RzNkcVZTaXROenNyWVVhVGRCR0E?oc=5",
-      "source": "Kitco",
-      "category": "metals",
-      "region": "Global",
-      "published": "2026-11-04T15:09:16+00:00"
-    },
-    {
       "title": "Stock-Market Gains Are Weakest After Midterm Results Like These - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaS1qT0xZMlNZMzJnTlVLazhkUzc2NnBMSkM5Sl9ubktLZGprbGRBZVl4STVycjNIb2hxeEJabnA3cmhLNHhUY0p4d3pYcnNjUWNseDU2SllWeXF4X1VNNGhnZi1ySzZRZXhJdzU0d1lxSFBibVhsUU05RndELVVsWTdhSUpvVGc4VVNOd3JqSU1GS0stOEluLWVfRXBrd2hsZFNLTmtweTZDcE5YNmkwV1B4OXk?oc=5",
       "source": "Bloomberg.com",
@@ -2522,22 +2562,6 @@
       "category": "stocks",
       "region": "Asia",
       "published": "2026-11-04T15:06:38+00:00"
-    },
-    {
-      "title": "Dow posts biggest gain of the year after Democrats take control of Congress - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2QyeUczMEN1RzM2UXRheGYwT2xDVUJxenVhOURnU2tFLWU5UlY4VGYtci1TRmtvbUlGM1hsNUJHVUhlUHEyQXVLUFlMVGFiVlFIZWFoTmhNWVl5MmhiYTFRYlZZQXJvTDF0R3RIa3UwSFNLUVpPUG1Udnh3QUpxdmNZNU0xQnQxeFE?oc=5",
-      "source": "CBS News",
-      "category": "stocks",
-      "region": "US",
-      "published": "2026-11-04T15:05:00+00:00"
-    },
-    {
-      "title": "Nasdaq jumps 2%, Dow soars over 1,000 points after US midterm election results",
-      "link": "https://www.livemint.com/market/stock-market-news/us-market-nasdaq-dow-ai-stocks-after-us-midterm-election-results-11793804138598.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T15:02:13+00:00"
     },
     {
       "title": "Ethereum’s decentralization model is the answer to an AI arms race: Vitalik Buterin - AMBCrypto",
@@ -2596,22 +2620,6 @@
       "published": "2026-11-04T14:54:45+00:00"
     },
     {
-      "title": "Polkadot lost $1.38 million after hacker exploited security flaw fixed four months earlier",
-      "link": "https://cryptoslate.com/polkadot-lost-1-38-million-after-hacker-exploited-security-flaw-fixed-four-months-earlier/",
-      "source": "CryptoSlate",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-04T14:50:52+00:00"
-    },
-    {
-      "title": "539% return in 5 years: GMDC share price rallies 10% - What’s fuelling the PSU stock rally? Decoded",
-      "link": "https://www.livemint.com/market/stock-market-news/539-return-in-5-years-by-gmdc-gujarat-mineral-development-corporation-share-price-rallies-10-what-s-fuelling-the-psu-11793801117537.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T14:42:23+00:00"
-    },
-    {
       "title": "Stock market surges after Democrats' midterm wins - CBS News",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3NWYXZnLXVlLXBfeDRvQy1PcFNlMjdVdFRLLXZTc2pXeHZLdVZLZ1R4ZFZzeWNSMmFydmpCMnByVmsxX05fa0IwSFlwczkySkNySVp1dE1JaW5yVjNVUHRsRGppNTR0V3V0Q09kc1AwUjR1SW95WnZTRVZDZEVOTg?oc=5",
       "source": "CBS News",
@@ -2650,14 +2658,6 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T14:22:32+00:00"
-    },
-    {
-      "title": "How Saregama India shares turned music to the ears for investors after 13% price jump - How stock rallied in 2026?",
-      "link": "https://www.livemint.com/market/stock-market-news/how-saregama-india-shares-turned-music-to-the-ears-for-investors-after-13-price-jump-how-stock-rallied-in-2026-11793800037045.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T14:16:46+00:00"
     },
     {
       "title": "Haze law overhaul gives it more teeth, but firms beyond its reach remain the test",
@@ -2732,28 +2732,12 @@
       "published": "2026-11-04T13:44:52+00:00"
     },
     {
-      "title": "Yellow Card buys GoMoney to enter Brazil's $252B crypto market - Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVdHWGR4aGJFZjczVTI2akNZVVh1Y2VOc0FQVHlnUDZ1bDNJbmFNTmJmUExQY1RjbHFwdnE2QldmcW41bWxlNUFHUHlUaHZVNWRKOXFlLVU2THEtdmQ2XzdFaWhlZ211cExpYXFya0RjWmRtd1hNY2xuMW5Id3FiTFo0V0RkeHN2Si16d0U5NjhwWUN4RDM0eWEyWQ?oc=5",
-      "source": "Dealroom",
-      "category": "crypto",
-      "region": "Asia",
-      "published": "2026-11-04T13:36:51+00:00"
-    },
-    {
       "title": "Bitcoin near $78,600, Ethereum at $2,300 as US midterm results put crypto regulation in focus - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZjVuS0hDbFlOX3gtX0hTNGxEZDNTOHpHekdPby01emJzSjE0OThrUHpkc21XdTdkRVpucFUtUEJ0QnZ0ZkY1UDJSbzhPM2dyLXhid2xGQTVBTENoNjVQQXhoRnI2QXNjNnhObGtCVm8wMlBfRzIzOFZDR1FiaDcwZGxUdFp3RXdZeER4czJCY3pYdm9pME9yelRkWk93NFFYbGdSZWNRTnVhaVItVFRGOU1idXRfVTN0aXVxZW1UZ0hTSGhtVWloZDdXMU51TUxNcnJKRFlab3J3UkN3VEFqMg?oc=5",
       "source": "TradingView",
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T13:35:17+00:00"
-    },
-    {
-      "title": "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research",
-      "link": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-eternal-icici-l-t-titan-to-radico-11-stocks-shriram-research-is-bullish-on-in-samvat-2083-11793796674218.html",
-      "source": "Livemint Markets",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T13:27:17+00:00"
     },
     {
       "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
@@ -2778,14 +2762,6 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T13:17:31+00:00"
-    },
-    {
-      "title": "Gold prices holding $4,000 as ADP says US economy created 86k jobs in October - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3JJQ0JVcFViZEdtMnFab3NIX05UeUN6OHRBOTV4ajZqemplQldMd2IyZURDeFJSUS1FR296YWVrbzd3X01jd0NJRE1QNE1hUTUzd3c1b19vLTBwbC1SdlVDNldmRGZsV3NzM2NKaGlQb0FpNUdjTk1lUjFqOUZ5OFNlR2FCdFBtNksyQ21HUDFtU2hoNzI0eGZuTjJaQ0FVcmxzaDVLc2R4d1U3RExobWJMUmFUdw?oc=5",
-      "source": "Kitco",
-      "category": "metals",
-      "region": "Global",
-      "published": "2026-11-04T13:15:45+00:00"
     },
     {
       "title": "Seeking Clues to Plug Power (PLUG) Q3 Earnings? A Peek Into Wall Street Projections for Key Metrics - Yahoo Finance",
@@ -2924,12 +2900,12 @@
       "published": "2026-11-04T12:25:50+00:00"
     },
     {
-      "title": "Bitcoin price analysis: What's next for BTC after U.S. midterms - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnlSaG55Rkxpb2V4U2UyXzhYNXNTMjlTcVNWUHhkR1F5d1U0bGNJYUFwdnU5RWFFZ0VTSmQyV21fRG5zc2FLcUFQck1sRmswSlctWGdPM3RrekJpdV9jWnlmSHNvcjE0ZnpwT0xsamk5MHIwLTNYNjJTY1RzWm1mRl9QZ3hHRlUxR0NqLTJ6WTVNYjJOTWJvNlpPZkpIU0N4LWJkQmFKQzFONXRzam5uby1xOHhRNVJQT3BOWjhB?oc=5",
-      "source": "CoinDesk",
-      "category": "crypto",
+      "title": "Gold price today, Wednesday, November 4, 2026: Gold prices rise in early trading, but limited gains expected - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdTEzRnU0WGNuVHEyUDhldzduei1xZWY5bk9DbTZxal9zcVZtTTgxQXhvc1cxeHQxYWotWnNObWpLX0NPZjljVnUyRUN1cURuVDJiZmNRLUgyTWQ1Umo3YjUyR0hpbnhSUnVlRkJzMlBuQVpraWppN1RJY0s1WkF3cldKTkoyNnhhV1k2aFJIV0pTTzdoMWt5V0JDR3BuOU5zdE1sckV6aUFJRFl0ekp0d3FremtfeXdWZ3oxSEFlc09xLWF2d1BCSkJkVlIzSTJkU2dSTlhVRktPVmw0MC16YUtndWg1S24wZWFtamV1LVE1TGZ6MlZkRzVQdzllbzE4UTA3VGpTV3FNcHc?oc=5",
+      "source": "Yahoo Finance",
+      "category": "metals",
       "region": "Global",
-      "published": "2026-11-04T12:24:44+00:00"
+      "published": "2026-11-04T12:25:44+00:00"
     },
     {
       "title": "How the Trump era crashed",
@@ -3002,14 +2978,6 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-04T12:12:15+00:00"
-    },
-    {
-      "title": "The Stock Market May Love the Election Results No Matter Who Wins - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQzZsOVBzaHl6RGM0RUNXb185Z0RUWTdOZFc5a2w2YmxBQ2NwQVFmT3dISE1tcTRoT3RMeUswTTc1UTB1ZUZyVk8ycFFld0ZRZXhOZTg3T2hWSElnWHo2dnljbG1ESXZBdkU3RTZBeXpTQnZLSWhMbmZTaml5Ynl4Mm1HdW11LUluX3J0QnJsWmhNQ0Jad2FiWUQ2bmc1cXdiRE1oQTgwZDZ5bjJPT0E?oc=5",
-      "source": "Investing.com India",
-      "category": "stocks",
-      "region": "India",
-      "published": "2026-11-04T12:11:13+00:00"
     },
     {
       "title": "The Next Altcoin Rally May Be Closer Than You Think: Analyst Points to Key Signals",
@@ -3202,6 +3170,38 @@
       "category": "crypto",
       "region": "Asia",
       "published": "2026-11-04T10:35:00+00:00"
+    },
+    {
+      "title": "Democrats’ Win Rattles Trump Trades From AI Stocks to Crypto - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdTRQb3pkNzdfSm5LVl9yeno5dERXdGZNZklXZmpZQUp6SXFNUkZScHpwVElhOHczVkZILWpjWjVMRmVlSlZwa1BjVmxRVzJMSl9neWNxMFNFc0pEMUxoRmd3dmQzcXhEZVliTFlPbElVSHJKTlRiSDhqTkMzcUJuR1l4eE15MEJDMjRfYzlBSWdwZWhDbGVCOEdlNmpJbHBMd0VJTWxJa3BBNUNrUzkw?oc=5",
+      "source": "Bloomberg.com",
+      "category": "crypto",
+      "region": "Asia",
+      "published": "2026-11-04T10:34:19+00:00"
+    },
+    {
+      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
+      "link": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-04T10:30:42+00:00"
+    },
+    {
+      "title": "Interactive: A month in the smog",
+      "link": "https://www.businesstimes.com.sg/singapore/interactive-month-smog",
+      "source": "The Business Times SG",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-04T10:30:00+00:00"
+    },
+    {
+      "title": "Why Midterm Gridlock in Congress Matters for Bitcoin Regulation - StoneX",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdURMbHNNZ2NtTk5USGNMajN0dnQtTWpwTDkyOHFRRi15bXJiN1NFVGM1TDY1OEt3dWRtZlZweG4xMGxEbl9udDl6YmkxNDFhVWZybTJNV3NfNDdxeDViY2xlNUlWQ1lhUWNqU3ZFMWlVOTRIS2xiTHdsdm1GejBLT05KZ0FPX2VUdl9wQXJPT2o4clNFX0JzSURTVHM2bkRG?oc=5",
+      "source": "StoneX",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-04T10:28:08+00:00"
     }
   ]
 }
