@@ -101,7 +101,7 @@ async function loadData() {
     const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    state.items = Array.isArray(data.items) ? data.items : [];
+    state.items = (Array.isArray(data.items) ? data.items : []).map((i) => (i.category === "metals" ? { ...i, category: "commodities" } : i)); // older feed files used "metals"
     state.generatedAt = data.generated_at || null;
     setStatus(state.generatedAt ? `Updated ${timeAgo(state.generatedAt)}` : `${state.items.length} stories`);
     render();
