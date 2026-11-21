@@ -1,87 +1,375 @@
 {
-  "generated_at": "2026-11-21T09:07:25.037626+00:00",
-  "count": 400,
-  "sources_polled": 44,
+  "generated_at": "2026-11-21T09:21:35.762278+00:00",
+  "count": 600,
+  "sources_polled": 58,
   "items": [
     {
-      "title": "Gold Outlook Weakens as Treasury Yields and Inflation Risks Persist",
-      "link": "https://www.investing.com/analysis/gold-outlook-weakens-as-treasury-yields-and-inflation-risks-persist-200684901",
-      "source": "Investing.com Metals",
-      "category": "metals",
+      "title": "Your Financial Advisor’s Best Performing Asset is You",
+      "link": "https://www.investing.com/analysis/your-financial-advisors-best-performing-asset-is-you-200682493",
+      "source": "Investing.com Indices",
+      "category": "indices",
       "region": "Global",
-      "published": "2026-11-21T09:07:15.070805+00:00"
+      "published": "2026-11-21T09:21:18.930178+00:00"
+    },
+    {
+      "title": "UK Political Shockwave: London Session Forex Research Briefing",
+      "link": "https://www.investing.com/analysis/uk-political-shockwave-london-session-forex-research-briefing-200682541",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930168+00:00"
+    },
+    {
+      "title": "Nasdaq 100: The Record Rally Has to Prove Itself at 29,960",
+      "link": "https://www.investing.com/analysis/nasdaq-100-the-record-rally-has-to-prove-itself-at-29960-200683379",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930157+00:00"
+    },
+    {
+      "title": "Semiconductor Sell-Off Weighs on Global Markets, Is the Correction Nearing an End?",
+      "link": "https://www.investing.com/analysis/semiconductor-selloff-weighs-on-global-markets-is-the-correction-nearing-an-end-200684113",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930146+00:00"
+    },
+    {
+      "title": "The AI-Capex Trade Cracked While Everyone Blamed the Strait of Hormuz",
+      "link": "https://www.investing.com/analysis/the-aicapex-trade-cracked-while-everyone-blamed-the-strait-of-hormuz-200684486",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930134+00:00"
+    },
+    {
+      "title": "Nasdaq 100: The Rally Into 29,027 Is the Trade, Not the Bottom",
+      "link": "https://www.investing.com/analysis/nasdaq-100-the-rally-into-29027-is-the-trade-not-the-bottom-200684632",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930122+00:00"
+    },
+    {
+      "title": "Spread, Slippage and Swap: The 3 Costs That Quietly Erode Trading Returns",
+      "link": "https://www.investing.com/analysis/spread-slippage-and-swap-the-3-costs-that-quietly-erode-trading-returns-200685019",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930109+00:00"
+    },
+    {
+      "title": "India’s Stocks Are at a 14-Week High, but Its Own Data Disagrees",
+      "link": "https://www.investing.com/analysis/indias-stocks-are-at-a-14week-high-but-its-own-data-disagrees-200685048",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930097+00:00"
+    },
+    {
+      "title": "DAX Just Hit a Record -  Who’s Actually Buying?",
+      "link": "https://www.investing.com/analysis/dax-just-hit-a-record---whos-actually-buying-200685054",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930083+00:00"
+    },
+    {
+      "title": "Nasdaq 100: The Bounce Has to Prove Itself at 28,763",
+      "link": "https://www.investing.com/analysis/nasdaq-100-the-bounce-has-to-prove-itself-at-28763-200685084",
+      "source": "Investing.com Indices",
+      "category": "indices",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.930058+00:00"
+    },
+    {
+      "title": "FX Outlook: Higher US Real Rates Dominate",
+      "link": "https://www.investing.com/analysis/fx-outlook-higher-us-real-rates-dominate-200691901",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422121+00:00"
+    },
+    {
+      "title": "US Dollar Swings the Real Rate Wrecking Ball as Commodity Currencies Buckle",
+      "link": "https://www.investing.com/analysis/us-dollar-swings-the-real-rate-wrecking-ball-as-commodity-currencies-buckle-200691903",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422109+00:00"
+    },
+    {
+      "title": "US Dollar Consolidates Gains While Weak Australian Jobs Data Fuels Rate-Cut Bets",
+      "link": "https://www.investing.com/analysis/us-dollar-consolidates-gains-while-weak-australian-jobs-data-fuels-ratecut-bets-200691918",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422098+00:00"
+    },
+    {
+      "title": "GBP/USD at 1.31 Tests Whether Sterling’s Long-Term Uptrend Can Survive",
+      "link": "https://www.investing.com/analysis/gbpusd-at-131-tests-whether-sterlings-longterm-uptrend-can-survive-200691954",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422084+00:00"
+    },
+    {
+      "title": "GBP/USD Under Pressure as Pound Tests Yearly Lows",
+      "link": "https://www.investing.com/analysis/gbpusd-under-pressure-as-pound-tests-yearly-lows-200691985",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422074+00:00"
+    },
+    {
+      "title": "FX Daily: AI Hype Fades as Carry Trade Risks Mount",
+      "link": "https://www.investing.com/analysis/fx-daily-ai-hype-fades-as-carry-trade-risks-mount-200691988",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422064+00:00"
+    },
+    {
+      "title": "Oil and Stocks Drive Rates Lower, and Take Some Shine Off the US Dollar",
+      "link": "https://www.investing.com/analysis/oil-and-stocks-drive-rates-lower-and-take-some-shine-off-the-us-dollar-200692003",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422051+00:00"
+    },
+    {
+      "title": "FX Daily: Carry Trade Unwind in Full Swing",
+      "link": "https://www.investing.com/analysis/fx-daily-carry-trade-unwind-in-full-swing-200691986",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422041+00:00"
+    },
+    {
+      "title": "USD/JPY Retreats From 160 as BoJ Rate Hike Bets Strengthen the Yen",
+      "link": "https://www.investing.com/analysis/usdjpy-retreats-from-160-as-boj-rate-hike-bets-strengthen-the-yen-200692009",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422025+00:00"
+    },
+    {
+      "title": "EUR/USD Breakdown Shows Why Rate Differentials Still Dominate",
+      "link": "https://www.investing.com/analysis/eurusd-breakdown-shows-why-rate-differentials-still-dominate-200692029",
+      "source": "Investing.com Forex",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.422000+00:00"
+    },
+    {
+      "title": "Oil Shrugs Off Latest EU Sanctions on Russian Energy",
+      "link": "https://www.investing.com/analysis/oil-shrugs-off-latest-eu-sanctions-on-russian-energy-200663999",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.175064+00:00"
+    },
+    {
+      "title": "Oil: Risk of Additional Russia Tariffs Unnerves Market",
+      "link": "https://www.investing.com/analysis/oil-risk-of-additional-russia-tariffs-unnerve-market-200664464",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.175055+00:00"
+    },
+    {
+      "title": "Crude Oil: Tariff Developments Roil Commodity Markets",
+      "link": "https://www.investing.com/analysis/crude-oil-tariff-developments-roil-commodity-markets-200664614",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.175045+00:00"
+    },
+    {
+      "title": "Oil Falls After Latest OPEC+ Supply Hike",
+      "link": "https://www.investing.com/analysis/oil-falls-after-latest-opec-supply-hike-200664753",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.175037+00:00"
+    },
+    {
+      "title": "Commodity Market Outlook: Gold and Silver Weaken as Crude Oil Extends Rally",
+      "link": "https://www.investing.com/analysis/commodity-market-outlook-gold-and-silver-weaken-as-crude-oil-extends-rally-200681916",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.175025+00:00"
+    },
+    {
+      "title": "Gold Price Forecast: Key Levels to Watch as Volatility Remains Elevated",
+      "link": "https://www.investing.com/analysis/gold-price-forecast-key-levels-to-watch-as-volatility-remains-elevated-200682041",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.175014+00:00"
+    },
+    {
+      "title": "Gold, Silver and Crude Oil Outlook: Key Levels and Market Movers",
+      "link": "https://www.investing.com/analysis/gold-silver-and-crude-oil-outlook-key-levels-and-market-movers-200682304",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.175003+00:00"
+    },
+    {
+      "title": "Gold Bearish Structure Keeps Sell-on-Rise Strategy in Focus",
+      "link": "https://www.investing.com/analysis/gold-bearish-structure-keeps-sellonrise-strategy-in-focus-200682456",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.174991+00:00"
+    },
+    {
+      "title": "Gold, Silver, Crude Oil Outlook: Sellers Dominate Amid Easing Geopolitical Risks",
+      "link": "https://www.investing.com/analysis/gold-silver-crude-oil-outlook-sellers-dominate-amid-easing-geopolitical-risks-200682670",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.174977+00:00"
+    },
+    {
+      "title": "Gold: Bears Hold the Edge as Key Support Comes Into Focus",
+      "link": "https://www.investing.com/analysis/gold-bears-hold-the-edge-as-key-support-comes-into-focus-200683694",
+      "source": "Investing.com Agriculture",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:18.174951+00:00"
+    },
+    {
+      "title": "Oil Has Stopped Trading the War - It’s Trading the Barrels Now",
+      "link": "https://www.investing.com/analysis/oil-has-stopped-trading-the-war--its-trading-the-barrels-now-200684877",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920890+00:00"
     },
     {
       "title": "Gold Faces Directional Risk as Trump’s Iran Stance Keeps Shifting",
       "link": "https://www.investing.com/analysis/gold-faces-directional-risk-as-trumps-iran-stance-keeps-shifting-200684903",
-      "source": "Investing.com Metals",
-      "category": "metals",
+      "source": "Investing.com Energy",
+      "category": "commodities",
       "region": "Global",
-      "published": "2026-11-21T09:07:15.070797+00:00"
+      "published": "2026-11-21T09:21:17.920879+00:00"
+    },
+    {
+      "title": "Gold’s Monthly Close Could Define Its Next Directional Move",
+      "link": "https://www.investing.com/analysis/golds-monthly-close-could-define-its-next-directional-move-200684987",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920869+00:00"
+    },
+    {
+      "title": "Natural Gas: Starting Some Buying Operations",
+      "link": "https://www.investing.com/analysis/natural-gas-starting-some-buying-operations-200685011",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920860+00:00"
+    },
+    {
+      "title": "Gold, Oil Outlook: US-Iran Tensions Leave Markets at a Crossroads",
+      "link": "https://www.investing.com/analysis/gold-oil-outlook-usiran-tensions-leave-markets-at-a-crossroads-200685017",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920849+00:00"
+    },
+    {
+      "title": "Iran Just Offered Oil a Way Out of the Strait - Watch the Lanes",
+      "link": "https://www.investing.com/analysis/iran-just-offered-oil-a-way-out-of-the-strait--watch-the-lanes-200685045",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920837+00:00"
+    },
+    {
+      "title": "Europe’s Gas Market Is Trading Iran Headlines Faster Than Oil Is",
+      "link": "https://www.investing.com/analysis/europes-gas-market-is-trading-iran-headlines-faster-than-oil-is-200685053",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920826+00:00"
+    },
+    {
+      "title": "Will the Decline in Oil Prices Last Long Amid the Ongoing Avoidance of Escalation?",
+      "link": "https://www.investing.com/analysis/will-the-decline-in-oil-prices-last-long-amid-the-ongoing-avoidance-of-escalation-200685075",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920812+00:00"
+    },
+    {
+      "title": "Gold Caught in Trump’s Negotiation Impasse: Signs of an Impending Breakdown",
+      "link": "https://www.investing.com/analysis/gold-caught-in-trumps-negotiation-impasse-signs-of-an-impending-breakdown-200685093",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920797+00:00"
+    },
+    {
+      "title": "Trump Attacked Exxon and Chevron’s Profits - Here’s the Number He’s Angry About",
+      "link": "https://www.investing.com/analysis/trump-attacked-exxon-and-chevrons-profits--heres-the-number-hes-angry-about-200685148",
+      "source": "Investing.com Energy",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.920770+00:00"
+    },
+    {
+      "title": "Gold Outlook Weakens as Treasury Yields and Inflation Risks Persist",
+      "link": "https://www.investing.com/analysis/gold-outlook-weakens-as-treasury-yields-and-inflation-risks-persist-200684901",
+      "source": "Investing.com Metals",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T09:21:17.661604+00:00"
     },
     {
       "title": "Gold: Iran Conflict Leaves Bullion Caught Between Risk and Resistance",
       "link": "https://www.investing.com/analysis/gold-iran-conflict-leaves-bullion-caught-between-risk-and-resistance-200684952",
       "source": "Investing.com Metals",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
-      "published": "2026-11-21T09:07:15.070788+00:00"
-    },
-    {
-      "title": "Gold’s Monthly Close Could Define Its Next Directional Move",
-      "link": "https://www.investing.com/analysis/golds-monthly-close-could-define-its-next-directional-move-200684987",
-      "source": "Investing.com Metals",
-      "category": "metals",
-      "region": "Global",
-      "published": "2026-11-21T09:07:15.070780+00:00"
+      "published": "2026-11-21T09:21:17.661496+00:00"
     },
     {
       "title": "Can Gold Really Reach $20,000? The Market Conditions Behind the Forecast",
       "link": "https://www.investing.com/analysis/can-gold-really-reach-20000-the-market-conditions-behind-the-forecast-200685010",
       "source": "Investing.com Metals",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
-      "published": "2026-11-21T09:07:15.070769+00:00"
-    },
-    {
-      "title": "Gold, Oil Outlook: US-Iran Tensions Leave Markets at a Crossroads",
-      "link": "https://www.investing.com/analysis/gold-oil-outlook-usiran-tensions-leave-markets-at-a-crossroads-200685017",
-      "source": "Investing.com Metals",
-      "category": "metals",
-      "region": "Global",
-      "published": "2026-11-21T09:07:15.070760+00:00"
+      "published": "2026-11-21T09:21:17.661458+00:00"
     },
     {
       "title": "Chile’s Copper Rebound Is the Supply Story Nobody’s Pricing",
       "link": "https://www.investing.com/analysis/chiles-copper-rebound-is-the-supply-story-nobodys-pricing-200685058",
       "source": "Investing.com Metals",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
-      "published": "2026-11-21T09:07:15.070750+00:00"
-    },
-    {
-      "title": "Gold Caught in Trump’s Negotiation Impasse: Signs of an Impending Breakdown",
-      "link": "https://www.investing.com/analysis/gold-caught-in-trumps-negotiation-impasse-signs-of-an-impending-breakdown-200685093",
-      "source": "Investing.com Metals",
-      "category": "metals",
-      "region": "Global",
-      "published": "2026-11-21T09:07:15.070739+00:00"
+      "published": "2026-11-21T09:21:17.661420+00:00"
     },
     {
       "title": "Gold and Silver Under Pressure, But a Technical Rebound May Be Near",
       "link": "https://www.investing.com/analysis/gold-and-silver-under-pressure-but-a-technical-rebound-may-be-near-200685096",
       "source": "Investing.com Metals",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
-      "published": "2026-11-21T09:07:15.070727+00:00"
+      "published": "2026-11-21T09:21:17.661390+00:00"
     },
     {
       "title": "Gold: The Calm Before the Storm",
       "link": "https://www.investing.com/analysis/gold-the-calm-before-the-storm-200685150",
       "source": "Investing.com Metals",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
-      "published": "2026-11-21T09:07:15.070707+00:00"
+      "published": "2026-11-21T09:21:17.661239+00:00"
     },
     {
       "title": "Vietnam shifts FDI focus from jobs and factories to technology",
@@ -89,7 +377,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249346+00:00"
+      "published": "2026-11-21T09:21:10.846265+00:00"
     },
     {
       "title": "US-China stability can't rely on bilateral summits, warns AmCham head",
@@ -97,7 +385,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249335+00:00"
+      "published": "2026-11-21T09:21:10.846234+00:00"
     },
     {
       "title": "SK Hynix to become Kioxia's top shareholder with bond conversion",
@@ -105,7 +393,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249324+00:00"
+      "published": "2026-11-21T09:21:10.846205+00:00"
     },
     {
       "title": "Japan to transfer H3 rocket launch operations to Mitsubishi Heavy",
@@ -113,7 +401,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249313+00:00"
+      "published": "2026-11-21T09:21:10.846178+00:00"
     },
     {
       "title": "Sushiro opens in New York's Times Square, hoping $5 sushi will make a splash",
@@ -121,7 +409,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249299+00:00"
+      "published": "2026-11-21T09:21:10.846140+00:00"
     },
     {
       "title": "Japan wins 25% quota increase for large bluefin tuna from 2027",
@@ -129,7 +417,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249288+00:00"
+      "published": "2026-11-21T09:21:10.846110+00:00"
     },
     {
       "title": "Hyundai, Honda feature US hybrids at auto show amid investment wave",
@@ -137,15 +425,15 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249277+00:00"
+      "published": "2026-11-21T09:21:10.846081+00:00"
     },
     {
       "title": "Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-sovereign-ai-project-faces-5bn-cost-surge-on-chip-prices-weak-yen",
       "source": "Nikkei Asia",
-      "category": "stocks",
+      "category": "fx",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249264+00:00"
+      "published": "2026-11-21T09:21:10.846057+00:00"
     },
     {
       "title": "Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack",
@@ -153,7 +441,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249253+00:00"
+      "published": "2026-11-21T09:21:10.846030+00:00"
     },
     {
       "title": "Japan Tobacco's Russia freezeout threatens its pursuit of Philip Morris, BTI",
@@ -161,7 +449,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249240+00:00"
+      "published": "2026-11-21T09:21:10.845999+00:00"
     },
     {
       "title": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
@@ -169,7 +457,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249230+00:00"
+      "published": "2026-11-21T09:21:10.845972+00:00"
     },
     {
       "title": "Japan weighs early funding to ICC before US sanctions cutoff",
@@ -177,7 +465,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249219+00:00"
+      "published": "2026-11-21T09:21:10.845946+00:00"
     },
     {
       "title": "How to save your dragon: Japan zoo joins quest to breed Komodo lizards",
@@ -185,7 +473,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249207+00:00"
+      "published": "2026-11-21T09:21:10.845914+00:00"
     },
     {
       "title": "Battery maker GS Yuasa targets defense, space as growth fields: CEO",
@@ -193,7 +481,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249196+00:00"
+      "published": "2026-11-21T09:21:10.845885+00:00"
     },
     {
       "title": "Chinese 3D printer maker Bambu Lab scales up production in Shenzhen",
@@ -201,7 +489,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249184+00:00"
+      "published": "2026-11-21T09:21:10.845856+00:00"
     },
     {
       "title": "Peru can be Japan's gateway for South America investment, president says",
@@ -209,7 +497,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249172+00:00"
+      "published": "2026-11-21T09:21:10.845825+00:00"
     },
     {
       "title": "Japan's listening bars find a global audience",
@@ -217,7 +505,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249163+00:00"
+      "published": "2026-11-21T09:21:10.845802+00:00"
     },
     {
       "title": "US, Japan should lead next-gen transportation: Trump's ex-transport chief",
@@ -225,7 +513,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249150+00:00"
+      "published": "2026-11-21T09:21:10.845770+00:00"
     },
     {
       "title": "Indonesian leader chases Sukarno's phantom with defiant posture",
@@ -233,7 +521,7 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249138+00:00"
+      "published": "2026-11-21T09:21:10.845743+00:00"
     },
     {
       "title": "Japan stamp maker stomps into AI realm by authenticating videos on X",
@@ -241,7 +529,39 @@
       "source": "Nikkei Asia",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T09:07:08.249105+00:00"
+      "published": "2026-11-21T09:21:10.845685+00:00"
+    },
+    {
+      "title": "pentest-i6025-loadf1 copy",
+      "link": "https://beincrypto.com/pentest-i6025-loadf1-copy/",
+      "source": "BeInCrypto",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T09:16:27+00:00"
+    },
+    {
+      "title": "pentest-i6025-filetest1 copy",
+      "link": "https://beincrypto.com/pentest-i6025-filetest1-copy/",
+      "source": "BeInCrypto",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T09:16:02+00:00"
+    },
+    {
+      "title": "pentest-i6025-priv1 copy",
+      "link": "https://beincrypto.com/pentest-i6025-priv1-copy/",
+      "source": "BeInCrypto",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T09:15:35+00:00"
+    },
+    {
+      "title": "pentest-i6025-env1 copy",
+      "link": "https://beincrypto.com/pentest-i6025-env1-copy/",
+      "source": "BeInCrypto",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T09:15:09+00:00"
     },
     {
       "title": "Patanjali Foods dividend 2026 announcement news: Board to consider 2nd interim dividend on Nov 26 - Check history, yield",
@@ -252,12 +572,28 @@
       "published": "2026-11-21T09:01:26+00:00"
     },
     {
+      "title": "How Joe Biden’s former aide sparked a $100bn stock market sell-off - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFV4OVZvT2pfd0pPR19mYTBDZ3h5ejhxX0tOVV9BdTlNWGFqX0RZV2pQREtIdVVPQXdlWk5Ka0o0MnhBM0hxcU0zTUpTY1dwNE9ZNUcyQnVidlVxWTJ4TnVPU2xiU1VVTEJsb0dhZHFuSmJlSF9DY1VJLVhqdWgxZkJrRXN4X1NsZXpUekFyUWJpMWQtSEhGb1h6ck5TcmY4UkJZZWF3VHhWM2VQ?oc=5",
+      "source": "The Telegraph",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-21T09:00:00+00:00"
+    },
+    {
       "title": "Intesa Sanpaolo launches €34.5bn cash-and-share offer for Monte dei Paschi",
       "link": "https://www.investing.com/news/stock-market-news/intesa-sanpaolo-launches-345bn-cashandshare-offer-for-monte-dei-paschi-5043303",
       "source": "Investing.com",
       "category": "stocks",
       "region": "Global",
       "published": "2026-11-21T08:56:23+00:00"
+    },
+    {
+      "title": "AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFhyenJ3MFQtY0ttcElNS19SNE0ySmFlcFBBaDk5Ym9FNnhVNV9UTjUxTFJ4ZHNuaGs5d1JCRGlrNTlCVG9CaWxNanpvb0JnSlAyWVh0QUNLQXRWV3FHNHVfR21iaXgzREphbldZWWpzUkhtSlRWUC05bllfSllSRnZnR0xvcVVWNGthS0JB?oc=5",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-21T08:50:02+00:00"
     },
     {
       "title": "Form 4 AMC Robotics Corp For: 21 November By Investing.com - Investing.com India",
@@ -316,6 +652,14 @@
       "published": "2026-11-21T08:30:00+00:00"
     },
     {
+      "title": "UBS runs a tokenized structured note on Ethereum, but settlement is still off-chain - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmZ4YTh0Mld5TkZGNXhhLVd0MEZfTW9oRXgwVm4zUGltRDNlNXdGd1BXSnJhV2dXVjN6ckVUUWR3ZEgtWmtYT1VfeENoOW1xSG82SEJ0VkgxcXFESTA2R2FEdVQxZHlMYV9Xc3BwRFJEQzJoYmVkR254VmZCTTc4d015dzc5MTgyOVcwbXg2WHFkTFEydXMxYkMxem41VENsN2RGRXJPTDlkOFZnVkdZ?oc=5",
+      "source": "Startup Fortune",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T08:26:19+00:00"
+    },
+    {
       "title": "Fed kämpft gegen Inflation und lässt Aktienmarkt nicht retten - aktien.news",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUVJTng1aS1fSlZneU5MRFVlbTMtZi1keGE0ek9vZ0lSYmdmTVdJcUxjc21CRVVtbHhBY3ZVSzBDN0ZlcWtBeG90WDI4Z190ZENSR2RjUEN0ZzhkZjZ1eURWOVI2SUFPb3A0R3dKX2RFa092SjdyUTdfUG9tTUthQkVCZlVpOE44YklaZmJR?oc=5",
       "source": "aktien.news",
@@ -324,12 +668,12 @@
       "published": "2026-11-21T08:26:18+00:00"
     },
     {
-      "title": "Rami Levi (TASE:RMLI) Stock Could Be 28% Below Fair Value - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUjhJczVQWUR0NmVQOS1Qb3BBNWx3d04yQVBkaHNTU1l3S3o1blJpSWJMZVplTXVJelVnTFNLX0ExOHFNM2V6QXZCbWVPOTNDTHhCNWFKekNmbTU1U3hUem9lOHFpNWR5TGdyQzlFeTkzNHB2TTRPZGR5WGhRUXVTdzhkNnh4RzRoQmhXbGdwYS1OQTFx?oc=5",
+      "title": "Yamazaki Baking (TSE:2212) Stock Still Looks Reasonable Despite A 203% Run - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1A1V1I2b1ZaeEg0eUVJdUNrNElYc2RfUG5JMG1LRDlCTllpVGt6cVhIaEoxa0dZUmFmanpvUG5sWjN4YUh5ZWJSTWZqUlBtU2xIeWJyT1BKb09ZRzV4Ni1yZ25sNGZnb19qTGZYNFhFanJlanNoTE5vdTFPVDZkZ0JablBUV0c5OWNNUmtPVXQwNDYtZUV5OVJuSQ?oc=5",
       "source": "Yahoo Finance",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-21T08:15:17+00:00"
+      "published": "2026-11-21T08:15:22+00:00"
     },
     {
       "title": "Iran war sees tanker hit near Hormuz as Saudi Arabia intercepts Houthi missiles",
@@ -354,6 +698,22 @@
       "category": "stocks",
       "region": "India",
       "published": "2026-11-21T08:09:08+00:00"
+    },
+    {
+      "title": "Form 4 Micron Technology Inc For: 21 November By Investing.com - Investing.com Australia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmhkdXhLV2JYY3dDUlhNcHJaN2p3SEtVYkVtTUtMY2pnbkhjem9ia3hKVmZTYTRIYTFsakNaUVpKWi11UFNPT19uOFFheHp1RmlHMGFHbmRSTFJyVmZoNWNLWFhFeTRCY3F5RzUxeVZuTUw4SFl5SUx0OG9Vb3FrSHl2T001WUJ6NGt0eE9jUXF0MmF3QTE4WXNWZ19hOERRWS0tTEloV2Q?oc=5",
+      "source": "Investing.com Australia",
+      "category": "stocks",
+      "region": "Australia",
+      "published": "2026-11-21T08:08:21+00:00"
+    },
+    {
+      "title": "NFT sales rise to $33M as Ethereum volume jumps 33% - Crypto News",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DOVMtU2pqN1gtZzE4UE1UN0dwTkl2WlZjWVl5RGcyeXE5eTNDLWtyXzJFNmttMktGX3hmZHdsb0tUWk9fVWY0WE5ucllCdUl6MVFnRVJHZUF0LXJzSERvUy1vbnNmMzJWMldBcDh3?oc=5",
+      "source": "Crypto News",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T08:05:04+00:00"
     },
     {
       "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
@@ -439,7 +799,7 @@
       "title": "Golden lessons from past gold price fluctuations amid current gold price crash — 32% down from its peak in 2026 - Livemint",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNjFXZzBDN1lUTHVya3pjSF8tZzBwUzE5dURNbkF1WlFLc3FWcndleC1DcU5hZ1ByYXFfc1hoNU1mZHBpT0FmVy0zVElYdjRsY0Q0Q0pVdmNkYkRRUlVJSlhieTlTTG85TXVYTXpiU1U3LWVYM2NDY3JtOWtYbXI5dnhFSktnMzhRUmZmbkI5QnJDZ3VCbnZoaVo1RGpndjlRTEZRYU4ybnlXTzNnWk5KdmVWemtOR2lQTWYwR0tnVDBUckJveVlaUHZpcnBVdUxSQjhEbXgzNjg4cHJ1YXdtMlFTWW5Nc18wVGNjUm55cjMxTnBCR2owQl9VMmNXSUZ5eS1MdFN4RdIBjAJBVV95cUxOX090bFEyYmhYUG5tUzcxWWlYTldMRno0RkFzeTRya1QtTXhXckV1TGVRb2trSHY3WEdoMmhaWk0wVEs2Q1cwd0Q0Q2czOHhDYUUxTXZxeUJwNGg1QVBsY1RwdDFhSG9kRlNJb3VNeGpETlY3cUNidTVYT0cyTklZQ3RYTlhFRmtWNTlCcnVVZWFxWjVZMWZ5WUlSVHNCMkpXRFAyTmM4WHE1a0g0a1NSa0pUcjczM1VCYlJKRjJJMnBTY1o5SGdpUk00aTlwVjBUWVBHZGhubXdCNmxpcXJVLWZTU2otLW42dFJoNEhBa2pBZXFpQmZwczdCQndOM0FxaWVQLTV3b0VEVVo3?oc=5",
       "source": "Livemint",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-21T07:29:41+00:00"
     },
@@ -480,24 +840,16 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHEtVjlMQ0ZpTTJPcmtGWHZRUDREYzd6TDlfeklqcGcwMjk0SVp6NHZPb1B0and6LWt2blFkV3ZKVERzbVY4TTBMYXo2b05JcVB0NXllUVJtWkduZE9DNXBGemQ3M2ZBdkZuODVYeHZKTXJGS29teG03NHlqQzlabW1RTE5QaU9ZNDd0THBGQ242by1feUVpV20tX29yZw?oc=5",
       "source": "Yahoo Finance",
       "category": "stocks",
-      "region": "US",
+      "region": "UK",
       "published": "2026-11-21T07:07:00+00:00"
     },
     {
       "title": "Gold vs silver price crash compared: White metal loses 65%, gold sheds 37% from record highs| Wealth wiped, returns",
       "link": "https://www.livemint.com/market/stock-market-news/gold-vs-silver-price-crash-compared-white-metal-loses-65-gold-sheds-37-from-record-highs-wealth-wiped-returns-11795241673262.html",
       "source": "Livemint Markets",
-      "category": "metals",
+      "category": "commodities",
       "region": "India",
       "published": "2026-11-21T07:05:52+00:00"
-    },
-    {
-      "title": "Klaviyo Inc. (KVYO) Grabs Wall Street’s Attention Amid Market Bloodbath - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXJDVXpZOVBuTTZrVHZ3dWNCMmFGeWVwR3U1aGNmd0UtNF9uSThJd1ZJYmJ5SnpoRGp2Zi1fQU1tN0tuZnlfa2tuTE0tR0hjdEpGd09ieURTdTMtQnhudHZpZUpiQ0J5WHFsUzY0c1VkLXpBOFFmTFQ4ZkJISnViMXZUamtTVDVSdTNlQ1RzaWN0UjBsajBv?oc=5",
-      "source": "Yahoo Finance",
-      "category": "stocks",
-      "region": "US",
-      "published": "2026-11-21T07:04:00+00:00"
     },
     {
       "title": "Rigetti CTO Andrew Bestwick sells $219,551 in shares",
@@ -519,7 +871,7 @@
       "title": "AgEagle director Brent Klavon buys $2,999 in stock",
       "link": "https://www.investing.com/news/insider-trading-news/ageagle-director-brent-klavon-buys-2999-in-stock-93CH-5043252",
       "source": "Investing.com",
-      "category": "stocks",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-21T07:01:05+00:00"
     },
@@ -546,6 +898,14 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-21T07:00:12+00:00"
+    },
+    {
+      "title": "COIN Stock Falls To Lowest Level Since 2023 After Exchange Seeks CFTC Clarity On Sports, Election Contracts - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVy1oLVVCLVd2OHktQ284RmQtSWZVWTNZcUlISjNsUjNxQUZ4QjFwU2Q3VEVsN0JKODlVQXNtYmVlbWYxM0NIM1JHNDBUYk5oeVBpelF2N2JINGlOeXBPYkppRGZ1RExYWXFrdFZoa3RaQTFJWkdGNmVxZDI0c1dpX1BPM3dYbTRtOGRKbDhGbk9DMTdvUEJUUXdB?oc=5",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-21T06:41:00+00:00"
     },
     {
       "title": "Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation",
@@ -612,6 +972,22 @@
       "published": "2026-11-21T06:16:42+00:00"
     },
     {
+      "title": "Natural Gas Price Forecast: Breakout Could Unlock Higher Price Targets - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjlidGZBSDFKenk4TXB0aFVsd3Rxb21xLS12OEpfRE1EOUNpUnlXYWVSWHF5NndMR0hMMkhhY09wRnJXQ2FueFhVa3JuMzdIYjlBN3d6OWJGbzNzaGZhZzk5dXRmTDAwZmU0QzJyZzZwa3dRTzNELURQTUJjdjlZSmVwdDJFVWVSV0xUa1FJOVJYeGtxeXVQUElxdnBka0tteU1YbGRmaVlOOV9nZDVwY1QtUXJNYVg0SV9oSA?oc=5",
+      "source": "FXEmpire",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T06:15:00+00:00"
+    },
+    {
+      "title": "3 European Energy Stocks For Investors Watching Oil And Gas Prices - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX09yUjhob0dHblBlTS12NjZueXNCS09mTkJJVVRLOE9MQTUzOFlxTGI0RVJwQVJRdVJjeGdZVDFxam9FTngxVnRqQURrSGpVYUUxaXVrWk9Dd0xZV1lXRC1GallYb2U3QVJGcG1OWWZBd1AyTE40bWR5Y28tTnp3NjByTTR1bTVOWC0yaTlXaDlNYUdzbXc?oc=5",
+      "source": "Yahoo Finance",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T06:14:00+00:00"
+    },
+    {
       "title": "Nvidia vs Anthropic shares: AI chip stock tanks 14% while Claude-maker falls 8.5% - See who wins in earnings, valuation?",
       "link": "https://www.livemint.com/market/stock-market-news/nvidia-vs-anthropic-shares-ai-chip-stock-tanks-14-while-claude-maker-falls-8-5-see-who-wins-in-earnings-valuation-11795238170165.html",
       "source": "Livemint Markets",
@@ -623,7 +999,7 @@
       "title": "Gold (XAU/USD) Price Forecast: Deepening Selloff Nears Major Support - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEZjQ2ZoWURweVpkOHVUUk92cmlKM2lyeXV2ZFdma2tjemIwYU54Q1hxQ2p2ODlxOTdjMGQtUGJrNWdJYzc5OTZrWk1XZnJIblB0U2d2TjdmaS1uSGREVVNHY2JpQTQzS2RPNEVQdU9WZ0VHc1VrLWVZa0hlazlBUlZDSUhPX0RLQjRjYVdaLW9WajQ5MkwtLXRrcUhJQTBBNlFrSTlSUXlPU0dLbGRZYWVtMTBuRzQ?oc=5",
       "source": "FXEmpire",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-21T06:08:00+00:00"
     },
@@ -657,6 +1033,14 @@
       "source": "CNBC",
       "category": "stocks",
       "region": "US",
+      "published": "2026-11-21T06:00:02+00:00"
+    },
+    {
+      "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1feVVjWDhlZFZoMGJEa3UtS2haVk91TTliTmlHazJDalJwQ1hjOGhrajJsUDdXMTNkaHAta0tfTFpraTREXzdWQTJXbFBES3lNTEhQMWo2U005UDZyTWRZQUFnM3RKWTN2TVplMkp4MDI5VFVTckHSAXtBVV95cUxPZnBsY0RxZEJaOXB2LXZjYjdrbjZPdXp6eTdaYVJxRmRTeWRybmc2OHRJMENmMVcxd3JIS0U3ZXRlQ2prckdZTmQwbXFzak43b19qQVg5YmZRNVZNUnh5ZWxwTzQydVdyOUdZREhfOXFNdkxFU2tROEh3UUU?oc=5",
+      "source": "CNBC",
+      "category": "commodities",
+      "region": "Global",
       "published": "2026-11-21T06:00:02+00:00"
     },
     {
@@ -695,7 +1079,7 @@
       "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHRLUWlWUGExQUVQdm41Q3RTXzVkdzhBNVY1ckc2X2VmRHQ5ZGdESlV2Z290X0lWVXdCcHh2MkZkZE9rcWRfUVBzVTFiWHZEZTZXV0R2VjVaZlh5dXFBQUw2WE0wcHF1ZnBlWWR2REFwS3F4dXlCR3FoLXNBZDBHYmxva3NhLWt3eHV4ZGxoSjBQc3RPQ1pNVXl5c2pVaGIzYU54Ni1TUHh1bzI3dG9UYWR4NTR0QUxjalFCV3pvTXV6MzJacy1ORmxHZU1FcDVrLWpSUjNwYjEzSVFOejc5N0hn?oc=5",
       "source": "Kotak Neo",
-      "category": "stocks",
+      "category": "indices",
       "region": "India",
       "published": "2026-11-21T05:52:38+00:00"
     },
@@ -727,7 +1111,7 @@
       "title": "Bought gold on Diwali? Prices fall 12.9% in a fortnight: Check today's value of your 22K and 24K gold purchases in India - Livemint",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ0FQd3AzYXJGZHY2b3dXQm13V1pPUmRlSVFTcHZ6XzIwUGF3RUpHQWhyREFUS3pmd0N5R1hvOTlKNi1JUUxTUmZVX2RDcVlldFpqdjlTd3JxckZOQWxHcWlVTXkxa00teW5TLVZyN1lRU2RnaW1YS29NVjIxamtNaFh0dlhBYlRfaF9tb09PVk5lNk5tTW9fOEpSWHFKZC1tc3VVRjZQT2xGQ1d0djBfRmRDZ1FGY3ZhWE10WjlFelZWcmdaM2RsdjJWZTZZZVhjQlRXRUluYVV6b1ZISFdHcHFpLVplS3RFelFPdHRlWnJ5S1ZYNXctdk42MnN4VTdSajFXU1JXeFAxRjNPN0cwTjFR0gGXAkFVX3lxTE1SWVRWZkhGMkNsMTA4eTFBeWtQZS1tejZqOVcxQlZzVWFOUjhXV1l3ZU9WWWFobDJPX3p4dW9DMU91cDZLRl92N3J3Q3N3NGdFV19sZWk3bHdZbTUxX3l4MkRnUm9VSE4zbmRvLXR5akdGTXl1NFVoRmZrcEk4S05fRHFNak9WVnphLTZDSTBBZ01ZcTk0S1VfR1dHcmM4UXBzRTN1RWs2UVpLNFM0YkhqalR3ZUh6TEs5VHFtQy1DTE9OR1JyWGVYVFFHT2lrdWFUX3FVbG9Gd3Zwb1RmTDlHUy05RUNTZHdkTFZyaEJQR1J6VUNRMXBfckZpR2JQRE1LRlhPVU5YbVpHZmxhblJvV2dPVlJnSQ?oc=5",
       "source": "Livemint",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-21T05:34:25+00:00"
     },
@@ -759,7 +1143,7 @@
       "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
       "link": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "category": "stocks",
+      "category": "commodities",
       "region": "UK",
       "published": "2026-11-21T05:00:35+00:00"
     },
@@ -788,14 +1172,6 @@
       "published": "2026-11-21T05:00:07+00:00"
     },
     {
-      "title": "Retail investors snatch up odd lot shares amid TSMC's plunge - Focus Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IWUtrR0hWWWdjRGxjSVV0UUtEdGRTZVI3aDNBSTNjTEQ0bF9zelhHUGVwSmRKUUNwdDNrMzRxMjBQSFhRMnF2QVZDRnBBUlgySVRLYXV0QQ?oc=5",
-      "source": "Focus Taiwan",
-      "category": "stocks",
-      "region": "Asia",
-      "published": "2026-11-21T04:57:00+00:00"
-    },
-    {
       "title": "XRP Bulls Lose $0.99: The Next Downside Targets Are Ugly",
       "link": "https://cryptopotato.com/xrp-bulls-lose-0-99-the-next-downside-targets-are-ugly/",
       "source": "CryptoPotato",
@@ -810,6 +1186,14 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-21T04:30:00+00:00"
+    },
+    {
+      "title": "Bitcoin (BTC) tanks below $57,000, wiping out $2.4 billion in crypto bets - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXQyRVlCTU5XNjdyZDVyTnNOVTUzVGlyWHAxYk5CUm9tME1VTllrVWNaREZHVkpzRVhYX1Q0ajZMUjBiUUloMTFvNGdxRFVlNlRYVkplVEJ1em4waFRfTFVCQXRPRlBhT29NSndpNGRDcVdtbW9Cdkl2NjQxZW1NSGVRcmJhbVFMSTlveGVwOGFSdWRnUXhVUi1UVmNwTjhqTjUtUDB4Q1VIR0duRjNyLW9MN0FFQmZSbFJGeE5kVHE?oc=5",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T04:24:00+00:00"
     },
     {
       "title": "Missed 50% rally in Samvardhana Motherson? Choice's Sumeet Bagadia spots another buying opportunity | Target, stop loss",
@@ -852,6 +1236,14 @@
       "published": "2026-11-21T04:10:00+00:00"
     },
     {
+      "title": "Bitcoin Falls 3.57% to $56,814 - US News Money",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYy1oVXBTUUp2WkFuYm12Mm4tSUptbGRFd2pOeDc5THcyb2RJamV2ejlqeXVoSHg5a3Y1Y3F1aXY4VElVdGZWNDVUS04yWk9KMWtKOWViZnJJd1V1UllrMVBLY3VWWkFibk52LVNoYkgwdXZHY1dNSGZMVEpNZVlCYk14TmJJQ1BJanNXUl8yemwwUQ?oc=5",
+      "source": "US News Money",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T04:10:00+00:00"
+    },
+    {
       "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
       "link": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
       "source": "The Guardian Business",
@@ -863,7 +1255,7 @@
       "title": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope? - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGZqY3FoUjhCTGtSbnJQMmlMMlNQWGxuQ1UyR09vYVpCY2xHcU5la0pPb0FGbnkzZ3AwRThVNXdMcXk4cEZ4elRxd1VKVHRqTEdxUGtHeUZNS1RPQkVKdUpXeVJscjg1Qm1zUHpjMDlzYUQ5UUE0X3FVTzRqRC1FWVRGU0NXWUI0Rk1FWERnVWxkWEtRbTJNc3Nldms4emVsSF9yMU4xaDU4SWh6TDgydjJWa3ZYQ2pFaUp2TFhmdUh6cFU?oc=5",
       "source": "Investor's Business Daily",
-      "category": "stocks",
+      "category": "indices",
       "region": "India",
       "published": "2026-11-21T03:51:00+00:00"
     },
@@ -879,7 +1271,7 @@
       "title": "President Trump blames Democrats for stock market losses while claiming credit for lower oil prices - NBC News",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZl9YUDBJZGY2eVRqY19NNmxQM1dwQmoyNUdXaGVHLUx0T3oyNi1WZ0ZOUlRPaHZULTJlNW1PTlRyRXpTM2I3NEdkYUk3MGdTb1E2OHlCdlh3ZnFQU2hMMEs4dXpZZkVxT1dqRmhhNDdyT0dodExxOFBrNlJMVXFrVFhrVzJiaHBVOUVCMHBvLU9VUlVjRlFIMWtkYnFQNUpfT3FpbDZkalFqLUVMWHprNVA1WmhiZFdKQXNrV0tva3NBb2ZXS1M1a0hFX2ExNWpBTlhIemhwLUFVc1hLdG82TjZRYTdPUFcyM3dTeU1n?oc=5",
       "source": "NBC News",
-      "category": "stocks",
+      "category": "commodities",
       "region": "US",
       "published": "2026-11-21T03:43:21+00:00"
     },
@@ -916,6 +1308,14 @@
       "published": "2026-11-21T03:10:00+00:00"
     },
     {
+      "title": "Symbiosis Bridged BTC (Ethereum) Price, symbtc to USD, Research, News & Fundraising | Blockworks Intel - Blockworks",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PX1hLN1ZpN2VFdG9QRGtuanFYcHVwUkl6WHM4alpJcHhJcWVVQ1dBdmNHejhIdDA0QnA1dHF6bHY0Yk5BY05NcjV3bDRta3BTUUxYRHRHNE5pV0tFTnQ2dXhRdXdZMFVpd19HSjMwaUo0bmpl?oc=5",
+      "source": "Blockworks",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T03:01:45+00:00"
+    },
+    {
       "title": "Bitcoin falls to more than two-year low as global markets sink - The Business Times",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcElQcTlVcEkzQ3hMd0gyT1puOUM2RlIwYmd5YVBFclhFN05uOE83MnRFbGZNOWF2b082Xy1NTE9ydU1jYjFLZ0VkUnlMeWo0eUNMWFFBaVBmTkZTdXJiT2Jic3MyeXE1Yml4SjRTN0x6MTNETGVWRFltMDdYLTBSM2t6bVZxR0NvSGhpT3RDLXhOVXNsYV9tSHRiQlNoZnBhS1F3RDYyRE5FdEt6UmdJZG5ZWVp0TGhObUE?oc=5",
       "source": "The Business Times",
@@ -943,9 +1343,17 @@
       "title": "Nasdaq 100 sinks 5.6% in worst week since Covid, S&amp;P 500 corrects to 3.7% as investors sell off AI, tech stocks",
       "link": "https://www.livemint.com/market/stock-market-news/us-stock-markets-nasdaq-100-5-6-pc-worst-week-since-covid-2020-s-p-500-3-7-pc-correction-investors-sell-off-ai-tech-11795223650589.html",
       "source": "Livemint Markets",
-      "category": "stocks",
+      "category": "indices",
       "region": "India",
       "published": "2026-11-21T01:36:43+00:00"
+    },
+    {
+      "title": "Peter Schiff Warns of Weekend Crypto Crash Sending ETH to $1K - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJYTYxR0F0bnVzZWFBN3FYNVlRWlphYnN1WV85UXJ2aGRhTVZRc1hnaWE0V1FJMVJqR0NLZTRlazZQM3Z3TmdGczJybXpyOTNEZHdpeGNwbzljdw?oc=5",
+      "source": "Cryptonews.net",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-21T01:33:00+00:00"
     },
     {
       "title": "Five pharma CDMO stocks with robust revenue growth in Q2FY27",
@@ -964,10 +1372,26 @@
       "published": "2026-11-21T01:30:28+00:00"
     },
     {
+      "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1hBdGw1anUtLVZ1cFNyVmJmX0liYVYxcGg3WEpaOURrSlJLWHZDSzlIbjFBM3ZaTlllb29CTERST2ZDaWVfWUxnRUJ5b19ybWs2dXp5NFRjUmU5TVlVUHYtYm5maDRxMUlpVFc0WDhyUEJFN1M2MjJGWGY0dXk1V2RHanl3S1pWU3J0Rm5CRDdjRXVJN2c?oc=5",
+      "source": "Yahoo Finance",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-21T01:30:00+00:00"
+    },
+    {
+      "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGo2a2JDeFFQWXZZSUFuc1hYVkctMXBGZzVJWjhCSU4tV21qenB4bVNuLUJFTG1hakVYdGNlQ2tuRXFnOXlnSzFJVjZHWVg3V09EWVVhb1o5NVY3YWJpcHZ4MGFyYm9faWdPOGVsRERlakFST214NC1RZDA4UTBjdUZmYmZtOUdUOWZNNFE1M3dVdGVneWtKeWl4Sll0aFZFcW1qUUtFM2RfVUhkTGNJ0gG0AUFVX3lxTFBlZXlISGdZNkJyblRJX1V4NW9OQTFrYkNHWFZoazJzTDZZUHI4US1sT01jSkhtWVFxeUVqYkdJdzIwYmxjWFFsRTNMYWhUdk9wVWl3aVpUTmhvZi1IQ1ZJcFdKODc1TDdJb2tLZzZ0RzB6d3o4WERicXJ5OGNvcFZpTTl5RmhQRTRkWERGeUFPTmVUeU56dl9ObDNPcTgxeDU2bHlCaDFiSVdQaXlQMlozdzZ1Tw?oc=5",
+      "source": "Fox Business",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-21T01:28:00+00:00"
+    },
+    {
       "title": "Gold Weekly Forecast: $3,500 at Risk as Real Yields Stay High - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkowTVdiY0FySURiV2RDeTY0QXBVUGRBdHMtekh5QzRsVEJqOEllYTF2UzBpQVlSaWt5VW1CX283dko1c1hMTzNLQ1B1a1dQclp1U3dRRnJYM003YWViOXNLQXZqb29vdkdvWVRzc2l2eHVXcjMzeTlvcHNKSnpxWEQ4RE1oaElpNUxpNjRpSHJiLWtyWnVYMWZRRzJReE9aYU9FekJsd1d0V1FzbEE?oc=5",
       "source": "FXEmpire",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-21T01:27:00+00:00"
     },
@@ -991,7 +1415,7 @@
       "title": "Silver Weekly Price Forecast: Silver Continues to Fight Real Yields - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT29lRE5uTzhBUDhJNkRzUWxISFBqQ1U1dzhlcDJBU2tNVTJOV0VQMWxHN3hDaHRubFVHbjNPSDZnNlNudTNRTnVzN2VGVl9NZXdSdElfc1dBRUdWTXhTQ2t1MWFfbjVYMHVpX1VWQmRabEtzRWtRaG53NXlTYl81YlFYVFR0c1NuSUh4cUhkSk9uelFhaTBZNlBNRS1NbU1IWnJxTnBZUWtXTUIzM01naWdLZVRQU0xr?oc=5",
       "source": "FXEmpire",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-21T01:07:00+00:00"
     },
@@ -1023,7 +1447,7 @@
       "title": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year - Mining.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUdITlJjU1Byem9WdFRMRjlFem11OEw5Q3lkZVdOX0xad2ZrNWM3U3pzTEE2N0MzTFFxMHZkZGpRckJWajB2b0NvNjdpRUhzZVZQNWc1OXF1VmhqcjgyUnpSRy1Oa1AzU09WUjZ3UVlSZlluV2JhdzVKODVuVFpPZWtiLTJlVkpVdUJrT01kUFVkV3NGMUsxQnRVMzVZYURSSWgzWlJFQQ?oc=5",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-21T00:15:09+00:00"
     },
@@ -1031,15 +1455,15 @@
       "title": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
       "source": "Bloomberg.com",
-      "category": "stocks",
-      "region": "US",
+      "category": "indices",
+      "region": "India",
       "published": "2026-11-21T00:12:00+00:00"
     },
     {
       "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
       "link": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "source": "Seeking Alpha",
-      "category": "stocks",
+      "category": "commodities",
       "region": "US",
       "published": "2026-11-21T00:10:24+00:00"
     },
@@ -1063,7 +1487,7 @@
       "title": "Copper bear market: project pipeline and cost-risk takeaways for mine planners - Geomechanics.io",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0FpWGFCbzNiZkxxeWYtNDFMTjNoQjBGX2VXQmpWZy01dUFWS043Z1VOaGZfd2lwTE0xVGNtdFQzbjdVeHhvWmdibFVKYjVDZ1huTlZwRTFwYkJEelVhejhxdmNmRm11UVFMdGVhSXBLc2lGNXY2c2hPNE4xQ3h4a0R2dThrU29yWmJmcTJPWnRJdEZISkJoQU9LeG1rTzV1LXgtLVJELWFNRklRVWVHaVpLelFWbFdFYnc?oc=5",
       "source": "Geomechanics.io",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-21T00:01:13+00:00"
     },
@@ -1076,10 +1500,26 @@
       "published": "2026-11-21T00:00:11+00:00"
     },
     {
+      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlJxVm9uUmdPdkxHeGNqMWw1TFN6YkhKQXVqUWZEb0haSWs0YUtrT0R5aWk5VVFweXRMMTNyOF9zZUYxTUdfXzZJUUY2cGlmMmhFa1BGcVRENFNNOUNvcVNYYXNKb2E3aDEwM0RsVHhPVkEtNmdvMElsSjdjN0RRUnhDeVJTSjBWWG9mOVNxTHlmdEVvYktHQl9HU2J1dUMxaU1BTmRPV3doSzRpUkdWXzVB0gG3AUFVX3lxTFB2aGc5YmNCa21uR0taU01wdFZCeE1ob3VpU1pvNUFoaldLZFA0SDVmYmxVR054TTF3MmhhNnA0eUlDbFo2dmpYMndQWW9TYkx2SGVkNExXSGxUS2dVdVRPLWE0bW1aOVFDVmhkLUM0VXg4bXIteG1ZMnNZR3BBOGJyRk1FOTJDbzV1NVpqZkVNYzZqRHlaVFg5T1pnQTU0YkRDMFc5al9YbS1NMkhQMjZNUW5CZ1BJTQ?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-21T00:00:00+00:00"
+    },
+    {
+      "title": "S&P 500 correction: Five forces behind the market sell-off - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdEZSRFJHbTVUcnFhajRic19hWTN3bFdWTTNHcG4xZ1FOUkIwbTlxM25RRnNubWg4eFdMN091NVdrNFRrLXNxYkVRdE5RMmxUdjEtLVB1d0ZvS0V0S05mVGRpdWliYXE0YV9sSHZndlNfenJBUl90YlZR0gF_QVVfeXFMTjdUUUM2aGNWRGk0VGM5TGpacVBtZjNLNnRiWmE1clBxSnBZenR2anotRF9lU1pEQXJKVjhoaEh6VHZ5b2hWMktPZEI0N1FmWW80S2N0anRHS3djeHVuOTRibk1wanNiNEZoY0FyVlFxbXA4N1hWWlZIZzlWdHVqdw?oc=5",
+      "source": "CNBC",
+      "category": "indices",
+      "region": "Australia",
+      "published": "2026-11-20T23:53:21+00:00"
+    },
+    {
       "title": "Gold price fall nears $3,500 as miners face soaring costs - Mining.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTBKNGdIMDJlUk1JZ3E1dm1pOEtVZmVuT3l5UmRYaHhXMVZVQXdCMlhDVmpYc0FwXzdydlBlMFZDeV9XS2lndUoyaFc1TE5DaXN6T09zTTJNSVgxZVRGbHdMS3dLZnJadlRLdlBDTzRwSlU4VUFwV09ZV2dLdk5LUHhzNHRNSjg?oc=5",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T23:50:45+00:00"
     },
@@ -1087,7 +1527,7 @@
       "title": "US stocks: Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction - The Business Times",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGRRc1diWF9PbGlBSzVkZFhYanh5TkVLbmVUb1dpbnBSYlUtRnJCSGtQMXJ5a0lMbzlMR0k3ZDdxeFRrVU1qVjdLSEw3QkdOSks5UjVMbGtOdUtmMmVldkx0dmxsQ3ZVWlRURXZCQ2ZHelktaW0wUTNFWUpteEE0dmdpRGt4blVmdHRvQTNMWlZ6NFg4Wl9MQzZvdWhXVndFU1MtUU5JLUlIb1VJQ2xyTE05WjJtdC1sOWtWcGdOWjVfUU4zRjJMcVR2M2RHNnFiRU1LN3FrVXAtSU5RZkxINWZnUUZRZw?oc=5",
       "source": "The Business Times",
-      "category": "stocks",
+      "category": "indices",
       "region": "Asia",
       "published": "2026-11-20T23:49:00+00:00"
     },
@@ -1103,9 +1543,17 @@
       "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam - CNBC",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5",
       "source": "CNBC",
-      "category": "stocks",
+      "category": "indices",
       "region": "US",
       "published": "2026-11-20T23:46:00+00:00"
+    },
+    {
+      "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1JKcTVtenMydzVVcXg3WkRIVnc3dlJVWTNxNVNMYndoSlZ3cEJDWXVWeXl2aEk3ek5oV3ozTVNQZDNTOGVxSW5qTGFla0dDMUZYajRXWU10ZVg4M2JPZzVkeG5MeHd3QWRpNXdaWHlvMEFqc2FkTjVLUERBOWloVmRZanByT0o1WkpWQ01JNW1tRkxVSEhGLWtheTF1enVzR0d2RGtXR2s2c0dWQ2U3LWVtWHpYTTdtLUUzZU9qei11bGs0Z3RDamJreDBvUl9JRWxHZTJBX3hiNkE?oc=5",
+      "source": "The Motley Fool",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-20T23:42:51+00:00"
     },
     {
       "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
@@ -1124,14 +1572,6 @@
       "published": "2026-11-20T23:40:12+00:00"
     },
     {
-      "title": "Goldman Sachs issues sobering verdict on S&P 500 year-end rally - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYVJrUVlvWm0wOFVOZVp2enp5M2JtbUp2VjY1aVRxakVSTWgtTWlCcjc4eEJsX3l0X3p1VmNmcEtFLU5PQkJwVlhSa2hGNExfSlNxMzV4al9PODk4aU1FcVBfQkZ0RkJCeW9RMXk5eUlNaWtvQUlyanpYUEppU210ODF5TDZFekRDOTYxSEhaTQ?oc=5",
-      "source": "Yahoo Finance Australia",
-      "category": "stocks",
-      "region": "Australia",
-      "published": "2026-11-20T23:33:00+00:00"
-    },
-    {
       "title": "Top Stock Market Highlights of the Week: Anthropic, Frasers Property and Asean Digital Payments - The Smart Investor",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1p0WGhHUWhBQTUwUFhQOFBFSnN0c0xlQ2p3TW5YMVZaT3RlTGxZWEdodFNkYWpZNmFHQTdRM3I5WE9zcWY3MVBNWXotekh2aVNoYjhZUERlRkRXNC1zenZXaHNlODRDUXVCeWd1SDVEdWgySTlvTWg2VHIwNEdSWV9Eb0hWQmRudnlraTBMa3d1blVIYmM4dTVfLXR4bFVIZjEyR3JiVlFGOFJQZG82bndibUV1OXVsekp4dXpCRUVDZUVW?oc=5",
       "source": "The Smart Investor",
@@ -1148,6 +1588,14 @@
       "published": "2026-11-20T23:16:36+00:00"
     },
     {
+      "title": "Oil Prices Fall Despite Hostilities as Flows Increase - Oil & Gas Journal",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2Y0TTZzX2tCSnFzQ1l4Q2toN2FyNHdWaVJSTEpUdWV1R2ppMk5IMEFfczBBM284c0YxX1RQVEdFZDk1N05xbjYtWlBzSlNxWVhlV2c4T1ZRRG9CaW1vSy1oTEZ5MExnMXlDUWpxQzB4b2ZjNjBjT1JGN3E0VHFtRlV6NlM0RVNMSVQ2WHVDeUREaHMyOTByYWRFNmZtM003UmhYc0ZTeC12akJSZFFIYmhRc2w2NkZkdkh0U3NoUlNHRzQ?oc=5",
+      "source": "Oil & Gas Journal",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T23:07:16+00:00"
+    },
+    {
       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
       "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
       "source": "CNBC",
@@ -1160,14 +1608,14 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFdEaEdLLUJySXhmbnVXWUZlc092MWREc1JDRlBnbk1wUklRWVRBWUIySjc2U1FPZlZPbU5CZDB6Um1ScXlpbEk5QXB5LUQ0OVlUVnlKOHotRUV6QzBhYXRKQjF5azRlYWQyU2VDUzdZOFhvUWZDUEdUN18wLWRuNHdNSnR3My1la0ZKb1JMeGhXbWI1NHd6NVVtOW9oOUlndklRN1JqazFrd1FOVlhpd1JCOUVHN05lTnlRRlBnTjdaOHFLU19OWg?oc=5",
       "source": "CNN",
       "category": "stocks",
-      "region": "UK",
+      "region": "US",
       "published": "2026-11-20T22:55:31+00:00"
     },
     {
       "title": "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report - Kitco",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWVLN2w5UTZadnN4a2JLYzRka3dZUlB2U3pzdm1SQTJQOHZmZU9KaVhyMjNKQTdnTm1yOUFIT2RHU0dpN19mYkJGYmVqZVhWNXctLTZ5MEhyempMTWFwZm1Yang3TlZMR1dPa2pPNGwwa0dqQlY0S2VpM0RqSEV4Y243VVZxTXJrZFByN1pva0M1T2FjSzlNOFpNdkdLQi1kOWVzSmwzM2xrV0p3VlV1NXBodw?oc=5",
       "source": "Kitco",
-      "category": "metals",
+      "category": "commodities",
       "region": "US",
       "published": "2026-11-20T22:53:30+00:00"
     },
@@ -1175,7 +1623,7 @@
       "title": "There are five trillion reasons not to give up on gold just yet - Kitco",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmVvLUV0T3haSzRmSUsxVEtmaTBVNDBZTE4wOFpEQ01pYmZzX1lwa2dxRmxFRzE1eThieXRrdW9Wd05QQXhUREZSb1RiNE02VkxUcEE3eXFFaUx5eFN2dThuLUhyWVNFT2V0OURvWXBSdmN1UjhzQnlCQlIyV0dUclpLQjVXanJ5VEpIdFNDSG0tTUtTQ0Z6c245TnluOFJ0X1E?oc=5",
       "source": "Kitco",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T22:53:08+00:00"
     },
@@ -1199,7 +1647,7 @@
       "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
       "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "source": "Seeking Alpha",
-      "category": "metals",
+      "category": "commodities",
       "region": "US",
       "published": "2026-11-20T22:50:24+00:00"
     },
@@ -1207,9 +1655,17 @@
       "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
       "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "category": "stocks",
+      "category": "indices",
       "region": "US",
       "published": "2026-11-20T22:46:00+00:00"
+    },
+    {
+      "title": "U.S. Stock Market Close: AI Trades Face Heavy Sell-Off, Nasdaq Plunges 5%, Philadelphia Semiconductor Index Drops Double Digits, NVIDIA Slides 14% - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3lhQ0ppYS1mN20xZVRHamxuUGhQQXF6cjQtODVBVENLUm1hQWZITy00aklwa2JJTjJPN3VHNVZBZHNDeGpSUkxYdTROQTF4VHdLR19DbmtGVElpTFo5aDl3T0o4cVpjTXI1VWlsRXJncHM4M3RfaUlTWWh3YUdiM1QtRzVkY3N1bTlfSmpjVG9rUmlZTU1zLVRfbw?oc=5",
+      "source": "Moomoo",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T22:45:38+00:00"
     },
     {
       "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
@@ -1247,7 +1703,7 @@
       "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
       "link": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
       "source": "Livemint Markets",
-      "category": "metals",
+      "category": "commodities",
       "region": "India",
       "published": "2026-11-20T22:39:19+00:00"
     },
@@ -1292,14 +1748,6 @@
       "published": "2026-11-20T22:35:39+00:00"
     },
     {
-      "title": "Tech leads global stocks rout, Treasury yields fall - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjlpWS1YQTlya1VJSTJGT0tCMHZjbzBEYVdsSGhqLWdlOVk3eF8yS003U0ptdW1EcGpqbWx0NnZWSC1Qck95NVlRcDhMN0w5cWg4V19JelZqaVNxRDA1VGVON205SVNQUFhaZ2YwM3g2dDVPdENpNUVKd05ubzFNQVFydHBPMnVURW9UY2VlYWh5SGdfaVR6dDRsWTVSUlNodGc?oc=5",
-      "source": "Yahoo Finance",
-      "category": "stocks",
-      "region": "Australia",
-      "published": "2026-11-20T22:33:44+00:00"
-    },
-    {
       "title": "Trump again urges Fed to lower interest rates - The Hill",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHJUSEpNa0JZMndrUTZhcTdiQjkzTUU0bkJqSmF5ZGNJYV8xSGozbjJTQ3FwUEpNUUdvd0JjYWJHMy1vRGI5YlNrUmNlUF9vNVFiYkRyT3YwWmdhRWlFMVl5bGVPcUcyeTNVRDNENzJlTVYwT3hWSHV0UUwybF9wZEFmQjE4LWc4OVBUVUx3SzJEREJmUXNhTU5ETTQ1Rl92dmFtQS1B0gGrAUFVX3lxTE5WbHZmMnMxbl9oRlU5S0JsbFFBVF9RaldTc1RfSmk1dEZRNEw3SEJhZkw0S19HQ1dfNlNiZjZ6T05UWDNYZ1BRMkNQRWhxWGt6U2JnRkZ2emQ0NmFfdWN5ZFdQdHV2NXhncWpJc05qWU1kQnJYSVBOM2NTeGRfWkE2TFduRWpWX1FmQ0pOSU1OOWkyUXpiNFFWWERBVnNJakdHUzM2VjR0VEhYYw?oc=5",
       "source": "The Hill",
@@ -1335,7 +1783,7 @@
       "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year - NPR",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTItLW1nemk2RldxTnZaZXhNdFV3SnR3VDF1OTZwR0VFNXpXdTY2QXhzS3NvQnItZU1UU0pPQU82TS1XeDJpWHhkUG02UWJ3TUpFNUlmTFVRYnkyTkhWRmJtT2o3QnJMQ2VOYlFVdG5BOC01RmctaHZXc0hRWGhTY0NJVlJYaEl3aGczUjVB?oc=5",
       "source": "NPR",
-      "category": "stocks",
+      "category": "indices",
       "region": "India",
       "published": "2026-11-20T22:11:29+00:00"
     },
@@ -1380,6 +1828,22 @@
       "published": "2026-11-20T22:03:12+00:00"
     },
     {
+      "title": "Weight of Weak Demand Sinks Natural Gas Cash Market - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPanJJZkYydExXLUdBaEpyUmlXdW5jamp4dDN1cGNucF9IS3JCTlRHQnZMUHI3Mkx6MmlCS3NqdUFxODFUWmxMMDQzOURtYkxpN2FOa1l3ZXJuQl8tN0ROZHV0bXBhRzRBWEZ0VWp5a0NOY3ZiUC1pZkJuLS1DSDlRNTdmM2NDOHFoUzVvYXNB?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T22:01:05+00:00"
+    },
+    {
+      "title": "Wall Street rout pushes S&P 500, Dow into correction - Honolulu Star-Advertiser",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWt0LWstT2dMYk1hN0VXNml5WHEwczViQUphM0lhLXlNUnE0QjNKS2JEQWU1cTlIeVFkNHJuNTRBdWN2d0xnTmVlMm1tbzlzOWd0RXppTFdUeDZEZVhwNUJ1R1BEckxqV0NoNU9yNkhwRkthdnVDNFFPX2Z1RDh5YWNwelBtcDVaRThZeWZNVkhpb2pmelducC1xQkhhQUQyZTRDblBFYjVicWc?oc=5",
+      "source": "Honolulu Star-Advertiser",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T22:00:27+00:00"
+    },
+    {
       "title": "Malaysia leads Southeast Asia’s IPO race, but analysts warn post-listing performance is the real test - CNA",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qT25BX0xoc0RMVkZodnF2TEFfMDFQUzZGM3U0UDVNbUhzLTdnNFp3Nk5KTGVxMTFaS0JnSTJ6QjAzOFZZX3ZmVy1JV2FiQ01MYVg4b043SjNMeEdtWVRoblFUN1ZhanJFRF9rb1puMlVPUEdTRkRoeERB?oc=5",
       "source": "CNA",
@@ -1404,6 +1868,14 @@
       "published": "2026-11-20T21:58:00+00:00"
     },
     {
+      "title": "US Bond market: Why is benchmark 10-year Treasury yield witnessing biggest weekly drop since early April 2 - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOLTZOc2Y1ckZkbFZCY1ByZFFLNFdvV2JfOV9QZDdGT2pTajRwUTROWkNWNUt0TmtPWEZCZVdsWEhJVG82b1FTOHRNV1o4UjF0d0gtZzJQVFhrRC1QYTJqZjFQWFU1VWloSWo2cWp0MDVNRjQ4cTFvUjlpWUxINDZHOWN5UjNKcW5BTWoyRGxtWVJMbUh5VFV0clVWX1A4M1BJV016U3JaajUxWml6eG5aT0RabFhyRmdsdFVqV1pBRVFnVkRhQ2l0SUJUZURaN21MbXZYTGNwQlZaNmdtaUcybkdUVHY5ZkRNcktPNzR4bUQxa3ZLLXhWdzk2V3pzQ053N3JCUzkwVkNCT29qb1VEck5TYjhoUE5IQkxHOU1Vb0JNZDVLVnFFSEpOZ3ZQNkdxMWxZd9IBugJBVV95cUxPR0NDRkpxeHFXdkRJeVRLWVFIWlJIRGZXVTdteDJoeEZQRFRVVDl2WlFJbmUtMXZ6bU52cU1Ya1R3VXFleFVkOFhDUW1QX1l1VzlRLWxpbHBhTXo1a3h5VktEM0Rvc21MU3ZOcWoybDF6djNIZEVxazdCMG1fQ1luenNGMUQ5Q3FpTzA4Mk1tWldWNTdzR3NnZnNyLVpuM01QTlJmV0M0NzNlTWlQcnhpejZic3VCN3AxY0tQT2lyNjA5bnNobXRSVFRGRERDV21uSUdsTVVXaUlkTEVFVVltSzdRRl9jOTBUVXBOeWFualpST3RYbjFGb0J2Snp0XzRqbVpfc3BsWEtXeUNMNmFWdlpUeklic21LTmVUWktuWFoxNGdkdkJmMVdYVnRWOW95NWZpRUE2a2hUZw?oc=5",
+      "source": "The Economic Times",
+      "category": "other",
+      "region": "Global",
+      "published": "2026-11-20T21:57:31+00:00"
+    },
+    {
       "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
       "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -1420,12 +1892,44 @@
       "published": "2026-11-20T21:52:25+00:00"
     },
     {
+      "title": "Market Wrap: Stocks Lose 8.51% as Technology and Basic Materials Fall - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJJdDY5RnV2X0RxcXpCTmFEOVZXcm9tdnFLOGpSaGVEUUtOX2l1dU0tOUdVSmdOc3VkbFhVMTZuOWgydWRyMlY4V2x2QnBvUkVRSXVZc3JzT3RnUUxaSm5BZU81VmVQenh6aWJoeFlJQ0xxMlVWc2xzck45SHdTRVVBeHhGSEhVNlFpMEx0Zm1yQmpYQ0FwVTlqbw?oc=5",
+      "source": "Morningstar",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-20T21:51:50+00:00"
+    },
+    {
+      "title": "Oil Futures Fall for Third Straight Week on Supply Outlook - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5",
+      "source": "WSJ",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T21:51:03+00:00"
+    },
+    {
       "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
       "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
       "source": "The Guardian Business",
       "category": "stocks",
       "region": "UK",
       "published": "2026-11-20T21:47:41+00:00"
+    },
+    {
+      "title": "Nasdaq wipes out 2026 gains, TSX, Dow and S&P 500 fall into correction territory - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QbmRPWjN5dEh4eGkwYXcwdkZRVmFZZjZiTWJqeTZ3cGJJcXdER1pqVDJobUV3R09wT0dQd0hWTlYtVGtpc0wwNnRiSkxOc0FuSHZQRkFYN3FTRmdDU21mUEtZYms5NGktX3o3UzVPMS1QTmJfcTlscWxn?oc=5",
+      "source": "CBC",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T21:45:46+00:00"
+    },
+    {
+      "title": "If I Could Tell All S&P 500 Investors Just 1 Thing Right Now, It's This - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUndWek82WDVTNFNSNDMzY1NRNFNHMFhMWE9PSE9aOGx1U3lndmpOV1djMl9qV3dNMUxZWjR4cDA1T2xDdTJjdmFvcHpCY3MyUTIwSzFHVEdFMHFvZEhabkVfMGpaWFEzeC1ocUx5cS1nUmFfUmxLX3hLbWNXZm5CbVdaMXM1eVRUc1Y5SXRrejFhZmhSZ3dN?oc=5",
+      "source": "The Motley Fool",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T21:45:00+00:00"
     },
     {
       "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
@@ -1472,7 +1976,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTk1MEVuRzZfdUVPMG9Mc3c4VFlvRUJRTGl0WUxTWVFOUG41LWJwWTFsbnNwcnktNjh5VE9IMUdLbHRuRnlEbUFZNlUyZGgxMG5admdobWx6R3VBU2VCb3BBczlUZU9sdmctenh6c2laaUpWSzYzWTBHaUh6UWhSWmVmOTRnRWdoVDM2MjRoWkM0LXU4cmc?oc=5",
       "source": "NBC News",
       "category": "stocks",
-      "region": "Australia",
+      "region": "US",
       "published": "2026-11-20T21:37:26+00:00"
     },
     {
@@ -1511,8 +2015,16 @@
       "title": "Niron Magnetics to build $1.8 billion manufacturing plant in Alabama",
       "link": "https://www.mining.com/niron-magnetics-to-build-1-8-billion-manufacturing-plant-in-alabama/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
+      "published": "2026-11-20T21:31:00+00:00"
+    },
+    {
+      "title": "Anthropic slides as Wall Street plunges into correction - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDFYV0twVFVvaWdDQWlOLWpOeEMwNWp1eUJoSnBkVFQwcHQyMWdhVG51OWRDNnd5LU9Za09oT1RpMDFHOFBsQzZ5dlp2U3YwVTctMzc4UXhhR1M4b3M4YlRWMnJDcmZWLVhGN0JadExPNVhBNktnZVA1dzZaRzZSeHBGRWttcWY4Mm5jb3lhSFZiS2ltYVdFWVlNdXlJLUFXZFp2WVgxd01pakliV0M1ZV9xd0l2OVhE?oc=5",
+      "source": "AFR",
+      "category": "stocks",
+      "region": "Australia",
       "published": "2026-11-20T21:31:00+00:00"
     },
     {
@@ -1524,14 +2036,6 @@
       "published": "2026-11-20T21:30:48+00:00"
     },
     {
-      "title": "US Stock Futures Dip as Anthropic Premiere Disappoints Investors - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnpNdWkxZGxrTWo0cjVOSUZNOHVscTlNcG5FdEdpZElURkFoUkRJcFp5VjB6NklrbG1NcjVjNmlEOG5yMlRpU2RJbGViSHVBZUIwZlgwcHp2eGQyVjhhRWtoRk1UWU5sOUM2cW5iZloyOVhtNHFBNi1DTmpYRE1KMGtPb0dDVVgyX1ZXT0VzcHFsa25YSE5xNFNmc2tPZzBCVVc1aHc3c2pjUG1DOE15MktCVV80dw?oc=5",
-      "source": "Bloomberg.com",
-      "category": "stocks",
-      "region": "Asia",
-      "published": "2026-11-20T21:30:39+00:00"
-    },
-    {
       "title": "Just 2.5% of recent Bitcoin buyers’ exchange deposits were in profit",
       "link": "https://cryptoslate.com/just-2-5-of-recent-bitcoin-buyers-exchange-deposits-were-in-profit/",
       "source": "CryptoSlate",
@@ -1540,10 +2044,18 @@
       "published": "2026-11-20T21:30:25+00:00"
     },
     {
+      "title": "Bitcoin sinks to lowest level since July, crypto stocks diverge - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnMtbWNrblRTdGh1cDQxMFJaYUZWa1NOeWlLOFJTNmVESkQyV2tlUVZTTnNGc283OHNhRzNKT3ZzeWlpMHhLX1gxQVFSQ2xRVXlKSlAwb2g5WmRkN0k4b24tZGN0TGJLY1hSeXpGbTI5UWMya2pZMXRDak5MdldVaGhoT2s1UU12ZmI2cWZ3eUtMRnlnTHFZNE5QTTItSUU5X29nZFlRUEU?oc=5",
+      "source": "CNBC",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T21:28:58+00:00"
+    },
+    {
       "title": "Gold and silver could return to mid-2025 levels as inflation-hedge bid evaporates – SIA’s Cieszynski - Kitco",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3ZMcmk4MjJQRmowMV9QcmJ2SVhYUkh1dkR5dl9wUnRUVHFhSzlMV3czMktCNjM3ck9wTVU4Yzg3Ri1hdjRGVlZTaENhZnM1R3JjZVRtSkVGNE5Ra1lZM3pSb1FpNVdIdVNqVmJTQUU0Z2dqZzU1TlphX0h3eTFVZVJFYjJUb3JfM0VZZ0ZtX2k0NjBWbFd6SWU0ME14ek5HZ0UxdmMyWkp4el9ybU15dDlqRWFObXYyUXIzVHJn?oc=5",
       "source": "Kitco",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T21:26:44+00:00"
     },
@@ -1554,6 +2066,14 @@
       "category": "stocks",
       "region": "US",
       "published": "2026-11-20T21:25:00+00:00"
+    },
+    {
+      "title": "Trump’s Misguided Claim That ‘They’ Waited to Lower Gas Prices Until After the Midterms - FactCheck.org",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTJGaWFtVVRKdkwzZDJ2aXpBaHNsSnNhbzdWcEgwZWtUaG0xeFNBcE9aSi1BN3A5LUVudlZlb2h3QmQ5Si1XaHJxMk1JOXgzR1FjYU5zSmJNMnE2a3RvSlc2ZnpWZlVyZ3BJUFlqeER5cC1mNmhHemh1RzlMSjhVVnFmbWNuY18tT3libFdJbllEZTFIalNHbm9wVU5ISzdoWXphNWk0eWlmMkJjVFBzUFNGc3dHTGthcUhz?oc=5",
+      "source": "FactCheck.org",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T21:24:01+00:00"
     },
     {
       "title": "Meta’s AI agents ran over 1,000 experiments in a month but improved search by just 0.23%",
@@ -1567,9 +2087,17 @@
       "title": "Gold and silver suffer brutal losses as liquidity crunch deepens, but analysts see signs of a bottom - Kitco",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS25YaVZ3dVV0VzFmRWhLb01OcFRxLVItNmNFb2NYZ0JPMGtLMlNuYkZELTE3QS1tNzlWUUJ3cFV1Vjg2YUVvTnI4NU1vLUVlcmt1SWlEQ0ZOa2NUbnc3OFlqMVdHZUgyYjFQajVRVE5QMXNoOGtsOE13c2NLU2haQ1N5ZTRaNExmd1dJVE5OclF2dTBWazhYR2VucnRnWkFnM2tld3V5RDJzSk9aTTJKZENYRFpYdUlsblJHdw?oc=5",
       "source": "Kitco",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T21:13:14+00:00"
+    },
+    {
+      "title": "Nasdaq Dives 1,261 Points as Anthropic, AI Stocks Sink: Stock Market Today - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWhGeXFsSkV5NEhYT045N1VyUXFpLWVoOVdkRm9rNHhZMkMzRFZzSDUxRmlXc0FQRDBjX0lRbzdzX1A0U1ZWcTFOUHZoR0g5S2g2WERIaTdPcTB0YUJQQkwzX3QwdUtoZXZXUjZQRmJLajM3blI2R3YyTzVEVjVHc3FMVTR1UDlYaDl2VjJDVlVyOXppRncwenZHaEo4UktycF9fQ1g0SlVjRkR0MDFfRlR0QnNQUQ?oc=5",
+      "source": "Kiplinger",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T21:12:15+00:00"
     },
     {
       "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -1607,7 +2135,7 @@
       "title": "Gold Price Today: Gold Falls 2.33% on November 20, 2026 - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUtnZGVIdmJYekQ1VmF3aWRJREx5aGNEcVpiOEhNc3U5bFNHeUd5eGl4MV9iZXI0dEdhd0tRTV91WkpQdzA0ZVlZVDc5LXViZlZnVXFJczhnTFBmYTZ2QUxiTDhyWXpQRk1wbUZ6aUlKN0xJeDFYUERyeFJ4T3FvSzVfb2twZEg3bjRYTmtOZXV4U2xRVmNEUHc1Z0N3d21zaUx3?oc=5",
       "source": "USA Today",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T21:04:00+00:00"
     },
@@ -1620,12 +2148,28 @@
       "published": "2026-11-20T21:02:00+00:00"
     },
     {
+      "title": "This VIX Signal Is Bullish For The S&P 500 - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbWpLbV83dXhiZTE0dklWV3dKMkZTUGdHR2JFNWpjN1dMeUJQbGk3TTdIUXF4N19aVDBfbkpYbkJtd1RFMlRTdE50VHI4SmdkdzQ0OGRwVFdQRHEtWXpEX2doTFE3SGp4NTFZYlFMS1YtZjQwVkJkMndoTGhLTVZ3U3pNYlQ4bHVP?oc=5",
+      "source": "Investor's Business Daily",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T21:01:00+00:00"
+    },
+    {
       "title": "Gold and silver prices fall again: How much lower could they go? - Kitco",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkh2d29XWFItYzI5aWhZeTZuZmNTMFJoaGYzQy02MHQxR1Iwc0RCelhrUGZaYkNYSEs2NDNsLVJqU3ZoeW9ndWxxeWdnamxDak5GbE1YX2hNM2lZNVlQQU52QkF5X0V1eDF3eVI4d2ZVdk1yWFNiMTNMT1B3RjFuSlpQaXhhZlVBbmd0SlpPdDZ3RF9VMTBDdDJQN0d3OVFEbG1VZ2hn?oc=5",
       "source": "Kitco",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T21:00:25+00:00"
+    },
+    {
+      "title": "DAILY OIL PRICE: November 20, 2026 - Odessa American",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VVGN3YUpHRlUzTkpaeEZndFRxQW5ERDJqdWo3X0ZIa2dpbjN0WnhuaFF0cFUtS0FVU3dpN0lFQkxLaENVSDhKT1NFUzIxRUdrdjBsY0sydmRkZmFhOUdlWGpyc3duQ1dxUE8zT0V3RmRqalU?oc=5",
+      "source": "Odessa American",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T20:55:01+00:00"
     },
     {
       "title": "Trump says he still has confidence in Lutnick",
@@ -1671,7 +2215,7 @@
       "title": "ElementUSA, Geophysx partner to advance Jamaica’s critical minerals sector",
       "link": "https://www.mining.com/elementusa-geophysx-partner-to-advance-jamaicas-critical-minerals-sector/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T20:41:07+00:00"
     },
@@ -1695,7 +2239,7 @@
       "title": "Stop guessing the bottom in the silver price. Watch these 6 signs instead - Kitco",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3VrYmgzMllJUnB2T3JXRUphR0swN281MmFWZDh3Y1RpT3BDOVVpMWdWaE54a0w5eUJnT2J6amdDN1RaaXZQbmF0c0lBT29uN3owZ3Y4SVBKWFYwNlNvcHgxWjB5UHFKYTNWNFhtWTEya3U4cm9zZDAzODhIWnZ2cVVoMzdFc0s4ZENibHBFbWdZdEhWQ0ZDSVlXLUlkVzF6NkVKNg?oc=5",
       "source": "Kitco",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T20:23:02+00:00"
     },
@@ -1706,6 +2250,14 @@
       "category": "stocks",
       "region": "UK",
       "published": "2026-11-20T20:19:49+00:00"
+    },
+    {
+      "title": "Natural Gas Bulls Gobble Up Early Losses - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZld5SUJxb1JmQmh2WkZwakJhbGYyUXZNdk1QbW5tVWNhRmlKRHpha2VpZFB5UFNVOHJ2ZEdtY3preGhLd1B6cEl1R1l2NjhmOFhJT1QzSDJsdkhyeFl5SWx3M1lrWmlobGd4UFlOQzhzMC1oeUcwN1l4ZUJMMDA?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T20:19:44+00:00"
     },
     {
       "title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
@@ -1732,10 +2284,18 @@
       "published": "2026-11-20T20:15:20+00:00"
     },
     {
+      "title": "Nat-Gas Prices Rebound on Colder US Weather Forecasts - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekZSWldsVTVGWlJwNUhPSkZhVEdUM281WVl4cWQyREYybDVaV2FHcDRkTEkwRUZOYkNUTUZ4WmlDNUFtQllGVThNeGdWUW8zZW95Y2l6WklTd2JMUzFqTjN1Y2poY1V5SDBUM2hLM2xBZE5OdG0wQzJtdHBLbDFJNzdjc0IwQkJfMEotWlpiSGpuSGtQSzdBOXdTNElDZw?oc=5",
+      "source": "Barchart.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T20:12:31+00:00"
+    },
+    {
       "title": "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading’s Lusk - Kitco",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1gxakxUOS1VZGh6VUEwdDhhdDAySkdGT3JQU2pUMnVXN2RiNFRHV3g1MEtsaEtfQUVVNGNPRnJTSVJiSGdVTmRFVVVGLTZhcG1jenZPb2JKYWtweUltNi1fLWlFSXVlVWFPNEU2aHlPSkNkUFQyaDEyZlAwVy1waVFZY0dtSGtGTUVUOWw4eUFTRTJ5RENUVUw4Qk9nMFJKbGNTamNHU3F6NDEydHZHU3RLMUhXb2NGd2Jz?oc=5",
       "source": "Kitco",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T20:12:13+00:00"
     },
@@ -1751,7 +2311,7 @@
       "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
       "link": "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html",
       "source": "Livemint Markets",
-      "category": "stocks",
+      "category": "fx",
       "region": "India",
       "published": "2026-11-20T20:09:14+00:00"
     },
@@ -1776,8 +2336,24 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkFoUUdXVC1CdkFEZ1ZNcEFDc1lxV3lFMWh0OEs2bXlucmpfbGk5bUNzTExEWldMLWxiTFRNS0dFYVVLdE00Z2RPYWhuNldBY0pNeG1NNkN0bnZDVU1uQ0JNdDVITkVFczV2clNtUkZ1M3dETk9jZS1LLTAxcFEwRHd5aHZkbFVjZFJnZ0c5UEFXVzRCams3OTNXQ3ZjYnBD?oc=5",
       "source": "Yahoo Finance",
       "category": "stocks",
-      "region": "Australia",
+      "region": "US",
       "published": "2026-11-20T20:03:48+00:00"
+    },
+    {
+      "title": "Why is Ethereum price down 9% today? - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDkxU2RpRzdkWnFhVnJiUFpJZVBNWllqYThlM0FXZjFXYVlRaFQwR3BuR0x5OU91X251TmEtU2dLR2RQbFNxOUpVQk5fc0lWc084ZWhVRWVBSEtZZVdVem4yandYNDRWT2tPb0JURG5RbGpsSnFCTjFXam93Sl9MMHNMQXdkT3EzNzhFOE9idjdseXdqWk4wQml4Qzh4NHhzNXBoV2h0VQ?oc=5",
+      "source": "Traders Union",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T20:02:33+00:00"
+    },
+    {
+      "title": "Florida Natural Gas Premium Nearly Vanishes as Flooding Rain Drenches Atlantic Coast - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkMxSWx2MTB3aXlQc3N0TXNYalZfVVdnSFJOSXI2a00xNmY1V3pLVlZ3dGtlMGZuY1FWLW9fWmFQa3p5OWxTUV9LZTZiUEdEUkFuWmpPTmVMOWhKLU96SXJwN1BUZV9HdlprTUZhNzJUelBSendxU1otNG1Lb3FWdlR4X0t6ZUxwakFPVWhfMXd6VHdsUkdHaDVrVjVQUkx3MndIQ1Z5eHMwTkpDX1ZzajZGRk5ta09aaFE?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T20:01:00+00:00"
     },
     {
       "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
@@ -1836,6 +2412,14 @@
       "published": "2026-11-20T19:36:03+00:00"
     },
     {
+      "title": "'Very interesting': Trump suggests recent gas price drops are linked to the election - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1d4Zl9tcXVIQmFzc05kRnVaQnpfdFVCU3JqUWRsYV9NcXRyMk41c21UOE1abjV4TFFBWlhWQUZwVTRmZDVLX29aQURDX0lWckIzcjZZX2Q2TjI3WVZmblBERWwzdmtsbEUwamE5R3pwLUZwa04tRjRHRnhLdm1kbnpqNFZlTFpsSHBCdnUtbVYtdXdDUk50SmpTSXVBWnByWElIeEJPUnlFT2JqanhHWC00WUpEUy1DUzlXczdSTEN3dnlMTzE0clAtdmFhT0VOZGxV?oc=5",
+      "source": "Yahoo Finance",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T19:34:49+00:00"
+    },
+    {
       "title": "A massive bearish trade just happened in the chip stocks",
       "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
       "source": "CNBC",
@@ -1860,12 +2444,28 @@
       "published": "2026-11-20T19:24:55+00:00"
     },
     {
+      "title": "Ethereum Falls 10% In Rout - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUFzYzVRV3VySTdremJrcGNqZmplLXhPMlgxNFUzZ3BUOS1CTzBXYm5PSXlCNTJlNy1qZnRLQUNGRnl1SE5CbDVwdVdqeWw3ZkFRejFfY0dKTVpZbThzei1pXzdHNlpkM3A0WTZHQ04xenlnR1BXZm11Y21UTGU5XzZoY0RCdDRoMlMzSQ?oc=5",
+      "source": "Investing.com",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T19:24:13+00:00"
+    },
+    {
       "title": "Look at India: Trump slams US central bank for high interest rates - India Today",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUdnY2dZNHp0QWRNVmtId1Q2TnRTcFZqS2RWWEg3QnlLVkRzRXVsdFNTTnphN3o1VjZRSFNkWWJiVXdZdTlGUGNPUnQwNmFiREg4VlBOa0ltUmd3TWdTZ2wzUFNTaW9xRGZXRml4WXZxVnc3VV9xQTAzMm1qbEE4OVF2TDY3akVVV2xld01QQXVQdVk5OXJWeHVYczhVNzV1QUtHV3VOTFdfblNteDhNSy1oT2pCeUpzbEVUM0U0ZTR2c0l2V2d2Nk45YWYwbUHSAdQBQVVfeXFMTVlKeFd1clEyMVpzMHozRWNfRFZod0I1SHdPdjEweVE3UFFPMUF2cUJTRm5xMGV5ck1hVUZNUVJpVEVqd2NvOEhmVnFoZl9QWTE3Z010d05xaDFRWkVrdVk4M1NKLW5DRlA3dW5zX3JOME4xdU1FeUt6Z0UxVFRjalZUUDB1UmZ4S1VTeFAzQnNqT3BySEVKWFE0aGNrcjd2ZXllWHh3TElLQmd1Z1NQQU1ZQ2lZLTl0SE9YU3Nudm5JM1VnNW5yblQwTlFsaG1lSEppZE4?oc=5",
       "source": "India Today",
       "category": "stocks",
       "region": "Global",
       "published": "2026-11-20T19:20:06+00:00"
+    },
+    {
+      "title": "Canadian Natural Gas Storage Near Record Highs as Mild November Curbs Heating Demand - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTkzX2xfMXBjbUcydDVOTTE4Q2dQNTlPZ0ZwRERQY1VYRVJEbHZCb3JDOEJlbTNqR0Y3eUxYUDlmb29MclVUZGFVVEVjMGhpQlI4eE5iT1N3RzFLQnhfZFJrTmsyWThUYzVqcDBsN0dSaDFySVlyVEhsdkx4U0ZVd05ZSTMyTm1KV19JT250Y3hRVHVxMmxTQ2dSQVVCMGFhMjBWYjNXZ0RxQi1Uclp0RkhWb085QVN3T3c?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T19:18:34+00:00"
     },
     {
       "title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
@@ -1887,7 +2487,7 @@
       "title": "Fund Selling Drives Copper to Seven-Month Low as Premiums Hit Records - Crux Investor",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTW5ybVVlNmFxWGlLbnl1ejhyYThPQ0x2cTliVzZHczFVQl9ZS1dCalpRdXRyMDhOYmVSLURLZ0VWN19NVUN3VEFXUmhtSjl3NVp6S3VUbVZPMEs5ZWZaOWstb2xiV29LaVhVeG40bHA5djlxeUtMdnpnOUR0cjlBZjZBR3dWR2VFM2Mtb2FCMmI4RlJDYlZRbVl5MTM4SWIzVEZiU2FRVQ?oc=5",
       "source": "Crux Investor",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T19:08:49+00:00"
     },
@@ -1900,12 +2500,44 @@
       "published": "2026-11-20T19:08:00+00:00"
     },
     {
+      "title": "The Nasdaq is red for the year after Anthropic IPO fails to spark a turnaround - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXhhR1BzNjZtTS1TVTRoa0U5OW8wZHVmRW92SEVfQ1c0Sm1kRGFwWHJGR05Eb2wwSlFUYjZFelNoZXpQVk9PeElhWlNybE5QNlJNdm9pQmxQSVFGbW1JRXI1eDQ0UTZwZ0tmcXptTDdTamtlQV92UUt0ZExubjNBZGk5Vk8xYWp3TkpTd09jbjdsTGZuanRpNHFuR3F4YTQwTHRTbTZDX18?oc=5",
+      "source": "Business Insider",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T19:04:00+00:00"
+    },
+    {
+      "title": "US Data Center Boom Faces a New Political Reality - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzl6RnJmdkY3c284a25Va2dLYlRsWDZ1SUY0SktIaEh1elZ3VzM3TkJ4ZUk5LURDNzg3bHZWWVdQRG1zaW5sRzlHeF9uaUxHTnJaM1U2elhwLVM2N2dHUEpvbXZsRFRCMzN3Qm5kUEFidmFTdzV2aWN3QmtXRm40TklUeDlZSnZGTGFFVFhUWi1paFk3bWJ0Nkg5NEo4Z9IBowFBVV95cUxPWW5Qa0R4dTVCWkJadGU0MXpDR28wYmtPVnM5NjhwaFEtRHBDOVNzT0xPUzRJZFpoYzNSWGZiN2JuYy1wanlfaXdxMTd6VVNlMzdvRWZnMTJ3MHRQanZlWDcyVU1CRDV3QXM0Z29yYklIQU50WEVBRlJ1MGdPTVYwelBZQlVwUHFCdzlNSFRiVXdCMEhHQTBGZ2N1VENZN24yRnZN?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T19:00:00+00:00"
+    },
+    {
       "title": "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
       "link": "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html",
       "source": "Livemint Markets",
       "category": "stocks",
       "region": "India",
       "published": "2026-11-20T18:58:20+00:00"
+    },
+    {
+      "title": "US LNG Gains in Poland as Orlen Explores Supply to Slovakia, Hungary - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEdlQjFEVjRFYUpsNXM3Nm44WEtpRFp4aVVMNWZ1dmZxN05PSHZMLXdrTllydnNacjR6X0d5OXI1V2JvVnQyblptUlNTY0RKemlEb0xNWHYwb2tac3dfd0V5bmxlR3cwaWQ5ckZ0MUxuXzFhcnNoWDRPRXNJc0EtRFk5RVpoSjRNekhpY1Fnb21mU1MzY0ZYTGlYb1E4SlVTT2lJ?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T18:56:00+00:00"
+    },
+    {
+      "title": "Tom Lee Says the Anthropic IPO Looks Like SpaceX: What Ethereum Did Back Then - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOelNkNlJ2YkhtTDYyU0UxZlRtMTZwc1lUSU1Pa0ZZQy02LTAwazhJSmp1NmVkT0xKekVPZzFUa2pQdHdxbDJsZE5ocTlSSUxMSGZaNXBuMHFJU1h6c0ZtSzJ3WllZRFhVRXFTcmhtaExJSzcxRHdjZDhHZ3dlOUhNVElQYzJRbERzMTJDOFUyNUoxdnhPVVI3U2NjT05JZVBadUFONmhsNXpWR1FsRV9zNHhJQWc5MDhFYlhMb3BRSkxXWWNrQllTLUJITUlKTmhW?oc=5",
+      "source": "24/7 Wall St.",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T18:53:00+00:00"
     },
     {
       "title": "Morgan Stanley Ends Anthropic Stock Support After Just One Day",
@@ -1927,7 +2559,7 @@
       "title": "Copper Sinks to Seven-Month Low as Investors Unwind AI Bets - Investing News Network",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kYUZ5ZTVvUDMwcmhVbVIxa3RGZDhxVlBsNk8wLTg4a0pWTEJtT0E5MHlDZWZJb1FzWWs4eGFKczhqYkNzakY2aHMydXhQUEwtUzZ4RDNlYlZxRklFeDh1Y1ViSG5ndw?oc=5",
       "source": "Investing News Network",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T18:44:00+00:00"
     },
@@ -1948,10 +2580,18 @@
       "published": "2026-11-20T18:35:00+00:00"
     },
     {
+      "title": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUE81dExBWFVGZUlfbWh5VnhGbjZrY0J1THdnb0JBbjJINUhvLUxNYmt1ZG1ZcG5ZRXVmRWZCR0ZyazRDTUdac2FKeG9qMjJ2eVFuaVFKV3NmeEhfbmpTV05RZ2YxY1ZJTVcxRlRUUXNZM1RKcjFrNlpPN0JiX2dqekx3MFhYbFBLZXJ1V2Z6SDBpZ3dmaW03dkd1a2hTdVBHMkxZNFFVWEhJM3hETVdPV3AwUFE5QdIBuwFBVV95cUxQU2lqNFZId1BoZldvTjZDN3VjTEJBdmZWMGo5ZTNZU0NLVXpNTWtfU1I5aVBvTE5PMkU5WDJKd1FYVGRodm5EWUNOQ2ZNNjc0WnBWSVRmdEdmb0JvUWZPN2xXQklPLU56WUp5V0thZzlib3pWNElveW5XTkVqel9mMkcwd2VyeGNZR195cGhjLWhYelNzQm1mak15UGt2ZVZBR2xaUU5iMkphdlB4R3dKdVExeDJzS2xoVm0w?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T18:30:00+00:00"
+    },
+    {
       "title": "Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONHFkYW9abjlUcHNuc0xTR2JMOVlORUJqUGg2U0VBX1ROUUw4Tkdob19rQlJib3paR0NoUlZ1a0E2UHdZN3ltTFJSUnlSQ3dWVlVfNTBsaXg3Zm9RcmdRR2lmVmhKY05fNWMzOHVMbWRSLXl4QU9FZmNWVnF0QTF0MU15amhfTVdMOThWbm1sVTJqU3NFb1F4VlM3aV9rUXUyeXBHa2JtbWZxTTRBQnVqcEV1eUxoQQ?oc=5",
       "source": "Bloomberg.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T18:28:33+00:00"
     },
@@ -1988,6 +2628,14 @@
       "published": "2026-11-20T18:17:39+00:00"
     },
     {
+      "title": "Anthropic retail traders face losses as shares dive 13% the day after debut - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnI5ZjRqcHhFQXkycDMySHZ1Tkl4V2RKdzNIcTlPdFhCMlJhZEkzX2RSZ0F0cjgteE9RX3JQejRRWHV6RnMtdXA3b3RKczRka0dxSEsyZU5SNFhUbTRZMU00NTVOdXE4RTI0OURfdE41aGIzc2N3ZnpsRFBxNkdsOUYzOGFnNEFGVkppNTVlTkR0OUstdU5jZWwyRUtOWGxVeEJBMWpiZ3FWRzVDdG8tUG1va3VWS2U0a3pWcg?oc=5",
+      "source": "Reuters",
+      "category": "stocks",
+      "region": "Australia",
+      "published": "2026-11-20T18:16:23+00:00"
+    },
+    {
       "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
       "link": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
       "source": "Decrypt",
@@ -2016,7 +2664,7 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRKV3BfU3ZHQ2s5SUFweDJXRXdvdHdiaHA5R2ZjQXZzS3JpTG1ieXYwbXR1NGl0bWw0cTY5c1RMUmpseFZaTHlfVnFyWEYxd2RBY3NwNldRdDg5RU5mZWUxWl9xellrX1NUamN3MzF4dkwzYkNXcFdDdkhob3BoaFZITjM2eThQSzVvNlBXWndWREVpT0NWb2FJLU9WZzFJTnNPSUhUWGVuTW1nVmd2Z2tiWmZYVEhnX3VnYzY5ZXh2UWRoYXAweWR3?oc=5",
       "source": "CoinDesk",
       "category": "crypto",
-      "region": "Global",
+      "region": "Asia",
       "published": "2026-11-20T18:13:52+00:00"
     },
     {
@@ -2026,6 +2674,14 @@
       "category": "stocks",
       "region": "UK",
       "published": "2026-11-20T18:13:24+00:00"
+    },
+    {
+      "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmVscEdxa2JzSzZQUzk0N1RMQi1odzBVTGNkNXNvRUE5XzNqeUhEbU1KOGcwVGJxai15SHNQazAtX0x4YURhNmRCOWpRUjRlWlc5TUkxWkFncWdDeXhqVjZhVmR6R2VrWE54cWxlUDctVlIzY2pRaVo2cS1rZUdkeXU4YUgxWVFyUmdVSnFTREdLUEhVUllwa04tVXU0UF84SlU3Z09OWdIBrAFBVV95cUxOYi03NFNEWVdpeVJzcmRiNXdWQUluamtMX3pzTi1SaXQyTG5lMkwxbXhLNlBDdnBGcmQ1NlZzLVlfVjZDSU9FaVhZamNmb2JDbU0zc1k2TmNqR3I3MVdHOFhEenFhcC1Lb2Jqa0p1Y1lreEwweUM0Q0FRbmZpdHFENnV5SzJkWThrZDdQX0Zod2V0emNFNUU5c0tNSmgyMFBuTlZFc3c5cE1udnAt?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T18:09:09+00:00"
     },
     {
       "title": "Dell Stock Plunges 10% in the AI Selloff and Heads for Its Worst Month Since Its 2018 Return to the Stock Market. Earnings Are Tuesday - 24/7 Wall St.",
@@ -2060,14 +2716,6 @@
       "published": "2026-11-20T18:00:00+00:00"
     },
     {
-      "title": "The ripple effects of AI wealth - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16d3JiSXF2MXAwV1E5NmNMdWl4Nm9rMHRVWjVzNERwMjNOS0syNnA4dlZNLU5YQW1uUF9KdUVxMEpLMDdFVHVUUDkwR2hIVGtna0tncmJhRjFXb2NjdnVrRW5Fcjk5NC1iaXVxMkZCb1VBQXM?oc=5",
-      "source": "Axios",
-      "category": "crypto",
-      "region": "US",
-      "published": "2026-11-20T17:56:47+00:00"
-    },
-    {
       "title": "European shares post worst week in over a year as AI trade unravels - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTRUN3RabW5hOWVFMWhrajEweXFyWWRURWthSmRXYlVrTF9jcGJyRGFoQ0xyZzlpeXNBWkJqTU9UaDAySmluOU5FZkd5eTZ2R0pZT1dIODdaQktHX1BrVGlhVUZjVjhUb20zZnYyY19yTWNCdVppTmJTQmREaUktRXhJXzdkMGdCT0YtYlplSGxOR2NVb2xrRHdyWW44QlBHV0R3dk1kOA?oc=5",
       "source": "Reuters",
@@ -2079,7 +2727,7 @@
       "title": "Nasdaq 100 Tumbles Over 3% Amid Tech Bloodbath, Nvidia Sinks 7% on 7th Straight Weekly Loss: Stock Market Today - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMXVqUGdaTGtqeGxRZFhjNHJUZUp3QnNGa013Y2I0ZWZjQkwzNnRBa0RrRlE0M2Rfa2s1YThEWE8xTXl4RVREODJ1eXdqUzc5RWFnQlBrVDl5Z2JJRXpWLS1NdG5NMWhWMDFtaHBnTnA2Smd4bU1pdml3azFJNlphZXQ0MnQxcXVjelFkZzMzTks1NzE2a0l3b2wzekc1NkQ0T2JQa2V1b085RVByc21DV2VaMXBlMU9HbjFzcg?oc=5",
       "source": "Benzinga",
-      "category": "stocks",
+      "category": "indices",
       "region": "UK",
       "published": "2026-11-20T17:43:34+00:00"
     },
@@ -2096,24 +2744,32 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG4tLTFGNkZhY1V4am9Qa2U3M3dsd3VuUUlDMkpoYWpzMV9iNlZRQWloTjQ3TUQyZHNiU2JvXzFfcXNpSWM0TmxRZ3p6ZnpaU1V0dnZOdExQMG5pZXpibFBsT1hVVlhnbVBseDFKd1g4NzNUaEZiRTRDM1RpXzVZb0JDTi01WGUtSUwwdndCVnpVVzhvcHlVRkl3?oc=5",
       "source": "Yahoo Finance",
       "category": "crypto",
-      "region": "Global",
+      "region": "Asia",
       "published": "2026-11-20T17:35:02+00:00"
     },
     {
-      "title": "CoreWeave Briefly Trades Below $40 IPO Price Amid Financing Worries",
-      "link": "https://beincrypto.com/coreweave-stock-below-ipo-price/",
-      "source": "BeInCrypto",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-20T17:31:19+00:00"
+      "title": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves - CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5",
+      "source": "CNN",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T17:32:52+00:00"
     },
     {
       "title": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year",
       "link": "https://www.mining.com/copper-price-sinks-into-bear-market-erasing-2026-gains-in-worst-week-of-the-year/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T17:29:39+00:00"
+    },
+    {
+      "title": "European stocks close down 2% to cap their worst week since March as ASML and Infineon slump - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnptd1AwVHBPWkpvdEFfazkwZktMVDBOZkRyOVZ4dGtaS0lxVG13dmpPMmpsMHllV3Z4dTByOV9RcDFfQ3p5aWEzbzQ2aGMyQm1veXNpYlNqTGxJeXFUMUJ2X2JVeEx5Mlp4WmRDb1BhMHBaR0k2Ymhlc3REQVc4WG14TlNFVXRDT21pYm42d2JpWUFNeWs2ejI2OVJCM3pnUmZobHNtY09PNHNKOVdLSWhR?oc=5",
+      "source": "MLQ.ai",
+      "category": "indices",
+      "region": "Europe",
+      "published": "2026-11-20T17:23:44+00:00"
     },
     {
       "title": "Fed's Cook says rate hikes needed to lower high inflation - Reuters",
@@ -2132,6 +2788,30 @@
       "published": "2026-11-20T17:19:40+00:00"
     },
     {
+      "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPak5MX2ZNV3lCM3ZES19paU9fWnpta21ZMC1NeFY3M3RrTjUtbG5KdWVWYU15bi1BMEdfTXk2OHhtWFVoWklldEtjcWtMQTZnNndtRVN5cjJtUjU5aXd6elp5Tk5tN2R4Sjc3dGoyUF9YbmJwMGRNTm93eWVCYTZmbndteTJuemVUdjZXdw?oc=5",
+      "source": "Yahoo Finance",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T17:11:05+00:00"
+    },
+    {
+      "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkVuN2hKSkxKQTdtQl84WTJabnJNWlI1SWVaQ1lJMDVPY181SmNaLWEweGxLcVhZamdJS0ZyQWJxNnpzUmV0aUFmZldyUUpCTW5HRTMyYVc3Zk5DSHVNUzAyb0Y1UlpPb0NidGlWdTRqaVVwS2p5RTFWQkMwdElZS2NsdkEwTXVBTGRtVTJMeC1XNEtWenp30gGcAUFVX3lxTE1jR19RajlSRXNqaEtwamtrVzhYbERpRnVGSGwyejJTOVE2ZEx2YWxEOGM5U1E4YndLdXg3eTN6aFMyZmxMdlRZem5wU0IxTWIteVhUNE9VbGU1WmFmbFdWX3l2cU5xNW1PWVVITGNudG9teEU1UktWR1ZZUl9kSVZRcjlJMVRCdmVlc1YzWThERXdZZ1otbE5WcWxyZA?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T17:11:05+00:00"
+    },
+    {
+      "title": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVpRUnlwbWF4cmpjRkg1N1ZnRU9Dc1ZIRFFQU3pyMHNac0tJSXlINUg5YUdLRl9mMUEzQTRkZTdQWHJwRkhJbmYyWV9VYkt4dDVTSGRib3VzbVVENWd1WWllZkhzR2E5SGhrNm5xOUM1QzBfdFFqZlNvNmJDUHFNeU1IdnRMclVkRmdsNTRxTWVZY0hQYWJHN05EZ2xxZTFORDZ0V1g2eWZEWnBGRnVEVVNROURGMVFCTzkwbA?oc=5",
+      "source": "Reuters",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T17:10:35+00:00"
+    },
+    {
       "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
       "link": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -2146,6 +2826,22 @@
       "category": "stocks",
       "region": "India",
       "published": "2026-11-20T17:02:19+00:00"
+    },
+    {
+      "title": "Abaxx Expands LNG Futures Offerings Amid Growing Market Volatility - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOam9aQWxGeGprRlREZE5uV3NOeTZCT3FqX3RHREFickpGLTdPNHFuQ3NMS3lwaS1Ec2h6cWtWQmU0SFg3c1hxcVlpX3pQdVdYQmQ0SEJDdDNCQlFxRHhmVEVuby1WcE5lazVzWjlxeDJ5YVFyVzc2ZHNsN29rbGtYdFJpYkVtd29PYW4xT2xxbThrWno0YWhqZVNQbjdpSm0yREE?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T17:01:36+00:00"
+    },
+    {
+      "title": "Natural Gas Futures Swing as Demand Signals and Supply Fundamentals Clash - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjdBVndlUWtFbVMyOWZNMTREM0dHbGxSLUNVdWIyU2V0ZFQ4eE01UkpKTjJpQ3A1X01zVUJnQzBsRjYyRUhNT01XbV8xZGxqemVhXzF2RUUzUU9PQU5ZX19KaV9wN05ZQWhKcV8xbzJFdDJfanFQc19GNm5VWm9fcUVTalFRRFkzYnNHU1IyWHFUeTRHVE5NZjRFVEtsVFhSUzBKX21JTk95Nms?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T16:59:09+00:00"
     },
     {
       "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
@@ -2167,7 +2863,7 @@
       "title": "Silver price tumbles over 6% as US Dollar strength and Fed hike fears drive selloff - Traders Union",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWN1TGxVcm5TcENVcXAzLWZUWm1pMnIzYlNnOXAtWE9aQnNKekIxYjhUVS11bzhGWDhQOUVQZmhvZzhZQnBvSGFWTi1qaEtMU3lMQkNxTmRYVGUzTW55dDdHb3JxMlRQcUNycFFPWUJwdDVudWlHZ3pEUVFTZm00aUJVbldLcDdCblNYdXFSSXlncXI4?oc=5",
       "source": "Traders Union",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T16:53:30+00:00"
     },
@@ -2178,6 +2874,14 @@
       "category": "stocks",
       "region": "US",
       "published": "2026-11-20T16:52:08+00:00"
+    },
+    {
+      "title": "Bitcoin Crashes to $59,000 as Ethereum, XRP Dump 8%: What Is Going On? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3ItdEN1Nk9XbkU3WVFpZXhUZXFjM0R0cnJVUWIwU0hKSkF2Sy1ZUmJRSHlhalk0WjdCN3NyWjdUWTk2RFBKQjRwbjVlYzJCZnloOXhYeXFLb08xSWh0YW1FVVdPTUstaGJuSUJVMzhFRXhzWW1pd2dSMlFyanBrNTJuYmthRHJ5YVkwdVV2UjlnZlhyTFFaaFFMN29qQmFMMEstaC1Ma0p4S19SNUFzdVZGRlFCQW9tZzhMeEN3amxMOWtH?oc=5",
+      "source": "Benzinga",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T16:43:55+00:00"
     },
     {
       "title": "Gold tanks, BTC under pressure as 'real rates' surge - CoinDesk",
@@ -2220,6 +2924,14 @@
       "published": "2026-11-20T16:35:59+00:00"
     },
     {
+      "title": "6 reasons stocks are falling, and what you should do about it - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQ0QxcUZmN2EzM2oyLTlDX2lUeUVoazlHb2dDa3FlRlJueDJhMm5UV0pENHhuTXlBY29PU3d0RGFGcTVIaDB0TTI2eTk5Nkd4dDB4d0JDUDhNWXQzREtMcmloaHpURDlVdWZsM0FB?oc=5",
+      "source": "CBS News",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T16:27:00+00:00"
+    },
+    {
       "title": "Pulse of the Street: Dalal Street extends winning run as global markets slide",
       "link": "https://www.livemint.com/market/pulse-of-the-street-dalal-street-extends-winning-run-as-global-markets-slide-11795181421343.html",
       "source": "Livemint Markets",
@@ -2252,12 +2964,36 @@
       "published": "2026-11-20T16:22:32+00:00"
     },
     {
+      "title": "Treasury yields fall as bond market tracks risk assets, not Fed rhetoric - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSUpKeF8zb19rZHE2eWtNTmxTd0lYb05RcURFLWRVRk12SklHb0JCUGNsS3ZRcVQxSVFsZXBkR3FrcTNpWEU4V1dSVlR4T1BNeGRVNWlpUlExZldkUlB4T0hpdlhPZXN5NnJNY3Q2THZyMHZuWS1KQnhNSkNDRVlEN3N0ckR1MTNpdnd0dDhiRTYxdmY0TkdDalFpQ0pfOExZU1hWRlkteDBCNVNURXFuTEJoR0t3TDVTMVo2STh6UTBmNnp2Nl9Ibkxab295dw?oc=5",
+      "source": "Investing.com",
+      "category": "other",
+      "region": "Global",
+      "published": "2026-11-20T16:18:53+00:00"
+    },
+    {
+      "title": "TSMC Stock Slides As Taiwan Market Suffers Worst Week Since 1990: What's Going On? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQVhxWWp0SU9TOVVGLWQ1azhrbXlnVng0QjBUNzhXS3J1Q1FSU3F4dG1ZYzlzaW0xa3I4M3FoNzVsazV4TTNCRHNOb3BNUHQxVjRRZ011a3licEdIZmdsLUdVVGVJdjZWdlp5X251Q1VhdnZETmFYa3BURGtjenZiX0dqZVZFUkREd29XNkNiM1RuR3l2Y1Q5VE9JRzZ3NEdDY1cxLWRQQlJtTFlzdjk2NzZicThkeFIydzduVjlWUXhKdXNRZkFXbHdUc2pyVnpaaTVMOWR1SQ?oc=5",
+      "source": "Benzinga",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-20T16:15:50+00:00"
+    },
+    {
       "title": "Bitcoin Plummets to 4.5-Month Low, Anthropic IPO Shatters Records, Wall Street Bleeds: Weekly Recap",
       "link": "https://cryptopotato.com/bitcoin-plummets-to-4-5-month-low-anthropic-ipo-shatters-records-wall-street-bleeds-weekly-recap/",
       "source": "CryptoPotato",
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-20T16:14:02+00:00"
+    },
+    {
+      "title": "Below-Average Natural Gas Storage Leaves South Central Exposed to Winter Demand - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1p0MlhPSGR3VDdCZVA5NG83ZWplYWdIb0RadEx5eWxaWWd0UGhTT00xRE5Jb3d1RG1Fbmp5emM4WWFiVVNVYzdGMlZKdFZYSHdWaW1FVlNxVkVGZFZLVU5xUHh2Z1JIdVJ6bnZZWVBMOWg5QVVITkdtNWRnMXo5M1ppcEZaMFg0TElCTklVTmJzTnViZWdyaWtUbTlaZXJVSGtpLS0yRDExclNidHJONkU0OA?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T16:12:00+00:00"
     },
     {
       "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
@@ -2271,7 +3007,7 @@
       "title": "Ground View Pakistan: The smelter before the mine",
       "link": "https://www.mining.com/ground-view-pakistan-the-smelter-before-the-mine/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T16:10:00+00:00"
     },
@@ -2295,7 +3031,7 @@
       "title": "Gold, Silver Rate Today Highlights: Gold heads for steepest weekly fall in eight months; what lies ahead? - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQ0VualFHdGlndlUxekoxQnRkdkNxaEoxOVZ4ZzdDaHVhdTFjczZaWFB6cHRldWsyQjV5b2hqbmRDV2Z4MW1RV3hYTl93ZUpKREdqemIwU2YxQURiN1B3LXdNUFlrcXZrelFvZF9ja2V0STBCa2N2RkNTUWJmUk5Sc19CZ29sbUxPVHVrU3FRdVQxZnI0LU1ER1NoSkFrbWxlc0RMZS1tMng2eUw2TUwxUWdqMEhuTEtsbnFDTC13SVY1LTYxVTFreVhxb1Q0Y1dKUENYR1JJQlY1Vm1WbkNsTkY2WXBPVEstcE14WWF1VXBoeU1zUGs5UGt0LVZ5LV80X1pGdmcyVFlwaVQ5NW16TVVadFRtTGJoU3pIcWZoay1USWhGMjE0ZWx5M184WG5UclFWWmlCV01pR195X3Y4RjFJWlpxeXcwUlctMmZBVmlHSi00clZwcFRFclRSX2Nxd0d2S0paNXdBQlY30gHyAkFVX3lxTFBwMlJfNjdjY0xwSGRseTdCNERVZG4xcGFsN3lSdWlMX3dJWlJ3b1hwcGwweUVjX09tR00xTXNDR2RvQlp6WU9BcVV6U2QtcDFOVXJtMnFuak9veXNjcHhockNreXhGMzVFZkRuN2EydTEwOXJjVGxDZ0VKTmdUYi1zU3dBM19Vd3ZSZDZzcktpQVZMZFBnSFptX21ybzlFc0NYLXVHdUhlazNEd1dLemFkbkwwY05ycjRpTlpHaW9aanVTazRKSVNfNVRLUmx1YUItY1Q5SFl1YUctUm5fbXZTeW1WRkJxU2NZdm4yY1Y4MTI1MFhXY1VpQms3eDVaejhMNEhhOUt0M3BCNlpoblhpRWpPeGxEM0FfT2RYRy01OERrYl95eXJKTU9ybmtKVndGRjd6Nm1DaE1PTE5KaXE1WjYtNjNLbFhsZk5ibkZxb21nMDVKLWYwVXptaEVXaWlkUW92aEx5eU1jRlFCakJPQlE?oc=5",
       "source": "The Times of India",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T16:01:35+00:00"
     },
@@ -2372,14 +3108,6 @@
       "published": "2026-11-20T15:46:00+00:00"
     },
     {
-      "title": "Bitcoin Drops Below $60,000 for First Time Since July",
-      "link": "https://beincrypto.com/bitcoin-below-60000-first-time-since-july/",
-      "source": "BeInCrypto",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-20T15:45:37+00:00"
-    },
-    {
       "title": "Bitcoin Drops Below $60,000 for First Time Since July - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWEl5cWhfZno1Sm1wSTQxcEhDZURsNkRnWWJwc2xla3JGdFpQYm5oN0lleDh1M293YXNjTW9qampIT3dJd2dEaUJSc1E0XzA1WUtNcU1mZlJPTjFzMUtORHY0RjZsSUtSUTJ6RVJVMXVxTzhuMVRFQkFFZl8wUUdPbnpsYjlEbVlUelNMeC04VDV1dTJpaHc?oc=5",
       "source": "Yahoo Finance",
@@ -2407,9 +3135,17 @@
       "title": "Aktienmarkt heute: Futures stürzen nach sechs Verlusttagen für den S&P 500 - aktien.news",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0FxTXI1RnVQdU5oS0tlY1dXU2V0SUpxMTFoMkZwUGNHRVgxeTEzX1ZEelUzQy1HT3ctWWFDNi0zcE92dU1nbnNaVWYyeUZNY2xNT3BFUUI4c1FjUE5GMnVweXVKcXFfTFlRc2xUYXF2VERCSzdhemFJMUhXaUFCdl8yLVdRcFZXbXQzTXl6WGIwcnhZY2dPYnRUOFQ?oc=5",
       "source": "aktien.news",
-      "category": "stocks",
+      "category": "indices",
       "region": "Europe",
       "published": "2026-11-20T15:38:20+00:00"
+    },
+    {
+      "title": "Ethereum Price Dips 5% As Binance Hacker Moves ETHs - MarketForces Africa",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUgxaGRxdW9JS3FQbjhVYXF0OTFsZUpHRmZsTEhHQkh0SkV4a2FRamY2NDNqa3RVUGdTb2J6UFc2MGx6WE1pcTBFTWNZaUZFbUZmYm5qajN2Qm9UbVRrQmlsUEV3QzdoNlVXQlFxaFhXc25MdFJHVmxzb3laRExFZjB3MA?oc=5",
+      "source": "MarketForces Africa",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T15:37:31+00:00"
     },
     {
       "title": "DBS bets it can lose the deposit and keep the client",
@@ -2418,6 +3154,14 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-20T15:32:30+00:00"
+    },
+    {
+      "title": "Bitcoin, Ethereum, XRP, and Solana slide as $90 billion exits crypto market - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMGUtYnUyTm9iV042M3czRzdnczBhbEt1ZW1YN1plcUg1azVpVmwzT0tQOWVOcU9mWFNOWkowSnJfamFnX0ZhM3NlWjB3VWc3UXpHVWhZSXdZbGNGa0xkQXAzWnl1RGRaSUtmOXFzVUw4ZWZWczR2bkJyUzRLd0h5RDl4d1hFOElxRGdNSWw2bVlQLTh2cE82c09EWHlCZ05uNHY0Z0t6azdDd2VSeURacVhUTnZqWElLeU9VMGVTWV9MYVg3aUNyMERkYU9seldlekE?oc=5",
+      "source": "TradingView",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T15:26:45+00:00"
     },
     {
       "title": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
@@ -2455,7 +3199,7 @@
       "title": "Gold price trades near $3,568/oz after final Consumer Sentiment rises to 51.5, inflation expectations drop - Kitco",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXV0UWUtUHFyVkwzek85UFJvS1V1UFBacFI1TGkyMmJ3OUl3MWFlOXl6QTVJRkg1ckdZbkpJZnA1TzhQOEFNNGhwT2k3S3Y5SmZZZVlZMkdjd1lTWmlTclhDbm1xVGRMOHZXcEFIckEyY3djWUdCWGE1TDdCTHF6SlZJOWZzMWpIaWZOOTNFSWZkVWlMLS0zT1ZyZmJPWUQ2WjNhT29OQ09UNzFUSHRWeVZoUW5EeUk?oc=5",
       "source": "Kitco",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T15:00:25+00:00"
     },
@@ -2463,7 +3207,7 @@
       "title": "Why Is Silver’s Price Volatile? - Barchart.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XRVVJSmhoWmNOXzZEQ0h0Q2VHdXFoQnlEYmE1M1BzX09kNE5hTGtDOUF1emNFSlFXMUFldmo0aGJJY1hvaDhQNFhQcWcwSVNYWm93RE9jYmNCN1doZzE1NGktMjBQWkQ0eExQV00wU0tUTjhOZXo0SFJHd2FmZw?oc=5",
       "source": "Barchart.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T15:00:03+00:00"
     },
@@ -2500,10 +3244,18 @@
       "published": "2026-11-20T14:49:58+00:00"
     },
     {
+      "title": "Coinbase Institutional: US dollar was the lone gainer as Bitcoin and Ethereum led monthly losses - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNndSOEtkeS1ZeXlQN2swNm4yQzZtLUdzdC1xc3hfcURBNzdOUGpZc1gzR2FJZTNyQzZBMWliWDU4UEoxNDVoZVphRkQ2XzhNa085YmJzUWdzTDNPRTA3QWwwTzNmajlfNnJ5ekI2R25JZFJEYmlLaXpvQUplc2pBWHRZMnkxQ1NV?oc=5",
+      "source": "Crypto Briefing",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T14:48:15+00:00"
+    },
+    {
       "title": "Modern Mining targets 40,000 gold ounces from e-waste",
       "link": "https://www.mining.com/modern-mining-targets-40000-gold-ounces-from-e-waste/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T14:47:50+00:00"
     },
@@ -2516,12 +3268,20 @@
       "published": "2026-11-20T14:45:00+00:00"
     },
     {
-      "title": "Anthropic IPO live: Anthropic stock drops after first day of trading - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXV5MDNTQUNlQ2E0Y3ozc0RxalRiM2Vhelc3M2gyZnpmRWg3UWZYcHJqSVVpa1lsVjRYeldYNjVuZGxjMDZRcllvOHFmc24xcG1VY3RZdnFVT2Q4TGZ2Sk1zQTJBcm5BaTFqQjlDSGNLVUFfOERuLXo4M1VrTnFZcDFmSDdzejFmTy1PLXl6MHhsUkM0TjdrXzZScFl2TzJzdTJRc2FBNU9QdldNLXFMMkxrSUktVVFmRXFlbzhsaFd0Zw?oc=5",
-      "source": "Yahoo Finance",
+      "title": "Nvidia Turmoil Leaves Few Stock Market Winners in Sea of Losers - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXZlRzF4RUlhY2F3dTJTajZOaUtDN19fS2dGc2VXd3pSQnZuanp0MnkySi1WQ3R1dnJSOEFZUXFQSEVlYVd5aXhnY2lWQVZlMHRkR1k0MGRhNTE3WW9lbVpuRUFGckhXSGRpNERhR1g5LW05X1VaRGV5RTVzWFJXdVJxaVpUWlRjRnV6aDRia3ZuOVpRRDhHWW5zNm1qT0Nldm45cVlGdC1CZDdlb2xnbTk3dHI?oc=5",
+      "source": "Bloomberg.com",
       "category": "stocks",
-      "region": "US",
-      "published": "2026-11-20T14:41:02+00:00"
+      "region": "Asia",
+      "published": "2026-11-20T14:42:04+00:00"
+    },
+    {
+      "title": "Current price of Ethereum for November 20, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PWFE5SVRQOWdndU5sODFoUGNHeXM3emRZeGdOQUE5WGVsVDBSNDFuMTNhR3FkcE5zR3F0THNfTlJZNzJuRlE4NE9RVFFpbTVycUpEMlFkelFkV1daNEVIbUpVdlc4R3E3?oc=5",
+      "source": "Fortune",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T14:41:41+00:00"
     },
     {
       "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
@@ -2591,7 +3351,7 @@
       "title": "Gold Price Forecast – Final Capitulation Toward $3,500 Is Underway - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDBRU3NCaDIwZ1F0dXhCMEhxU3kxekRJWDVGenNBOTZMN2UzUUh1SDR2RkVTczd3WXYxdDhrcTRSRThhRndmOHkzRC13eFd1NWg0eUIycjJXUlJab2xnZjB1ZWVQMEt4eWQtS0syMVc5SmlMZDcyMC1LcnZrRGZ2TTZ0UGtaaTdwdkFrTHN6TDVoNXVjVVJBd0lfVnp3Yk1QQkNzdncxa195OEZKQk1YcEtXUQ?oc=5",
       "source": "FXEmpire",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T14:19:50+00:00"
     },
@@ -2612,10 +3372,18 @@
       "published": "2026-11-20T14:15:29+00:00"
     },
     {
+      "title": "The bull market has a new problem. The 'smart money' is selling - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMa1BuVkphS1A0eDBGbXNmOElpQm1mTkpMN090TmhTV3VuT1M0bDJQU2ZMdk1yTURQb1Y0Z3ZuQWVtTW00R0V0Uk1QLTRCU21EUzVsYWlfX0NBa09oS19LMGVXbWhuSFJTUGxDR0JvOGExVGVHVjh2RjZfa1LSAYIBQVVfeXFMTjgzaFVGWWd2blNrM3VoaldEYXFORnpzSFJpODR0Unk2OS1JdnBES1Q0akpuYkk4TnMydExQTTdVelFDY1BRcWJlcDJONlFlaGY1R1Y2eXM0YlAwai1zYmVqS254NURtRV9zNkJzT3c1M2lkcDU1LWJBN0NncjY4MTUxZw?oc=5",
+      "source": "CNBC",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-20T14:15:29+00:00"
+    },
+    {
       "title": "Silver Price Outlook: Rallies Look Vulnerable After Sharp Selloff - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa09GVzhfbXZBZkV4enFmcmF5MG9OYWNPREN6djcwTVY1S1QwMkN0Y3ctU1BOLXVVaHZCUTFETmc0dXJaRzRZS2ZnVTFJNW1abXhSVjFpOWtzSlVlbmM0UzkxU04zQlU5SGdlVzQxaV9mcGtkYS1adUxndTNEeXlMdG5Nb0EtNGtaQnV1d283N0Z1MXNkeExiYlA1YS02ZHpSNG42UzlWZWdrV3R5M0kwQ0FLamFMQQ?oc=5",
       "source": "FXEmpire",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T14:13:39+00:00"
     },
@@ -2636,20 +3404,20 @@
       "published": "2026-11-20T14:00:15+00:00"
     },
     {
-      "title": "Why Are Cyber Attacks Increasing So Fast in 2026?",
-      "link": "https://beincrypto.com/cyber-attacks-go-vertical-ai-hackers/",
-      "source": "BeInCrypto",
-      "category": "crypto",
-      "region": "Global",
-      "published": "2026-11-20T13:57:13+00:00"
-    },
-    {
       "title": "BC Game Launches 100 Million $BC Token Bonus Campaign Through Its Live-Market Crashx Game",
       "link": "https://cryptopotato.com/bc-game-launches-100-million-bc-token-bonus-campaign-through-its-live-market-crashx-game/",
       "source": "CryptoPotato",
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-20T13:55:21+00:00"
+    },
+    {
+      "title": "Natural Gas Forward Prices Diverge as LNG Exports Reshape Regional Markets - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlhYOVMzeFBCRVA2VEdRR0tlcWxpYWFLNUk0a1BxU3luLXM1aHItY0hPQ3FmbUJqNEczYV92dlJyV19RMmtYYlZET3k2WU5SOWdSMmo3enQtb2FKZlowZjNpZmg1cjFacjJzaGNiOE90eFBjZDBWdDBJUWx4TVZyNG41bFVoZDZGZ1REVFBYZG5GRXZLdDFMSFV3NW51NjdjTEhOaDFMNUw3Q1dJ?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T13:52:15+00:00"
     },
     {
       "title": "Baidu fined US$75,000 as China wraps up Joyy antitrust case",
@@ -2660,12 +3428,28 @@
       "published": "2026-11-20T13:50:14+00:00"
     },
     {
+      "title": "Volatile Session Expected as Natural Gas Traders Weigh Weak Forecasts, Thanksgiving Week Expiry - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTI3aDVHLUsyMzdLdlM5dzJSRU9Ja3JXRDJKVUMtN29wTktLX1pTdlNXSlFndHhqVVhPVHJNVEcyVF85aXlpSUt0bVAwRW14TzdicVpoN2t2UzhYVGhPRUV6VWtPdTJ3M0V6R25ncU92WkdQaEdBZlhZMTk1QnBOc2p4QnJDM2Y4T043Y2JILVl5T05Ja2o3WGxYeUxmRjhNZ3I3cWdYOG42bHFrZ3k3TFBHVmRLUXhWS3pLZjVyWVlRclJZejRv?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T13:50:00+00:00"
+    },
+    {
       "title": "Hong Kong publishes crypto licensing bill to regulate dealers, advisers, asset managers, custodians - Crypto News",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnVZaEd2eDYySjIyNVp6V1pBYnRJMS1Yd05WYmt1RW1na2YxNGppYWNJSFNVOTV1SHNLT0N1WVl4Unhyc202ekFobFR3WVNGdG5aZm1SZjhseHhkUDlLSzlsT05WZWlDSzdfTWxPVnBUdC1sOXI3UlJ5c2JubmlOcw?oc=5",
       "source": "Crypto News",
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-20T13:37:24+00:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Weighs Iran Decision— INTU, ROST - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTml4bTYxVUgxcTlEQ0s0Q0xtcHVYd19LNEVDMFk0NTJWMTNhZkhRR2FZTzVucFFlckZHeG5wZWpZYWkwOHVCRkZkVU85TzhXdXpVWDZ4dFhSXzFJaURRRHVjbVB0ZThZVlJ5bnNvc01LTk1idGU4Z2JTRW44dzNMVGp6dHNxc1A0bHM1dWh4MW5FZXZFeWlQOVlXellJTGRMblpTcGNDWmozX0RETWhsVUFTcGRqd0FrMWdEWFZwNXdvdFhlUnF6aHhQdmUya1hZYmhETm96QjFWQ0U1cXBXcFNxNFpjRVBCVm9wY2p3Ym4?oc=5",
+      "source": "Benzinga",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T13:36:00+00:00"
     },
     {
       "title": "Bitcoin Slumps Below $62K as Anthropic Pop Fades",
@@ -2700,6 +3484,14 @@
       "published": "2026-11-20T13:30:22+00:00"
     },
     {
+      "title": "India's LPG Consumption Hits 8-Month High as Supply Rebounds - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFBNeTZWQ2s5RlNBZWxOd0dNdzNyYWduemQ2MzFZYURWWTFIMzBfc0FPUnNEbExlcGh6Z0VnS2x4dXYtdnduVzBmYzRkMjhRSkVfWkJPUnFySm1LUFdvVnhYdklhT25XX1p0WC1ZLUIyS1hqUUhTTGhyUVpkbTMtY0ZiNXlfQkVWY3BiS3BBT250NC11ZG1HdkVlQnB0MVVGd2JBV3ZZNEsxNlBIQnJIZlI0UGh2QdIBuwFBVV95cUxOTXpyTUpBT0RxX0Vhek1VZ1Bsd19weWpvSldvWjZlai1ISElZX09LYzgxR2dhUThaTVI1ZDdwSHBpdHNqX2RpcW9TLTRxY3ZmZXlQNmdVMDRldUJ6UHR4SjZUZktZeUVwTTJldlhnWlNmcnpNYktKWEZET25BSlNaRDJSLWFFc3dTVkgxNDkwSHduR3JhSWJLdi03ZmV5S2tFcXdCRThla2hNWnFPRGJBc1ZBSS1haTNvODdR?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T13:30:00+00:00"
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -2721,14 +3513,6 @@
       "source": "South China Morning Post Business",
       "category": "stocks",
       "region": "Asia",
-      "published": "2026-11-20T13:24:24+00:00"
-    },
-    {
-      "title": "XRP Supply Shortage on Binance Tops July Levels, CryptoQuant Analyst Says",
-      "link": "https://beincrypto.com/xrp-etfs-longest-inflow-drought-binance-supply/",
-      "source": "BeInCrypto",
-      "category": "crypto",
-      "region": "Global",
       "published": "2026-11-20T13:24:24+00:00"
     },
     {
@@ -2772,14 +3556,6 @@
       "published": "2026-11-20T13:11:49+00:00"
     },
     {
-      "title": "AI developer Anthropic raises biggest stock market debut in Wall Street history - 9Now",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDNQWXRrcUZaWDdlWTRkLUlhOVFIdG54ZlBZVkZCeGF3N1pxVVdFcjl4U3I5TlU4MDZMSk93QTRfZHVadkJ5R21Pd1JEZ3AtZFVTMDR0Yk1lWW1IMW9yeHUtc2lJQVk1OXRpd2JDLUp1d2ZWLTVuMUFPM1NTZ0dfd1YzX3dfRkhFemxNWA?oc=5",
-      "source": "9Now",
-      "category": "stocks",
-      "region": "Australia",
-      "published": "2026-11-20T13:04:02+00:00"
-    },
-    {
       "title": "Crypto Today: Bitcoin risks breaking below $61K as Ethereum corrects while XRP consolidates - www.tmgm.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYTIxMXhGU3hCQXV2RkNybEpsLTRlRDhZYV84cTB5bHNyWG82bVZsZVdyVGpfV1hXQ3NHUWExUFlPLUd1Y0ljWDI2WXRYOHBfWEc3aENhLU1EY3ZiS24zOTJJRkQ3cVI0NFJhdU1ZU1JfSkVkYnRGTnB3WmFKWkJsMnREWlRXRlIyT0FaTWtZcDB4b1hRMy1vb0E2Y0k3MTY4NGtSdjZDY05RbDdhRkxOR2xpVnpDbW1vcVQxdDluUDVwWGhVSFFzTFliWEpkNXF3Ti1zM1ZQcVNIMWxjVUFraTFlYUNxc2ZtZDQ4?oc=5",
       "source": "www.tmgm.com",
@@ -2796,10 +3572,18 @@
       "published": "2026-11-20T12:45:54+00:00"
     },
     {
-      "title": "Current price of silver as of Friday, Nov. 20, 2026 - Fortune",
+      "title": "Current price of silver as of Friday, November 20, 2026 - Fortune",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OcldMejBOZHQ3LUVfNnI2eE5oMTd4cnNPTS03WkhBYlpBZWhEVTVna1FUZmY5YXplOTZaMnd2YjUwY0dSOFBCdTRjdk9UTjhoNTdoRDJaLTlMZHdyZnZSNTVJV1pwTjZKcC1Wano4U3M?oc=5",
       "source": "Fortune",
-      "category": "metals",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T12:40:00+00:00"
+    },
+    {
+      "title": "Current price of oil as of November 20, 2026 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yb0ZXTjFBZUZ0c1NqVGNKcWxQcnIwNXJvRFhZNGRFcGpBNUFYTDdNNEFpTC1lNnpOb3QxTTBEN0I3QVE0MjdnYkNJLXlyU1VmQlpNRDFSOWt3SC1iT29MU1pn?oc=5",
+      "source": "Fortune",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T12:40:00+00:00"
     },
@@ -2820,6 +3604,14 @@
       "published": "2026-11-20T12:30:00+00:00"
     },
     {
+      "title": "WTI Crude Sinks More Than 5% as Global Oil Glut Fears Grow - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnYxaFp3anpBb2EzVFI1VTktenhoZGFKQ3pCVWhibVo0bkpxV0c0dVZGQ0podFVCYTBCTzFfRVZBY1JpTXhfTkNIeXdydzNyeDJwT2ZhTFljLTRqb3VqcmFhQlVXUUduY25vUFFNaVlHRUhiWTR0dUctbnFXdUJJZGFOdTlkVnJOR2lnOURzTHc2bS1UZ3Y1bzc5NFRSM29mTGdaanRfTUrSAa4BQVVfeXFMT1JWVzNDZXhUSTA3c1lxMkRlcWdTNlhoaGxMR0J1eDVkYlgycnFEZm1UbnU1VEpUdnNzamVxWmh2SmczMlZfV1R5QjBLWUhjN3p6ZGU1RmdhNGpKdHBPTlVCRVFJbkNiekxHQWF3Qi1yaXhFNHd1cW9KcUNiamRXVUdTY1c0NlZEaG5tTkVGQUtUUld0bjlQUlUzSEJzWGxZVkJWR1dRS3oxTDdULW5R?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T12:30:00+00:00"
+    },
+    {
       "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
       "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
       "source": "The Block",
@@ -2831,7 +3623,7 @@
       "title": "Gold price fall nears $3,500 as miners face soaring costs",
       "link": "https://www.mining.com/gold-price-falls-nears-3500-as-miners-face-soaring-costs/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T12:29:03+00:00"
     },
@@ -2839,7 +3631,7 @@
       "title": "Silver price today, Friday, November 20, 2026: Silver opens at its lowest point in 14 months - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbEpaVkhLenBPN25zZHlxYnNfdXJZZUlDcGZSTG8xNlVWTkNYSHl5T0JldWlodUZCdC0zeXdiUF9QYXlDZ01QTTd4SVVNZ1AtUUpoYnpxSlpZcjJ3ZzVRMXkzZjZfMExoczJkbVBYazdtc01YbzRCaWp1dHhqTG1FS1U1Z2FXT1gySXRKMEE5R0NpMnZ0bHJkSU5BZ1AwNHI1aC1xYVo5WjBtdXFJbWhKU1JidERxSUdPQU9CVTZBVWQwNE9qT0NlZC12OXEwVV9BdXNINW85M3c5Vjk1V2JDV3NCcDBWUWxUWWNCUU12TzkyNUhsVE5N?oc=5",
       "source": "Yahoo Finance",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T12:26:18+00:00"
     },
@@ -2866,6 +3658,14 @@
       "category": "crypto",
       "region": "Global",
       "published": "2026-11-20T12:12:29+00:00"
+    },
+    {
+      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOG8zREF3VV9HZk16Rkl1X29oZFFfdnRGNG91NlFIYnBwZVRnUjk4M2dVT0k3UGN5cC1OdG5za0hhSGwzMUxVc1U1cTJxcmx2SU5kNTJfeXE5STRtdEFnNTdqNjFyOG1zb0pSS1Z2cWEyMzd1a3hXR1FlVHp4eVFsNUhScFBRRTFlejItSnN1Y0J6X3N0cVIwM3pyM2E3Z09weU1aNDJyRFJQWDU5MUZ3end0T3NEVXJzY28yTGlpWlNvYWRQYXNWSDdRT1BHcTFucW50a2I1RVJnRzE5aXI1ZnNPNXZaMnpIQ1VVQg?oc=5",
+      "source": "The Block",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T12:12:00+00:00"
     },
     {
       "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
@@ -2895,7 +3695,7 @@
       "title": "Angola’s $180 million De Beers bid puts $1.8 billion value in play",
       "link": "https://www.mining.com/angolas-180-million-de-beers-bid-puts-1-8-billion-value-in-play/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T11:48:00+00:00"
     },
@@ -2927,7 +3727,7 @@
       "title": "Stock Market Today Highlights: BSE Sensex closes above 83,900, Nifty50 tops 25,800 - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPamhPcXNTTk00M2VXUjVwSXhMZjlrTE5Edk5PV2p3cEZzSlRvNlprTDdrV3BrcUIyS2NUMm1YdkFNX2FNM3lPcWdpMkdKQnA2WXZiMGl5UzhGQWd2SmJrY29qWHBNZ294Z2haZjlnWUNPeUNsTEctUUhUaTlSXzNLRktjM3ItTzZMNWo2X3VVRGdkZGtqY0JGWmlnckM0QWpOZzdKRHZsMTBnU2Zjb2ZWSHpIa2ZsX25ySk95bVVkLVdYU004RTBjWHBMVjJBOUlmN3BFRlNHdzA4aW4xZXZKNS1yeG1iZ2YyTTZjMHhEZWQ3bXJaTmE5N2xRZ0JGZ1poWmZnaG1KSjBVUFM3aDIxMGFPNFI4bGI5Z3htV0dpMUlmNUlHTVVoLU1nb1pLc01aZE16bDlR0gG7AkFVX3lxTFAtcEx6R01tVzdsVDVlSmVscnMtUHljT1lJRFRfSHNXcmpkRWx2UW1nOG1kRzdmdUJnN2ZqeWJueUtEdnJYQzZfZnR3T1UycGNzbXEzd1dhLXg4M0lDRGR5eWNWZS1WSTJPMkE0a3pPeDZQYTNrTmNFTWZIUjZvTXhyUFpXY1FXRG9EWWYtWVJGeXpqS3dROWhVTUk4RWxxR3o3ald1a3ZDWUQyTllKa1k1N1NNNlV5ZGFJNFVqa3ZlQVc1cXBGbVhJb1AxMkZLLVc4X1pUMmdURzdxUHMwYXpUTHFYSTdza202U2pib0lXSGxZclNTM09fb3VJeGJKR3dvNjVEZ1dZdFluR0xFQkplVmZJSG55aHh1QjQxaTJZUmtOelQtbTl2Q05ZdTZjSHR0QmlwNDh2UWhMZw?oc=5",
       "source": "The Times of India",
-      "category": "stocks",
+      "category": "indices",
       "region": "India",
       "published": "2026-11-20T11:41:53+00:00"
     },
@@ -2948,6 +3748,14 @@
       "published": "2026-11-20T11:31:41+00:00"
     },
     {
+      "title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXlDUi0xc1ZfTEdoLWxKX0NsVlh5R2xvcWM0QS1CN3A1Nllqc09ZUzZxTGtld2FXaVRrUUpVbDVmd0NrUjUzWTQ1SXNSSGNVRDQtVEg3Sk5tR29sd21FSmlaUzNLQ0xzSVI5bW9mRU43dy1pSTlaNW5PZEgtMzZJWTdRc3pLbU9ybGNsdmtubFY3eVZPX0NNN2xTQ1JoTTdQdm5JdXBLb3AyZ29nTl9DMTc0UHlmYV9R0gG-AUFVX3lxTE9aczJ3TW9ObTc2UGlVLVhqaHA0X0EwMWxoTFRRd0UxaklBTGItT25LbS1WUHVJOGZHYnlhbjktZkxPWWRQWXllbzJHcnFIamZ3UkJKSVkxekIwWkFzNEZfNlUyNy10ZHNKSi02bFB5TkJMcjNPSElVeDZxcUZicG0yZmQ1Zk9tN2drT3NWSlo3RWYtS0d4NVZYWHkyZEZ6SkFna2lMVFhNdlBuZ2RVczVDeEJabG12RkZPcnJNT1E?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T11:30:00+00:00"
+    },
+    {
       "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
       "link": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
       "source": "Decrypt",
@@ -2956,19 +3764,19 @@
       "published": "2026-11-20T11:23:00+00:00"
     },
     {
-      "title": "Are we staring a stock market crash in the face? If so, I’m doing this… - The Twelfth Magpie",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDM0TW1TYUdhNklDUzJRbkQ0dlJlR0hvTUd5RTNrN2FkZVNlOVJaNXNVYkFPbUFCN1JZQm50TXFmQnBRNk91UUsya1VCaVpKNmNwSFp5TGt2Y0pIZ3B0c0lZZGlkZ2s0MG1PRUIyVV9LczQyOThxTVFDVDBueFktSXYyVUlXQnJNQXUzcG8xcnV4RVZYa1c1Ujd2bGNyRXRMWkRDemstQktsbnZINWc?oc=5",
-      "source": "The Twelfth Magpie",
-      "category": "stocks",
-      "region": "UK",
-      "published": "2026-11-20T11:21:00+00:00"
-    },
-    {
       "title": "Are we staring a stock market crash in the face? If so, I’m doing this… - Yahoo Finance UK",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3Blblg1N0k5NzhMbnNEUWEyT3AtTTRDbkNaX3FWUExmWk1MQkg5Q0JrZUhlNEJxd2dwSmJJMnBpVmhQR1ZLeHU0UVllTnBRbWxSdjhVbExrYUE0d052bGVMTXJKQjJDODdBQkFTVlotSU5qMGJZcHk4b016cldnMWRnRUM5ZFE?oc=5",
       "source": "Yahoo Finance UK",
       "category": "stocks",
       "region": "UK",
+      "published": "2026-11-20T11:21:00+00:00"
+    },
+    {
+      "title": "Are we staring a stock market crash in the face? If so, I’m doing this… - The Twelfth Magpie",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDM0TW1TYUdhNklDUzJRbkQ0dlJlR0hvTUd5RTNrN2FkZVNlOVJaNXNVYkFPbUFCN1JZQm50TXFmQnBRNk91UUsya1VCaVpKNmNwSFp5TGt2Y0pIZ3B0c0lZZGlkZ2s0MG1PRUIyVV9LczQyOThxTVFDVDBueFktSXYyVUlXQnJNQXUzcG8xcnV4RVZYa1c1Ujd2bGNyRXRMWkRDemstQktsbnZINWc?oc=5",
+      "source": "The Twelfth Magpie",
+      "category": "stocks",
+      "region": "India",
       "published": "2026-11-20T11:21:00+00:00"
     },
     {
@@ -3015,7 +3823,7 @@
       "title": "Sensex Today Rallies 898 Points | Nifty Above 25,800 | 2 Reasons Why Indian Share Markets Are Rising - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNek9HTEVyUHFXTjE4eG5PUF9vclU4d3FJLVBtSzNvTS1wWmxvVS1jNHg1NWxfemx6UHVpaUFyMGFrNlpOSXE0LU5qaEI4eldRSWhwSHBJSEUzSk5jdWlleVY3djVOMFEyOW15UWRFWjFMdGdsLW9QRjNMSjFFTDAyWDM2TURoRlk3eE5kaVNnVGM0c053ckxaTGxBSHM1WWg1SkE3dW04TU1oaWx0WjlfbUY0SU9xZlN6SGFCNDFELW53OXoxaGtKMFNKWkVZWUktS0ZULWRIZ1dTRFBBLXVkSllPVXB6cWR6eDM1SlRLTQ?oc=5",
       "source": "Equitymaster",
-      "category": "stocks",
+      "category": "indices",
       "region": "India",
       "published": "2026-11-20T10:46:58+00:00"
     },
@@ -3044,12 +3852,28 @@
       "published": "2026-11-20T10:39:09+00:00"
     },
     {
+      "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+      "source": "Reuters",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T10:37:00+00:00"
+    },
+    {
       "title": "Stock Market Highlights, November 20: Sensex rises 897 pts, Nifty ends at 25,800, ₹ sees largest single day gain in a month - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
       "source": "BusinessLine",
-      "category": "stocks",
+      "category": "indices",
       "region": "India",
       "published": "2026-11-20T10:33:22+00:00"
+    },
+    {
+      "title": "Stocks close sharply lower as tech rout deepens, with S&P 500, Dow and TSX sliding into technical corrections - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbFktVk5TaVBHaXJHS05DZjczUngxalpGZjYxclh2SldTWHZxMzI4SG14UkxkbTVJOFo1MHNfZTJqX1hab3FZV295TWpBS3d3VFQ1VzZpRmhzWWVWRjY1R0xDa3ZnMERkM3BlZ0ZfZlBWZF9tRkUxcGtPb2NMSzUyb0phRzJuNWtIUTJrTEVDckdGa2lCNFdsMWROLTJwQzZJZVRleThtRmFpVDJ0M1A4bGNmeXVhSlQ0d1RxTEtlQkpZa01nbEVidVVPakh5czEyU1h1MzZZNEJsNTc0cnpIM1huc2M3eG14bEJDQ204aw?oc=5",
+      "source": "The Globe and Mail",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T10:33:14+00:00"
     },
     {
       "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
@@ -3068,6 +3892,14 @@
       "published": "2026-11-20T10:22:54+00:00"
     },
     {
+      "title": "Why Are Bitcoin, Ethereum and XRP Prices Still Falling and What’s Next? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWZId2RUY2NxYUZHQVUwZFJqb19JcUlnVDhiSzg4U2R6cTg5M3M4NGsybDNoemV5X25LR1p3ckRtMFVsMFFPVEl0STdNLU1SN0FhaXhNY3lDTmR6M19yMnpZMUNfM2lFOHk3bVRFTTRRd3l4bEUwSUJuTXJRci14a3JCNGwyNGJpMVhhYlFoNUk0NU9hX3RzN2YzeEbSAaIBQVVfeXFMT3BRajVUZkFDaXVVSGI1cUVBSnVPYXp0MHZTSWhuejVITHA4eXg4S3pKYW1DNFh2NXZnWDFZZVZpYno2YzE4SjZQUndQdXAwZ3FRWW1aNFJZWU04LS1USzlrcWdQeE54UUh1dzF1Njh1ZDNNanVlMHBTLTNUYjFsSTJROGtMTEhTYjBNTi0xcm5jQ3pseUttbGJxWkUxMTRxaUR3?oc=5",
+      "source": "Coinpedia",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T10:22:21+00:00"
+    },
+    {
       "title": "Crypto Brief - Legal 500",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1ViVVJRRC1PSUUyajdhdllyVUpPYmRBR2pPZXFiQ0J6VW9Nckk1SlNLakFsSmEtTTVJZ0hUY0picjFyeEV4NnJ5QzRCY0Q3MWYtOEpUOFFGaXZ6ZXZrNzB2T3BEdFlQZENJU19VVDJwUUlneUZsdmk1Q1ROUkJMOE16Z1FDRGRRclgtNkkyWW9FdHF4TWJPTHBKN29zVlFYbVlPWW0yTlpLaFdGRFdnMA?oc=5",
       "source": "Legal 500",
@@ -3076,10 +3908,18 @@
       "published": "2026-11-20T10:21:25+00:00"
     },
     {
+      "title": "Treasury yields move sharply lower as investors flee to safe havens - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cmNjcGpHN0dNOXd4NmdpWVJ2Z1R6NUhmRDlXUExPNnVTcU12MnNlSUF4c2FFWmcyRkh3a0k1b0lsZWpIbTM0NzhfOHhpMkhNaWVnSGJ3eTlpVElJNWxzei15VFAycmFfdjVtTTROSDNsUi1aNGtZ0gF8QVVfeXFMTVB4bFI5cDFDUEJCM1RXQnU0UUpxZmh3cHN2ZVY5Rkx6X3dwTjltTy1tR1puQm5kOGF0bzdxMUNqUXd2ZVRQc1VJbkNsVURINk1LXzY4VGQyZmJFSjZuVldEVDlWZlpkZ2RpZGJ5ZE5QUzY5Sm0yeXRBNWNMOQ?oc=5",
+      "source": "CNBC",
+      "category": "other",
+      "region": "Global",
+      "published": "2026-11-20T10:21:03+00:00"
+    },
+    {
       "title": "Chile’s $111 billion mining boom hinges on lithium approvals",
       "link": "https://www.mining.com/chiles-111-billion-mining-boom-hinges-on-lithium-approvals/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T10:15:00+00:00"
     },
@@ -3103,7 +3943,7 @@
       "title": "Copper price rebounds after rout as physical tightness persists - Mining.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2VfdDJvRGM1NDBtNzE0aHNOeWc0M3FjVVEzZ0FOOUlMUFdaUExHeElya0FjM0hlOUFIWXdyb1ZBUktqOEYyaGV1NzJEajZ2dmVOUnZ4N2FBR0VHRHdOenhOVjlRU1VlU191TU44aXM4b2MxaUhCRDVQd1VNX0xVdmhqbm5oMDY0X0t5ZzFRTVFrNS1ibUE?oc=5",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T10:06:09+00:00"
     },
@@ -3120,7 +3960,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam9yUlhjeXdQYldnSlpuMlRsWjJsLXFYUGxaM3ZVc21qbTEyUG9Ja2x1aVpZRDU4amVMaTFsZVh0dWlYLXRWV1BJbGtoTkdfUjFkVlhvTnduWGFIY1VKcGNTRWRjTTNlQ1c5Z0FrazRudjFKOFVMYXVhMGNjYmVrMEpFSnpJa09jTHNDX0xrdG95NHl3ckRDc0RLZW9SQXNnSWdF?oc=5",
       "source": "The Guardian",
       "category": "stocks",
-      "region": "US",
+      "region": "UK",
       "published": "2026-11-20T10:02:00+00:00"
     },
     {
@@ -3130,6 +3970,14 @@
       "category": "stocks",
       "region": "UK",
       "published": "2026-11-20T10:00:31+00:00"
+    },
+    {
+      "title": "European Stocks Broadly Lower as AI-Related Selling Spreads; Semiconductor ASML Under Pressure - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNWVlU3k3eUR4QWRwVHpFdWRHT1U2bG95aHlYVEI4YjJMVzl1U3VmX1RDQU5sRnZwTHJwQ1U5WGp5VjU1S18wMWhDd09ZU0F4ZU9aRk56TGx4ZWhiQmJQM3VzRFAyZ01PbFlSWHA3c0c1MFROckE?oc=5",
+      "source": "BigGo Finance",
+      "category": "indices",
+      "region": "Europe",
+      "published": "2026-11-20T10:00:27+00:00"
     },
     {
       "title": "As China’s sportswear sales lose steam, overseas brands see even sharper declines",
@@ -3167,9 +4015,17 @@
       "title": "Copper Price Forecast: Strong Dollar and Weak China Demand Fuel Losses - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjJFVGJHUDVaZ0k3WTlRYTdBTjR1aHB0b19lYTlvYU1MWXd5QXNBZWIxSjN0U2hCRzVUb0syUENLYktUQWdyQW1vYzFSa0tYNF9sb3BBckhUR3VvNGlaa05NY0JnMEdyNzNNck5VY28tQ0xYTFE0Y0pwb25CSVZWX3k0cGxzbG1HSVdnVmhVc19xY01yN2JSZzZjMVpBeTdISnhNWHRMdmVTQmpQWGd5OUVTMUZiLTJkU21VRQ?oc=5",
       "source": "FXEmpire",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T09:41:51+00:00"
+    },
+    {
+      "title": "ETH Price Prediction: Exchange Inflows and $1,500 Support - Bitcoin Foundation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalVranhpaklfTFZCbmk5STJSVTNIZDZiWC1xTDlRS0h3Njg3eTZDVGxzdUFGZEpKbUJfTzdVNWR3WC1lUXdlQWhERXVFRm11UEM3NkhuOWxqOTltNjd1SUFST2NPQjBpZl9oWWw4dUZZR1U0c2ZaNnNSRW81bXNUVWplQ3hLMjkwWFJTMlZLZ3QteGtnWmliRTd4WDZ5aVJQLXV4eA?oc=5",
+      "source": "Bitcoin Foundation",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T09:37:27+00:00"
     },
     {
       "title": "Taiwan benchmark index plunges 18% in worst week in 35 years - 联合早报",
@@ -3188,6 +4044,14 @@
       "published": "2026-11-20T09:11:27+00:00"
     },
     {
+      "title": "Why is gold price going down? - The National",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkJrWmdweXdyOEVkbmZZNWJKZHFndTF5dkxoOTlVRTR6eU1fWVI5YW9lR3kzdmo0aUNRbzZPUTVWLXNTMm1CNUhvRFluQ1ZBaVZLZnhldW1jblI1RDREaXYxZVhSWUYyU2RYd0J5Z3hRNTBDZ0k2UlZjbjVHdDhzY25HOGhFb0JCYmxiZ3Vrclk?oc=5",
+      "source": "The National",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T09:08:33+00:00"
+    },
+    {
       "title": "China-US-Russia talks, economy concerns, Auto Guangzhou",
       "link": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou",
       "source": "South China Morning Post Business",
@@ -3196,12 +4060,748 @@
       "published": "2026-11-20T09:04:05+00:00"
     },
     {
+      "title": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGhOY3BvSGlweTVtQU5YTWZ1dWRqelg2REh5ZUJ6OEFrdG05M3RyY2l1RV9IeDd0SWJlSUhoNkd6dlByTUtkbGVCYTU4YUVCRVEyQndGMU4yeEJHbUp6QmRKMXh4US0yS0Z0UTFRN3Z6eGQ5WFo3ejRaWGRWY3p1aFd0ZS0xV0VLczFQc054ZTZWcnRFRUZoNHNudW9kSzVoelJtbXkzeHg3NEgxa29FYkE2c0xxd9IBuwFBVV95cUxORGEtaS1lS0lEeFZxWUNvVElMclcxR0hUeERSUkU5b3VTMmZnWml4SWNiYWIwNUFLSG9WM2NVWkhsSHp4bnRhY1VmSmNmbmx2bHpaMDFtZzJ0M2tLaUZpaEFBcHhSVGFpNllwc0sxb1RRM3BaN2hqSE5kcl9RbmxNMEo4aDlZN0VQbUNhSXVoOExER1JVQmhOcmlpaEZnSEhIUXpaMWhmUmxXUkxERXVnYUE3TVNNem1GYXlz?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T09:00:00+00:00"
+    },
+    {
       "title": "US defies court ruling with historic seabed mine leases",
       "link": "https://www.mining.com/us-defies-court-ruling-with-historic-seabed-mine-leases/",
       "source": "Mining.com",
-      "category": "metals",
+      "category": "commodities",
       "region": "Global",
       "published": "2026-11-20T08:53:00+00:00"
+    },
+    {
+      "title": "Anthropic vs SpaceX: Which Mega IPO Won The 2026 Stock Market Battle? - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3hPV3hpazh6WVF1SmJMbGFJSFNmUVAzZEZvN0VtWXFiMm5IZU1qQTV3Ymg4OWpMZjJXdXl2WEpsaGt0N1RoT0R4WnlPd2k2WVBuR09uRVpjLXp4STdYeFlTa0o3UEgwSjR3Rk1XMURDcTJweXk3ekNqbWRBY0cwNERvcDlnLUhaVk0wbFFsOXVGc3FmSHpQOFh0WXowek9CeTVpNlV3NHdCRnRTR3VSeUpMR1_SAbwBQVVfeXFMUGxybTA2a01xd2ZYTjdMY2xmOHpKcWNfcXpfSmx0YkpDc1NWeThBUU11YklJSzg0dGVNczZMRG03U1VLSkFGRlN0TThzOUNhTWNSdlVhSnZRUGVyVzdqYkJ0U0tsXy1ZWmIzNnpEOEI1R1B4UDB5T2RTNXBpOVZGY0hJQzFVcDRWV1h4X0dXWS1jUGxoYnY5VE5uYmxlQkFrSDZlbmVtMEE3dWdsMEV5VnNMZWFsUE42RC1hQm0?oc=5",
+      "source": "NDTV",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-20T08:47:11+00:00"
+    },
+    {
+      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T08:18:42+00:00"
+    },
+    {
+      "title": "China’s battery-powered heavy trucks see electric growth",
+      "link": "https://www.scmp.com/plus/business/china-evs/article/3375206/chinas-battery-powered-heavy-trucks-see-electric-growth",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T08:18:38+00:00"
+    },
+    {
+      "title": "HDFC Bank regains ₹13 trillion market-cap; stock hits 8-month high - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUNHVUdUT2FOaTlyektTRHNwTUI2RjhZRV9YVDZ2bmpGYUo5TFhucV81SUFZZmZIQ1dTTEVhR2hfQzRZdklfdXBWa215X2FaVzhyZDhPMDZRSi1WNEtZVUNnQVRKOEk3UFNhakFkWkdJRExmWkcyNlNNVE5KWGQyQXlMMXhCU1BHdlAtX3BEUlphVTkzbVdvSWd4Vkg1X1BVWlBvRkhYUUVUald5S2hYTlBzS0d4VHlYQ216VWtUdzYwTXlTUXdGUjQySdIB0AFBVV95cUxOX1duRFJzZDBjZlhDQkFuWU5QWjFCUndGM296TzVDS21fOHA2RmN4dkN0Q0xtaUxYNFZmQU9XbHhYdlVnZ2YxYUpmR3ZHbkg4Nlg0allUS2JjYm1OR3BDLUZEQmRMdUZ5SkYxWDBFam9qd1prUFFYQnljYTE0RmtJY3YxUnVvVFpyeHJ0OGF0NzBCbWZlTkhBNEEydnZjQ3ZZZmdfN2REYzNzSFlnWFR1RktzYUxJOFFpV2NYYVVBWXB2S1pFUGN3QnRkbkgtUHBB?oc=5",
+      "source": "Business Standard",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-20T08:11:27+00:00"
+    },
+    {
+      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
+      "link": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T08:04:40+00:00"
+    },
+    {
+      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+      "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T08:03:34+00:00"
+    },
+    {
+      "title": "Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock",
+      "link": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
+      "source": "The Block",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T08:02:36+00:00"
+    },
+    {
+      "title": "CATL’s China battery market share extends six-month slide amid carmaker diversification",
+      "link": "https://www.scmp.com/business/china-evs/article/3375184/catls-china-battery-market-share-extends-six-month-slide-amid-carmaker-diversification",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T08:00:06+00:00"
+    },
+    {
+      "title": "Anthropic shares slide as AI sell-off hits global markets - as it happened - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNREIxUXl0d3liV2xuQ1VqNmJBNGVCNnc5YkN2aWNRbzJuVTdkYWJ5bXJQcFJuYVVxVXg5Ymg4ZGhfUEw1SUpjOGlnWjlDblR2Tm9PTVJoNDBrYjhqbVZFanV1ME01ZFpKTkZ1X25qUDB5RFZoRE5fX3ZnTHJGcjZvYnBNaTRqbkplVndabWlMV1lPUnZJdU5pY25uTFNiRlJDeW5Na09kVHJ0V2VOM05kcjNZN0Fab1ViUWlFZTBR?oc=5",
+      "source": "The Guardian",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-20T07:32:00+00:00"
+    },
+    {
+      "title": "Wiener Aktienmarkt vorbörslich mit weiteren Abgaben erwartet - Wiener Börse",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnRBNzNJcEhaWUN2Tk9KTDIxVFhJemJjMHhIVjZjckVXU01wS0s5aUhqa2hJbm8zWlZ0U0pjcmZGZ2NPLWFaRmh2Z3dVeS1NcXZabWY1TFBrNGozVVFFX21MeFhMRlZVZnJWU2lQUXNtVXRCa3VyeklPZWg3ZmpQZ09aVUJLTVZLZThGd1AxbVpvdDdBYTZqbXJnVC1rNTBRYk5SMQ?oc=5",
+      "source": "Wiener Börse",
+      "category": "stocks",
+      "region": "Europe",
+      "published": "2026-11-20T07:32:00+00:00"
+    },
+    {
+      "title": "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDR4RjQzUEdzTDJsRWdxZy11dy1hempySTdjbzFObS1uX3dwNklkd05DNkRiTDBOQ1JLd2p6M3h0aEJpYXpaUjdmQklGMlMwUEprV0NpNXBiOWFuRkxxaTV0YVNDZXE3d2hFbFp2enJUakZidURBRUktY1R5cjFjUW5RWXlWN1AtcjNnczh0eUVsRUd5ajVXQVRJcTRUSXgyaXNoQW5lZmN4Qmtnd2ZvVG9uRnVZckRSUWJROVJNVdIBxAFBVV95cUxPSFBmclRrQkNaLWNRVXljZTJuWmhFNVlxU3NmUnZtYXprNmtEa0VBZ1NsWUFIVEU0UTlrZFdaM05ReWE0Ry15U0o4X1FwWFFBRkNyeFZubTM5U1dyUktucjFQRDlyWDJWYm9jQ1p6NzlOZlNNLUI0SGE0WXB3a2pzNXFhU1prYzFWcERNbXVsaHc2bWY1bTBxOENKa0Z5UzlFSkRCWjdHQlNqR0swaXdzZ2JCTWloeDByU1cyMXJjdW02NEpK?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T07:30:00+00:00"
+    },
+    {
+      "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
+      "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
+      "source": "The Guardian Business",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-20T07:25:31+00:00"
+    },
+    {
+      "title": "Gold and Silver Price Forecast: Silver Leads Losses as Dollar Gains - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekFlV2JjSzVlazRZbzFfUDhYYVdIbUh1LUpkNFZIR3RkV0pQeUIybC1TWi1WZUtuMmVnOTY3M3BBN2hXUElTZTh4bjNSSGg2WjlqR0xvdnVldldpTXVQSVF3U2V1TVJJYTJpcXV6LUtHT1IzYUY3b3U3Rm9FaTZKVVAtbVY4S3lZWWFCam1jcVd5WGg5WmVZaXJLeHhBZ21oN2VfYXlURlRrUEFjdGx5Sm9NcGg4UzZp?oc=5",
+      "source": "FXEmpire",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T07:19:08+00:00"
+    },
+    {
+      "title": "Top Wall Street Forecasters Revamp Bending Spoons Expectations Ahead Of Q3 Earnings - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZG5QSWl6elhOdjBOdGFKSS10eXFfWF9QaEw2aVRYQWhQTnpyV05PeGk0RFkwcWpqcElmbW1uU0FUYnJmY3pSSGlZVmFsQU5Xd2FjOVJSQUNTZjB2Z0p3cjZ1RTF0UzcweHhuNDN3UHUyRnRrZUMtd3otU3kxWTRIRUhVNVpiRjg5dUpIUnMtNjh2QUl3RFJrRm5jVGxJU3R2N1Zod0ZkalMtdEdqQmUwaWNZYVR6aF93c09KQUxPY3dEbC1LbmdSXzVLcHMzdU5rSldHdnZJZF8zN3l1MWRzR2xwODFNRlBFbjJUMDRmOA?oc=5",
+      "source": "Benzinga",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-20T07:10:07+00:00"
+    },
+    {
+      "title": "Platinum price declined below the support– Forecast today – 20-11-2026 - Economies.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUdDdUhMZzh6MVJYeXpEMmpMTE9IS3o1eEhfZFhQZFJGRFhYdGQzTXNrWU9BblFoZGh1SzdPWDkzb1k5VTBjaTMwMUl1T3JHeVMza21IVmFTemRmZTJrbFMxbGRUdnAydUw5ZzZTc096eDBGeEZNUV9ybVJFdzNzOEV5RmR4eWw0MmE5Y293MXdLUmRXSmhxR3JyekowTUltYVlHSXpBU083M0FiTkdHdWZORXhxaHVFVUxZOGdGdHhkUmJ0VXM3NGpzc0FBNU5kbnkxVkJhZG1VZVFPaDJaQlhzMA?oc=5",
+      "source": "Economies.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T07:06:00+00:00"
+    },
+    {
+      "title": "Tokyo FX: Dollar Retreats to Lower 159 Yen Range as US AI Company's IPO Weighs on Stocks, Bond Yields - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81TzJyLThJU1lkU284S3o5Nm4yVDRKemgtSnlSbjNDNEtSSnJjcDFrV3pYYmpCRk5HVHFkMjZiaS0zY3U5TVBzeF93ZEp2YU55N3MzUTVWN0F6dXh4ektmZWxKeXh4eHJCbXFWbnFveF9URkNja0E?oc=5",
+      "source": "BigGo Finance",
+      "category": "fx",
+      "region": "Global",
+      "published": "2026-11-20T07:05:00+00:00"
+    },
+    {
+      "title": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week",
+      "link": "https://www.scmp.com/business/china-business/article/3375169/anthropics-us81b-ipo-gold-price-drops-5-figures-investors-are-watching-week",
+      "source": "South China Morning Post Business",
+      "category": "commodities",
+      "region": "Asia",
+      "published": "2026-11-20T07:00:10+00:00"
+    },
+    {
+      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+      "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T06:24:41+00:00"
+    },
+    {
+      "title": "Crypto market crash today: Why are Ethereum, ZEC and altcoins down? - Crypto News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXlzVk40X1p3RTNEenFfcHJfbW9IbHJ3aFQzclpYenUweDF0clh1TmM0ZVFBZU5tY1ExSHk1WmFvVjlJaGloS3d1LXBaNHFZR3FRbWl4SU0zNEs0T0lCalVhb05neWFoMklwVk1lZjlpVVcxT3ZtczVKaUxSSmxYRC16eVktRDgwcTJEV0x3?oc=5",
+      "source": "Crypto News",
+      "category": "crypto",
+      "region": "Asia",
+      "published": "2026-11-20T06:17:00+00:00"
+    },
+    {
+      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T06:12:15+00:00"
+    },
+    {
+      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+      "link": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T06:08:28+00:00"
+    },
+    {
+      "title": "AI is changing software engineering — and some developers miss the struggle",
+      "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+      "source": "CNBC",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-20T06:00:01+00:00"
+    },
+    {
+      "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+      "source": "The Block",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T05:40:00+00:00"
+    },
+    {
+      "title": "Yuen Kee Food IPO one step closer, eyes US$50m Hong Kong debut: sources",
+      "link": "https://www.scmp.com/business/banking-finance/article/3375172/yuen-kee-food-ipo-one-step-closer-eyes-us50m-hong-kong-debut-sources",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T05:31:05+00:00"
+    },
+    {
+      "title": "ETH news: Ethereum’s next big upgrade is pushed into 2027 by apps it would break - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVNHQmxzLWEzbEI1SlEzWmI0NHlsVThEeEQtZlVUc3VyUHlfajF5aUs0ZkJ3V2Nic01PX1o2OFVqZE1aNGdldlZMQ3ZNSV9sdW9nbWREVzFBczRvMUZfeTdsN09IeDAzc3ZTSlJsaHpEYVk4SjExRnlKcmJOTTVwNnBnNG9FcV9xeHJBdXBDZHRfS0JTYndQcXRSdURtVmhYWF9rc1B3UDVrMXZRSnBscw?oc=5",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T05:06:19+00:00"
+    },
+    {
+      "title": "Oil prices set for third straight weekly decline on Middle East export flows - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SV3VLcC1fUXZ3eUN2ckZpSzd3akdsSE55cFRrUEZFNDZtVUFxcDRCWng5dHB3XzBDaUliLUowaGdqdDVkaW5va25nUkx5OVc4UXZoVU9qem1NdWFUNndPWldTeXFhVnVo0gFuQVVfeXFMTXRDbE5XQlFpNEF3ZVBycUpzZXFqQXJOdmVWTWVlX2NWLTNPc2w2TEk5TVdEb3FSZTV3c1JpSEJpUTlaX1g3cVhfY0o1cnFZd2xLZm03ZkJWTjRCelpOU2V5bl9pYlk0RkJsZnQtS1E?oc=5",
+      "source": "CNBC",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T05:01:49+00:00"
+    },
+    {
+      "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkZnaUY5Ni1VV2RvQXB3YWdWTnByc0xNYUt0MW5yYUlZLThpWXpNTzJBSjBROF9CQV9hd1M0MVVCNnB4QW0zd1VIdVhjQ3ZScEZvQ01HblVPTFQ4emlReFRfVnlnOFV1emJvQWtZU3BYT2tOY1JWUThTcUZlMzkzZTlaMnY?oc=5",
+      "source": "Financial Times",
+      "category": "other",
+      "region": "Global",
+      "published": "2026-11-20T05:01:49+00:00"
+    },
+    {
+      "title": "Swire Properties launches innovation challenge as Hong Kong focuses on green equities",
+      "link": "https://www.scmp.com/business/article/3375141/swire-properties-launches-innovation-challenge-hong-kong-focuses-green-equities",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T05:00:07+00:00"
+    },
+    {
+      "title": "KOSPI Falls 5%, Nikkei Drops 4%; Hang Seng Nears Bear Market - Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXZ6OGhzOFJaQUJYQXRHNFRFTlBZOWxtQkhNQUU0SDYwVl9jYmtwR181aWlEaXB1dm9Db3QyNm1mX1h0WnVwNDY2eXg3UjYxalFoWE5fcUJWSUJqdTFQSmNDbzMwSjdseHJmdGsyZ2RhREcyWnpVbHVKMDVhVXNPb3otbWxXNXRrMHRhc3BheElLTjZ6eDdvY3htS0RVbmZQMXZWNFFNNzE3NmtXMnhndktPUQ?oc=5",
+      "source": "Kotak Neo",
+      "category": "indices",
+      "region": "Asia",
+      "published": "2026-11-20T04:58:30+00:00"
+    },
+    {
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTlLRHZDNTRIaV9TZFlkd3VqNHZUTHZ2OVI1N01jdlM1ZnF2RWdFT25RV2dKN0l5THVNQndQTzhrVlpRUmNrRjh4MloxWHo5OXRwTzBJQy1vLVRDUU5yMFpEblRycUYyZnI3MFJEaHBrU1Awa3JTdDlha2tYd0FlbU5FOVI2SW5Nb3hISDg2R0d5RTVXTHctZmhWcEdjU2ptVzdPMUVtLW8yR1l2YjV3UV9GcXBZdGxaR3FF0gHAAUFVX3lxTE9qaEdWMGtKak9xeE5PSTJIeklFdG11ZmIySmR4UHFMV3pENnRvSnp5LVozRThVaE52SDA2Q1VnXzBrYUFjXzFFZmJmLVBFTkxudDFXQ2MxVTNiRlNHTWxabEw3NXRLMlN0VWY5U3I3YXhRZ0tUU2FRdGR0MGxTSW4tMlY1QXVTX0xoYnFRVERZaUY4U0d5RWQyZW9ITlNDY0xOanllVFhpTEgtSmVQa3JHTDNpQWNidGVQUjVJcWxKVg?oc=5",
+      "source": "Al Jazeera",
+      "category": "stocks",
+      "region": "India",
+      "published": "2026-11-20T04:55:11+00:00"
+    },
+    {
+      "title": "Singapore’s new maritime master plan to focus on capacity, technology, upskilling; work on Tuas Port Phase 2 begins",
+      "link": "https://www.businesstimes.com.sg/singapore/singapores-new-maritime-master-plan-focus-capacity-technology-upskilling-work-tuas-port-phase-2",
+      "source": "The Business Times SG",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T04:30:00+00:00"
+    },
+    {
+      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
+      "link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
+      "source": "The Block",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T04:24:05+00:00"
+    },
+    {
+      "title": "Singapore takes ‘prosper thy neighbour’ approach to Asean energy trade: Tan See Leng",
+      "link": "https://www.businesstimes.com.sg/international/asean/singapore-takes-prosper-thy-neighbour-approach-asean-energy-trade-tan-see-leng",
+      "source": "The Business Times SG",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T04:00:00+00:00"
+    },
+    {
+      "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDFuQ2FwRnFGN25xaHdfM0hYd2ppck1KX0ZJYjNuZHhMeTZCVHI5UDZGLXNudjFTMWJaRUtTei0xT2Y4VV9jYUY0aHM4dDhnUHd1WUNNalpEUlNOdFJZNlBhNE5jVzZlRHhvSkJoRkpUTW8wN0dhLU1vYy1EOTNBRzJWOXJ6UDlhNktrZDZyZVZZdXc5cEVBaUtyZWU5QdIBowFBVV95cUxQZXFBbDV1VHI0QXVmUHNFb3hRTkdYYWtUcWJ5Uk1jeUcxcmw1ZTJSQi1JR2k0MFFJQ2FHU3FOVWV3NElzNVJIMXRFVEU5SS1uUW1xYzA4VEhJektfV0g2d293N0x1SmZLWmcwQmRTRDNJcjRIN2RWczVzVTJzNDN3U3Jxd3l2OW8tRFBXMXlMQVFWMkJNcnZCb0txN2ZzbEc0VmRF?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "indices",
+      "region": "US",
+      "published": "2026-11-20T03:46:08+00:00"
+    },
+    {
+      "title": "Singapore, China launch FTA upgrade talks as leaders discuss closer AI ties",
+      "link": "https://www.businesstimes.com.sg/singapore/singapore-china-launch-fta-upgrade-talks-leaders-discuss-closer-ai-ties",
+      "source": "The Business Times SG",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T03:44:58+00:00"
+    },
+    {
+      "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjI0QjdiX0U5NWY1NDNvM2g5Q0N2SkVkTEkxSERpckxnOWwzSnFycV8wR3J6U3hYQkFrQTI3SGJhYlRSM2V5YkJHTFNuZ2ZoVHFzUE5BMkNNMjU5bXRlZ1I1UDRoOFNXS0wyZnBMSTcyWFl3YlFwOUxqQWVYX0VjTm5Ybmc5TXFxLWtCRnZOdzJlVkl5Wks5VU5vZk1OS0NtZUZQRjJ0SDJabG11ZFY2NlZsVmRaRjAyMENzQ25ic24?oc=5",
+      "source": "The Guardian",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-20T03:35:00+00:00"
+    },
+    {
+      "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
+      "source": "The Guardian Business",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-20T03:33:45+00:00"
+    },
+    {
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-20T03:33:22+00:00"
+    },
+    {
+      "title": "KOSPI plunges nearly 5%, Nikkei crashes over 4%; Hang Seng nears bear market as AI selloff deepens - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS1locWtvQ0pPUkVNNDBXSVpJQnVfNVJycURnMmNGNW5xSG1HUnhLdDhCdWlaVTlVWDdId0NvN1V1MzdBaFpseUkxYzJERzR3UC1wd1gxR2RxX1hEdi1jZ2o2MlZ6OUg3U2M4Qkl1cVNOTVFlMWF2VWcxNUFMb1Ftc3gtSndKdmprU3hZMDVfXzZPWHliUUNxLU1KZlc4WkloVkpPWVpVUTRnNzZhLVNkb1hwRnM4RnpRUDVjd29UbFpTdGZtVnk3QUJFOTU4dENHdmJCdHpLajRRRnIzWTNkU1JqMWhVMEl1ZkJxdXdzYW3SAfYBQVVfeXFMTmttMUVzdmR2QTRJM3IyUUZ3YmV5Z2lycHVQTEpVNkRoSjVoVnVJRGVjSVpDSjZ4emEyT2dkUHUtN2dYSFE1REVvbWllck9mVDJ0dUFFVm9wVndGbFE2VkQ0ZlZ5UDVTYlJqX25WNUJDRlRZUmtnWFU3eWowQ3ZXMmtZaUIxSnh4SU92Z1ZZWGNKcGhNV1F4S0FoR0FKQ1R1eUFtSUlQeTdGWjE2U2pQcXoyZHdqaGd0OTgwQ21NQXhUSVF6Zl9FNGk0R3lZVWhKWHg1RXRHTDhsNVhOQklkY3NUTkczdlVpQkYxemoyLVlhMFd0WDZ3?oc=5",
+      "source": "Moneycontrol.com",
+      "category": "indices",
+      "region": "Asia",
+      "published": "2026-11-20T03:20:46+00:00"
+    },
+    {
+      "title": "Gute Gründe für die wachsenden Sorgen der Investoren - Börsen-Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTndnYWg1ZXB5U2VoYWdPTjJpLXRZM1NySm5hUHNuZ3M0eHdTODRqeEpCYXFKcWVQanNJd0Z1VW43dkNLOHVkVXM4VEtSYnhyNTZMQktGbWhhR1MxMTI3Q01WQ1d3TnZCb3RaMlM1RXMyU05oNGo4cU50cmFtNjZGYUQ0Y2FaQTJUTVFuczhYQXVmUWo2Ri0wcTY3dVJlTWdtOWRF?oc=5",
+      "source": "Börsen-Zeitung",
+      "category": "stocks",
+      "region": "Europe",
+      "published": "2026-11-20T03:07:00+00:00"
+    },
+    {
+      "title": "Wall Street tumbles to its longest losing streak since 2024 as AI stocks slide - CommBank",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1dBaWhMQkhVTzVSOFp5WEtmWml0b2xYaUVhYk9XMTJpcmdIenFEV2dIZklHZFJvVzE5TlVXZnMtcTllZkxDXzkxZGpKcGV0WWQ4OUl6NWZKWlZZRnBKVVFxdV9UeGY4OFRONGJLTFgza3RTbjQ0WnJIZHZMQ1gxWXdicElxQ2lHdk14QTVDakFORnBsMzluSXdVcE8xWGgwSFhlSVVrMzg4Ujc0?oc=5",
+      "source": "CommBank",
+      "category": "stocks",
+      "region": "Australia",
+      "published": "2026-11-20T02:39:06+00:00"
+    },
+    {
+      "title": "Hong Kong stocks fall near 19-month low as Anthropic’s debut fails to soothe AI jitters",
+      "link": "https://www.scmp.com/business/china-business/article/3375145/hong-kong-stocks-head-19-month-low-anthropics-debut-fails-reinvigorate-ai-trade",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T02:32:21+00:00"
+    },
+    {
+      "title": "Turning Climate Warnings Into Household Action",
+      "link": "https://www.scmp.com/presented/business/topics/climate-warnings-home-action/article/3374607/turning-climate-warnings-household-action",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T02:27:33+00:00"
+    },
+    {
+      "title": "Financial Street Securities says chairman detained and under investigation on mainland",
+      "link": "https://www.scmp.com/business/china-business/article/3375144/financial-street-securities-says-chairman-detained-and-under-investigation-mainland",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T02:14:01+00:00"
+    },
+    {
+      "title": "JPMorgan sees Hong Kong IPO market rebounding in 2027 despite volatility",
+      "link": "https://www.scmp.com/business/china-business/article/3375137/jpmorgan-sees-hong-kong-ipo-market-rebounding-2027-despite-volatility",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T02:00:27+00:00"
+    },
+    {
+      "title": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
+      "source": "Reuters",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T02:00:00+00:00"
+    },
+    {
+      "title": "Canada Builds an Energy Exit From the U.S. - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmdKZnVYYVo3eEU0Q0Z6OGZNbVJvVTV0XzVVZlNqcGNDRnZHNlE3ZFpXUm10SzRtcDlYUzB5YmFrb3BpeUdESFJqSVFLN0JkOUhfTFNtcWV4MHctbTBOMXJkM1RMVFBQYlpNdkNYZjdUYWliUDJsWWhnbE01VFpqWmFWSHZhOWswYkd2TGdXY1hsUdIBlwFBVV95cUxPUGN1RnRyV3pkNkdhTEJ0V0JGYXhXREJkYkhQaFdLWGFmbm9mOTkxc0lKZnJCMU9nd3JYS0g5QTdpVDY5TlQxMmszajdkb1RWOTkyQVFVSXhfQkxxTmV4SUt0RkZXSmhibGNBQ01PVy01NWljLU5TZC1weFAyeHlOY0hBb3QxQzRfb20xbjMtZzFQVEtOQndv?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T01:00:00+00:00"
+    },
+    {
+      "title": "AI Boom Can't Rescue European Stocks as Stoxx Europe 600 Falls for Fourth Straight Session to Four-Week Low, Defensive Shares Hit Hardest - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GZ1JhUGNhT0NOb0VaYUdOMzZPejBrWDRiNVIyLTZISW9ueG9FV2VTVmRKMU1fVDNIcTFEdU9uUXhDaHVTYi1Ndk94WmphR3dNTEQ1V3RWMmx1dzd3eUUtbEtjVFp3VzZWa0tFN3ZoQlVpbWZ1V3c?oc=5",
+      "source": "BigGo Finance",
+      "category": "indices",
+      "region": "Europe",
+      "published": "2026-11-20T00:26:00+00:00"
+    },
+    {
+      "title": "Corn and Wheat Prices Rise as Soybeans Fall on China Demand Concerns - AgroLatam",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG1MRGdNR3NOMUVrS18tbGNBUUdYV3gyTDhXcEp6OTBjNHNHUjYwdWNFYlJZVEtwandGSEd3Z0JJMnptVGZmcW1zLXdFbG16TGktQWt2Q0tzdkNXb2tSNFZrOVV5R3dPTVc5NkVJcG9QSGRCcWRoblJxZ25zMW4ybnBOZEkxa01YS01udUlVSGtwMkRCMnpzOUZvQkdHMUNRVmtDYm1fdw?oc=5",
+      "source": "AgroLatam",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-20T00:23:50+00:00"
+    },
+    {
+      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+      "source": "CNBC",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-20T00:00:38+00:00"
+    },
+    {
+      "title": "Some of Hong Kong’s commercial landlords sell assets amid warming market sentiment",
+      "link": "https://www.scmp.com/property/hong-kong-china/article/3375051/some-hong-kongs-commercial-landlords-sell-assets-amid-warming-market-sentiment",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-20T00:00:09+00:00"
+    },
+    {
+      "title": "How did Anthropic's stock market debut unfold? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pRG5uRHVwWS1yMWRmQ1ZEck84Wm9IcktRUnlDSkZzaWtoN3h2OHdyXzZvYXBxc0FMeEZCbThCQlV1bGhjV20teUt5amNJRzd1TDJ3MkJkUGw0MkU?oc=5",
+      "source": "BBC",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-19T23:52:25+00:00"
+    },
+    {
+      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+      "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T23:44:02+00:00"
+    },
+    {
+      "title": "US panel warns of China’s biotech rise, fuelling push to curb ties as Chinese firms unfazed",
+      "link": "https://www.scmp.com/business/china-business/article/3375100/us-panel-warns-chinas-biotech-rise-fuelling-push-curb-ties-chinese-firms-unfazed",
+      "source": "South China Morning Post Business",
+      "category": "stocks",
+      "region": "Asia",
+      "published": "2026-11-19T23:00:05+00:00"
+    },
+    {
+      "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+      "source": "Reuters",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-19T22:54:10+00:00"
+    },
+    {
+      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+      "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+      "source": "Decrypt",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T22:36:02+00:00"
+    },
+    {
+      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+      "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T22:25:18+00:00"
+    },
+    {
+      "title": "Spartan puts $683 million price tag on Victorio moly, tungsten mine in New Mexico",
+      "link": "https://www.mining.com/spartan-puts-683-million-price-tag-on-victorio-moly-tungsten-mine-in-new-mexico/",
+      "source": "Mining.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T22:02:00+00:00"
+    },
+    {
+      "title": "Stock Market Today, Nov. 19: Nvidia Slides as Investors Weigh CEO Transition Fallout Despite Strong Q3 Results - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHRFQXJvd0VTZFAtVzVJUF94ZE13ZjR0WGFHZzYySjJLM2VDSjRoTHM1OWFOMk03NHdyVDhDWV9yeEd4dHlKQ3VSd1pCNGxYU2w3TGF4VGNjcHVZQlE5RGI1RWd6djgtcUh4X3plb1JiaHJjVzhZakJyQTl1c0VaRGFNTjZpLWZhVTJwbzV0Yi1fbk8wSG1wQ3RMUnFaU2xGZERhRmcweXM3d292N1pKWWdmZFMwQzFsUHFMMkhoODhfd21OZWJNdVlvX2pBOVBlMm1kN3JZM3F4cDVETEt6cEhtcWI2WUx3dEZsWHZpVGFVOHp5YlI4QmI3YnE?oc=5",
+      "source": "The Motley Fool",
+      "category": "stocks",
+      "region": "US",
+      "published": "2026-11-19T22:00:25+00:00"
+    },
+    {
+      "title": "Op-Ed: Unlocking Africa’s potential, one market at a time",
+      "link": "https://www.mining.com/op-ed-unlocking-africas-potential-one-market-at-a-time/",
+      "source": "Mining.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T21:44:53+00:00"
+    },
+    {
+      "title": "Gold-silver prices could see reversal rally after steep decline, Peter Spina warns - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkV2NTYzUGRQNHNieUVrb1NxOV9GUkZNVjNoQmV3YVJidEF3VndaaV9XSVQwSDA3VnBnTlNaNFFUZUxsVmo3ZVVoc2NRcGljWEFPMzZYNjlOcTdBRHZhSFQ2QXZLbXB0MGRDcmZ4elVyQ3lRTmktV2JvR1Y5ZVhMaHd6M3hqTDQ3NkozS2dxTnVhVU0?oc=5",
+      "source": "Traders Union",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T21:40:10+00:00"
+    },
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4bXR0SGt1c3FHQkZVY3AxVTdNODdtMHhVLWVkVU5DR0V0dHk3dGhaQzFBMWdwdXRhb1R6ZzlNRkc0UWxWMmdLQjBkMHlQdS1OdFJZUFRabU9nUDNCemc?oc=5",
+      "source": "BBC",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-19T21:38:42+00:00"
+    },
+    {
+      "title": "Anthropic achieves $2tn valuation as shares soar",
+      "link": "https://www.telegraph.co.uk/business/2026/11/19/anthropic-ipo-listing-nasdaq-ai-claude-ftse-100-markets/",
+      "source": "The Telegraph Business",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-19T21:34:56+00:00"
+    },
+    {
+      "title": "The Crypto Bear Market Could Be Back. Here’s What I’m Doing About It. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTklCVm84RGJyMnBoN0FCWHAtREFJY2JwWnBkUktjZ3A4MEJ2NWNrOEE5V2RKMVVFSEhQbjhfbTZhYWlXaWM5RUxfQUJzN3lLSzRROENQLTlzVkJVcDl6Nm1iQU5HNGJqODVkQ0NjY2tKdjZ2bHQxRVdoMVRoWllZcDVoWEdoWUYzR1d3bUV6LVdETXlpclF4RVF3SGc5SEt0UWVoY29VRkZjZGZKRGU0?oc=5",
+      "source": "The Motley Fool",
+      "category": "crypto",
+      "region": "Asia",
+      "published": "2026-11-19T21:33:02+00:00"
+    },
+    {
+      "title": "Cryptocurrency industry stares down new Congress: 5 takeaways from Capitol Crypto Forum - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalR0RlVESVVxUXFPNUJabWEzMXJBc0t5UG5XWi0waFR5Nm1PWnpXblA5ekRpOVdmNGlHdm9NU3NiQ013U2cyNkw3X0d4Z1pqaXUyeEE0UC0wV09sLWdvMW5Zdi02dkpwcFl4R0VaY19HX0RVNmJ4M2NzX3hrdU1fN2VKbFJIWHplMm5uNXhGY2FZdlB1bjBqMER1MNIBoAFBVV95cUxQY0FadWpkMEo5dF91al9IV3JvY1V4TVc4dVAzRGZ0eS1UYjdYMzV4M01mWGlzcU9JeFg4RWNrdnZaU0s5eWcteGpUWkZweFBLRDNpaFBvVVZaN3lUekNLNDVteVRvM3Y1cU5UUjd3Nk1YQVF6R2k4dXpNVHlkaHQzdjdBYktFTkFSdmxFM1pwZ1k2RWxQcnpOVHZvZ1U0YU1v?oc=5",
+      "source": "The Hill",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T21:20:00+00:00"
+    },
+    {
+      "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+      "link": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+      "source": "Decrypt",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T21:12:06+00:00"
+    },
+    {
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T21:01:42+00:00"
+    },
+    {
+      "title": "Treasury Yields Fall as Anthropic Fails to Sustain Risk Appetite - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxqWVA1Y044cTZjWkE0VlVFR3hrRVh1S0ZsLW5VVDZfNlRsT0dmNElmUG1ocmh5Wi11eGhRZEFTbEJpbjVjM3F4b0t1TGtiYTZ5UFlMdFBZSXBQdlNUQ2gxMklZclRVOG9JSkVBNFRmMmVSckpzeFQyZ1RxN250RjZpWXJUTnBKQmhhRXBCV2FERE50STNlZU5n?oc=5",
+      "source": "WSJ",
+      "category": "other",
+      "region": "Global",
+      "published": "2026-11-19T21:00:00+00:00"
+    },
+    {
+      "title": "Corn, Wheat, Livestock Higher and Soybeans Lower | Thursday, Nov. 19, 2026 - Successful Farming",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0VaZTFabHZDTW1PeXVIOU5aS1hMQm9JTHBsTEZDMWg5dTVGendDSE4tS2g0Y2RldTNxM3pmdE9GaXlTNHh4YXpjVVp4TjdLQzRSckxQWGhNOTZTaEJkWFlzNTIwYjNLRHRUdlNDMmtPMTJCV2NmS01RRzJLTDBLXzluS2pSd1B6SXUzUnpmQXV5QUMyQjl4OGlXS2xVSzJqMXhnbi1wRkRLUHM?oc=5",
+      "source": "Successful Farming",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T20:55:16+00:00"
+    },
+    {
+      "title": "Gold Price Hits 14 Month Low as Fed Rate Hike Fears Strengthen US Dollar - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NzllaXVoVklUY3hXdWNpNGZYNUh1Q2NsMVpPdGxGWDBHOEZJTEdmdlZ6V1JhY3hSbXVlN3ZIbDYyMEgwNk9ISldEdlFwbzRwZXZMN09rNjBsaFlCMlkw?oc=5",
+      "source": "Investing News Network",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T20:50:00+00:00"
+    },
+    {
+      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+      "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+      "source": "Decrypt",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T20:46:02+00:00"
+    },
+    {
+      "title": "Nuclea Energy adds Moltex assets to nuclear portfolio",
+      "link": "https://www.mining.com/nuclea-energy-adds-moltex-assets-to-nuclear-portfolio/",
+      "source": "Mining.com",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T20:28:26+00:00"
+    },
+    {
+      "title": "Prediction: Silver Will Be Worth This Much By the End of 2027 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDNUalNzaklCcHMwS19SakpvTHJNTEZuaC1pU0lCNkJPYU5udk1nMUh0WGJBdTEzOXpWM0h5OWxRdUo2TEZ2TTFwemgzazFENGxIWEFjQ1J1WWF1SnRLWXM1anlKTjgxX1pfZVo2d2pGZm9nNW1fLW1iMHQtNTBHX1RYZDg1YmNhcDZ6V2k0YzFmemhLR1NyTElnRUxyWEJieUVrUkNn?oc=5",
+      "source": "The Motley Fool",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T20:26:02+00:00"
+    },
+    {
+      "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
+      "link": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
+      "source": "The Block",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T20:20:59+00:00"
+    },
+    {
+      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
+      "link": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
+      "source": "Decrypt",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T20:15:32+00:00"
+    },
+    {
+      "title": "Natural Gas Bulls Win Storage Round, Price Prize Goes to Bears - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVhYbU1iZWEtUVZQUzVJa0oyaUpRclFNV1pPOGxTSHVSVzlpQ1lObjJ1M3o1RDhuWEdhRVJ4T2RqcjJuXzVldUx4U21MY253NHZCRHdfR0xQdHFqZzh2RThpa3p4cEhMdFhPTXZOR19scU9iTFpaYmRMQzk3QXVQWmM1cFNId0lnakFaajh2bVdCZEdVNi1NUVRjTQ?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T20:07:15+00:00"
+    },
+    {
+      "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+      "link": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+      "source": "The Guardian Business",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-19T20:05:13+00:00"
+    },
+    {
+      "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+      "link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+      "source": "Decrypt",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T19:08:24+00:00"
+    },
+    {
+      "title": "Ripple's Alderoty doubts Elizabeth Warren will 'set crypto policy in this country,' backs durable agency rules - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUWdEREY4OHZxZFRneVIzOHJGeGZCQW9XQlduS0VtMUhIOU5XRTRBc3lmX2Q2YUZ0T3YwdENyd3l0NXpvbmFHQzJfeWdXdnEtUGY2V0ptZ3J1UU5GdVl3Tm4tNzV1dlFaRmlJZjhmOHNCSXhmTmpSU2hnTG5wVy1BMzM0LUp2RUlzSWxBWWFUR29KaUhyUmFZOTBJSW1za1dJc1kyQjNSVTN0Y1k5RUJPdGFfRmF4MW02MzZnX3d2a0J4S3NPQWNrNmFBb2dwMzhmdmxrc3NjVQ?oc=5",
+      "source": "The Block",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T19:07:00+00:00"
+    },
+    {
+      "title": "Copper’s Recent Selloff Could Present Long-Term Buying Opportunity, UBS Says: Report - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYk9SSHBoeFVMUzBQUE5WUVVmM0xxaWwzQnFVME9PaGV4ZHpFTnVWTFpaNFhOWjhzanlpbDRaWjFTLXpkbVBxdkR1TDJGeWtRZFM4bklHeXd6MEhjTEphVjNVUmpBdmhsQUFLcFRyb1FEWk1jV3oybnhtc19RdDA2YkhlQUgtN1VIaERSMTlFcEJkem1XSGlpRzRVekd1cXFleHJBZ3F1STQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T18:52:29+00:00"
+    },
+    {
+      "title": "Gold hits 14-month low as strong dollar, rate bets weigh - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
+      "source": "Reuters",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T18:51:30+00:00"
+    },
+    {
+      "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
+      "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+      "source": "The Block",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T18:47:30+00:00"
+    },
+    {
+      "title": "Gold prices could fall another 5% to $3,500 as Fed tightening fears grow – Razaqzada - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb21Fc1g4Vm1ScFJ0ZFRiU0N2Mnktb2tyVWFZMFZPVlFyNm9UanhzR09CXzdteUxJdFdDemgwbXJBSjktUzBObDEzZHJTT1lhTF9PT2Z6U0lnNkhhTUNnT1ozaWt4WmdIWENSXzhYdTVRVXBGc2dwMU1LR0duVy00czM0dHlmQkxfNVplZWo3ZmFoanAyVXktTFZPVGRuOGc4R0d1S1hjNk5wTDlHZzQycVlDUHRhNktLMGxJ?oc=5",
+      "source": "Kitco",
+      "category": "commodities",
+      "region": "Global",
+      "published": "2026-11-19T18:45:27+00:00"
+    },
+    {
+      "title": "Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVQzY2hub2Z3QVhZdDVMZDhBRGF4cGNkTzdsS09TUjFoVnFkcW5waW1KWFRjSVY5R2ZyWkZOT0RNRDR4TXRxWmtWR24yWXpFMWVtSzdlYlBXWlNrWE8xSTNzbTFlbTlvQzBZdWhzMnFZTVY5QVNDSmJYWktPOFlmZUF2OFBnaDJ2YVZBSDVGLXhNeUVPT3RiY0VSOEpFdw?oc=5",
+      "source": "Yahoo Finance",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T18:45:02+00:00"
+    },
+    {
+      "title": "What Does California’s $5M CoinFlip Order Mean for Bitcoin ATM Operators? - Regulatory Oversight",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1AzdFlXZUtWNU5xZ3NwbHgzR3VTUkd6NzZ0T0RIMjFONEc3WmlQdkRkSUdvWlRNX0xkSW00d0YxQ1FvR1BVXzNBN2pVMWtnTlpVU2poLXhlajNKWVJSODhTNE54bTFCRzY1a0llUVhWN1FqS3hRbVpGUmRrbW52WXVwNG9GNGZCeUd6cmNXam1TMV92QzNXem1qZlppaU9yakwybkxzRlk1N2dySFoyZVVYWjFNUQ?oc=5",
+      "source": "Regulatory Oversight",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T18:37:10+00:00"
+    },
+    {
+      "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+      "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+      "source": "The Guardian Business",
+      "category": "stocks",
+      "region": "UK",
+      "published": "2026-11-19T18:15:48+00:00"
+    },
+    {
+      "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
+      "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
+      "source": "The Block",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T18:04:15+00:00"
+    },
+    {
+      "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
+      "link": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
+      "source": "Decrypt",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T17:55:38+00:00"
+    },
+    {
+      "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
+      "link": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
+      "source": "Decrypt",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T17:28:03+00:00"
+    },
+    {
+      "title": "Solana Wants 2x Capacity by 2027, Traders Want a Bottom",
+      "link": "https://www.crypto-news-flash.com/solana-wants-2x-capacity-by-2027-traders-want-a-bottom/",
+      "source": "Crypto News Flash",
+      "category": "crypto",
+      "region": "Global",
+      "published": "2026-11-19T17:26:43+00:00"
+    },
+    {
+      "title": "Policymakers want rate hike but disagree on pace - Axios",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLenkzRHR2cnQwLVFSSFBrY2RhT0ZNbk1UZzdRSmFyQVhSa1UwN0w0WThGQ19aNGNOcnQ4YzhBRGkxZXFucjZpa2ZkMGwwcTRGNjMwQ2JFVmFoTVp0Q2Etdks2YmpWNU9JaTRSYi1TYw?oc=5",
+      "source": "Axios",
+      "category": "stocks",
+      "region": "Global",
+      "published": "2026-11-19T17:17:53+00:00"
     }
   ]
 }
