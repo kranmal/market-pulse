@@ -22,7 +22,7 @@ import feedparser
 
 OUT_PATH = "data/news.json"
 MAX_ITEMS_PER_FEED = 20
-MAX_TOTAL_ITEMS = 400
+MAX_TOTAL_ITEMS = 600
 MAX_AGE_DAYS = 5
 REQUEST_TIMEOUT = 12
 USER_AGENT = "Mozilla/5.0 (compatible; MarketPulseBot/1.0; +https://kranmal.github.io/market-pulse/)"
@@ -61,8 +61,16 @@ NAMED_FEEDS = [
     ("https://www.crypto-news-flash.com/feed/", "Crypto News Flash", "crypto", "Global"),
     ("https://beincrypto.com/feed/", "BeInCrypto", "crypto", "Global"),
     # Metals / mining
-    ("https://www.mining.com/feed/", "Mining.com", "metals", "Global"),
-    ("https://www.investing.com/rss/commodities_Metals.rss", "Investing.com Metals", "metals", "Global"),
+    ("https://www.mining.com/feed/", "Mining.com", "commodities", "Global"),
+    ("https://www.investing.com/rss/commodities_Metals.rss", "Investing.com Metals", "commodities", "Global"),
+    # Energy / agriculture
+    ("https://www.investing.com/rss/commodities_Energy.rss", "Investing.com Energy", "commodities", "Global"),
+    ("https://www.investing.com/rss/commodities_Agriculture.rss", "Investing.com Agriculture", "commodities", "Global"),
+    # FX
+    ("https://www.investing.com/rss/forex.rss", "Investing.com Forex", "fx", "Global"),
+    ("https://www.fxstreet.com/rss/news", "FXStreet", "fx", "Global"),
+    # Indices
+    ("https://www.investing.com/rss/stock_Indices.rss", "Investing.com Indices", "indices", "Global"),
 ]
 
 # ── Google News RSS search feeds — broad worldwide net ──────────────────
@@ -80,10 +88,19 @@ GNEWS_QUERIES = [
     ("ethereum", "crypto", "Global", "en-US", "US", "US:en"),
     ("cryptocurrency regulation", "crypto", "Global", "en-US", "US", "US:en"),
     ("crypto market", "crypto", "Asia", "en-SG", "SG", "SG:en"),
-    ("gold price", "metals", "Global", "en-US", "US", "US:en"),
-    ("silver price", "metals", "Global", "en-US", "US", "US:en"),
-    ("copper price", "metals", "Global", "en-US", "US", "US:en"),
-    ("platinum price", "metals", "Global", "en-US", "US", "US:en"),
+    ("gold price", "commodities", "Global", "en-US", "US", "US:en"),
+    ("silver price", "commodities", "Global", "en-US", "US", "US:en"),
+    ("copper price", "commodities", "Global", "en-US", "US", "US:en"),
+    ("platinum price", "commodities", "Global", "en-US", "US", "US:en"),
+    ("oil price", "commodities", "Global", "en-US", "US", "US:en"),
+    ("natural gas price", "commodities", "Global", "en-US", "US", "US:en"),
+    ("wheat corn soybean prices", "commodities", "Global", "en-US", "US", "US:en"),
+    ("forex dollar euro yen", "fx", "Global", "en-US", "US", "US:en"),
+    ("currency markets sterling", "fx", "UK", "en-GB", "GB", "GB:en"),
+    ("S&P 500 Nasdaq Dow Jones", "indices", "US", "en-US", "US", "US:en"),
+    ("FTSE DAX Stoxx index", "indices", "Europe", "en-GB", "GB", "GB:en"),
+    ("Nikkei Hang Seng Kospi index", "indices", "Asia", "en-SG", "SG", "SG:en"),
+    ("treasury yields bond market", "other", "Global", "en-US", "US", "US:en"),
 ]
 
 CRYPTO_KEYWORDS = re.compile(
@@ -91,9 +108,21 @@ CRYPTO_KEYWORDS = re.compile(
     r"altcoin|binance|coinbase|solana|dogecoin|xrp|ripple)\b",
     re.IGNORECASE,
 )
-METALS_KEYWORDS = re.compile(
+COMMODITIES_KEYWORDS = re.compile(
     r"\b(gold|silver|copper|platinum|palladium|bullion|precious metal|mining|"
-    r"ounce|xau|xag)\b",
+    r"ounce|xau|xag|oil|crude|brent|wti|opec|natural gas|lng|wheat|corn|soybeans?|commodit(?:y|ies))\b",
+    re.IGNORECASE,
+)
+FX_KEYWORDS = re.compile(
+    r"\b(forex|fx|currency|currencies|dollar index|eur/usd|gbp/usd|usd/jpy|yen|euro|sterling|exchange rate)\b",
+    re.IGNORECASE,
+)
+INDICES_KEYWORDS = re.compile(
+    r"\b(s&p 500|s&p500|nasdaq 100|nasdaq composite|dow jones|djia|ftse 100|ftse|dax|nikkei|hang seng|kospi|nifty|sensex|stoxx)\b",
+    re.IGNORECASE,
+)
+OTHER_KEYWORDS = re.compile(
+    r"\b(treasury yields?|bond yields?|10-year yield|2-year yield|yield curve|volatility index|vix)\b",
     re.IGNORECASE,
 )
 
@@ -118,10 +147,21 @@ def fetch(url):
 
 
 def classify_category(title, default):
-    if CRYPTO_KEYWORDS.search(title or ""):
+    """Crypto wins everywhere. Feeds filed under 'stocks' (the broad catch-all) can be
+    re-filed by keyword; feeds that already have a specific category keep it."""
+    t = title or ""
+    if CRYPTO_KEYWORDS.search(t):
         return "crypto"
-    if default != "crypto" and METALS_KEYWORDS.search(title or ""):
-        return "metals"
+    if default != "stocks":
+        return default
+    if COMMODITIES_KEYWORDS.search(t):
+        return "commodities"
+    if FX_KEYWORDS.search(t):
+        return "fx"
+    if INDICES_KEYWORDS.search(t):
+        return "indices"
+    if OTHER_KEYWORDS.search(t):
+        return "other"
     return default
 
 
