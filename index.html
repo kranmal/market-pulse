@@ -26,19 +26,19 @@
   --raise:       #ffffff;
   --text-1:      #0b0b0b;
   --text-2:      #52514e;
-  --text-muted:  #898781;
+  --text-muted:  #6a6963;
   --border:      rgba(11,11,11,0.10);
   --border-2:    rgba(11,11,11,0.16);
   --ghost:       rgba(11,11,11,0.045);
   --up:          #006300;
   --down:        #c02929;
-  --accent:      #2a78d6;
-  --crypto:      #eda100;
-  --stocks:      #1baf7a;
-  --commodities:      #8b7a9e;
-  --fx: #3f8a82;
-  --indices: #a8832f;
-  --other: #6f7888;
+  --accent:      #1d62b8;
+  --crypto:      #9a5b00;
+  --stocks:      #0b7a55;
+  --commodities:      #6f5d86;
+  --fx: #2d6e67;
+  --indices: #85650f;
+  --other: #596273;
 }
 @media (prefers-color-scheme: dark) {
   :root:where(:not([data-theme="light"])) {
@@ -48,19 +48,19 @@
     --raise:       #212120;
     --text-1:      #ffffff;
     --text-2:      #c3c2b7;
-    --text-muted:  #898781;
+    --text-muted:  #a09e97;
     --border:      rgba(255,255,255,0.10);
     --border-2:    rgba(255,255,255,0.18);
     --ghost:       rgba(255,255,255,0.06);
     --up:          #0ca30c;
     --down:        #f07171;
     --accent:      #3987e5;
-    --crypto:      #c98500;
-    --stocks:      #199e70;
-    --commodities:      #a594ba;
-    --fx: #5fa8a0;
-    --indices: #c9a24d;
-    --other: #8f98a8;
+    --crypto:      #a86300;
+    --stocks:      #0e8560;
+    --commodities:      #7d6a96;
+    --fx: #327a72;
+    --indices: #8f6e14;
+    --other: #657087;
   }
 }
 :root[data-theme="dark"] {
@@ -70,19 +70,19 @@
   --raise:       #212120;
   --text-1:      #ffffff;
   --text-2:      #c3c2b7;
-  --text-muted:  #898781;
+  --text-muted:  #a09e97;
   --border:      rgba(255,255,255,0.10);
   --border-2:    rgba(255,255,255,0.18);
   --ghost:       rgba(255,255,255,0.06);
   --up:          #0ca30c;
   --down:        #f07171;
   --accent:      #3987e5;
-  --crypto:      #c98500;
-  --stocks:      #199e70;
-  --commodities:      #a594ba;
-  --fx: #5fa8a0;
-  --indices: #c9a24d;
-  --other: #8f98a8;
+  --crypto:      #a86300;
+  --stocks:      #0e8560;
+  --commodities:      #7d6a96;
+  --fx: #327a72;
+  --indices: #8f6e14;
+  --other: #657087;
 }
 
 * { box-sizing: border-box; }
@@ -112,14 +112,14 @@ button, input { font: inherit; color: inherit; }
 .btn {
   appearance: none; background: var(--raise); color: var(--text-1);
   border: 1px solid var(--border-2); border-radius: 9px;
-  padding: 8px 13px; font-size: 14px; cursor: pointer;
+  padding: 8px 14px; font-size: 14px; cursor: pointer; min-height: 44px;
   transition: background .12s ease, border-color .12s ease;
 }
 .btn:hover { background: var(--ghost); }
-.btn-icon { padding: 8px 10px; line-height: 1; }
+.btn-icon { padding: 8px 10px; line-height: 1; min-width: 44px; }
 .field {
   background: var(--raise); border: 1px solid var(--border-2); border-radius: 9px;
-  padding: 8px 11px; font-size: 14px; width: 100%;
+  padding: 8px 12px; font-size: 14px; width: 100%; min-height: 44px;
 }
 .field:focus-visible, .btn:focus-visible, .seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 ::placeholder { color: var(--text-muted); }
@@ -127,7 +127,7 @@ button, input { font: inherit; color: inherit; }
 .seg { display: inline-flex; gap: 2px; padding: 3px; background: var(--ghost); border-radius: 10px; border: 1px solid var(--border); }
 .seg button {
   appearance: none; background: none; border: 0; cursor: pointer;
-  padding: 6px 13px; border-radius: 7px; font-size: 13px; color: var(--text-2);
+  padding: 6px 13px; min-height: 40px; border-radius: 7px; font-size: 13px; color: var(--text-2); white-space: nowrap;
 }
 .seg button:hover { color: var(--text-1); }
 .seg button[aria-pressed="true"] { background: var(--raise); color: var(--text-1); font-weight: 600; box-shadow: 0 1px 2px rgba(0,0,0,.06); }
@@ -166,7 +166,21 @@ footer { margin-top: 22px; font-size: 12px; color: var(--text-muted); text-align
 a { color: var(--accent); }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 
+.item { transition: background .12s ease; }
+.item:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; border-radius: 14px; }
+.item + .item { border-top: 1px solid var(--border); }
+.list { gap: 0; }
+.item:first-child { border-radius: 14px 14px 0 0; }
+.more { display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 18px; border-top: 1px solid var(--border); font-size: 12.5px; color: var(--text-muted); }
+.more[hidden] { display: none; }
+.skel { padding: 14px 16px; border-top: 1px solid var(--border); }
+.skel i { display: block; height: 11px; border-radius: 6px; background: var(--ghost); margin: 8px 0; animation: pulse 1.4s ease-in-out infinite; }
+.skel i:nth-child(1) { width: 22%; } .skel i:nth-child(2) { width: 88%; height: 14px; } .skel i:nth-child(3) { width: 40%; }
+@keyframes pulse { 50% { opacity: .45; } }
+@media (prefers-reduced-motion: reduce) { .skel i { animation: none; } * { transition: none !important; } }
 @media (max-width: 640px) {
+  .seg { max-width: 100%; overflow-x: auto; scrollbar-width: none; }
+  .seg::-webkit-scrollbar { display: none; }
   .wrap { padding: 18px 14px 48px; }
   .filters .search-wrap { flex: 1 1 100%; order: 3; }
   .status-wrap { margin-left: auto; }
@@ -209,6 +223,7 @@ a { color: var(--accent); }
 
   <section class="card" aria-label="News feed">
     <div class="list" id="list"></div>
+    <div class="more" id="more" hidden><span id="count"></span><button class="btn" id="moreBtn" type="button">Show more stories</button></div>
     <div class="empty" id="empty" hidden>No stories match your filters.</div>
   </section>
 
