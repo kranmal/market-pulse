@@ -11,7 +11,9 @@ const state = {
   generatedAt: null,
   cat: "all",
   q: "",
+  shown: 40,
 };
+const PAGE = 40;
 
 /* ── Theme ── */
 function effectiveDark() {
@@ -73,11 +75,15 @@ function render() {
   if (filtered.length === 0) {
     list.innerHTML = "";
     empty.hidden = false;
+    $("#more").hidden = true;
     return;
   }
   empty.hidden = true;
+  const visible = filtered.slice(0, state.shown);
+  $("#more").hidden = visible.length >= filtered.length;
+  $("#count").textContent = `Showing ${visible.length} of ${filtered.length} stories`;
 
-  list.innerHTML = filtered.map((item) => `
+  list.innerHTML = visible.map((item) => `
     <a class="item" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">
       <div class="item-top">
         <span class="badge ${escapeHtml(item.category || "stocks")}">${escapeHtml(item.category)}</span>
@@ -97,6 +103,7 @@ function setStatus(text, warn) {
 
 async function loadData() {
   setStatus("Loading…");
+  if (!state.items.length) $("#list").innerHTML = '<div class="skel"><i></i><i></i><i></i></div>'.repeat(5);
   try {
     const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -116,6 +123,7 @@ $("#catSeg").addEventListener("click", (e) => {
   const btn = e.target.closest("button[data-cat]");
   if (!btn) return;
   state.cat = btn.dataset.cat;
+  state.shown = PAGE;
   $$("#catSeg button").forEach((b) => b.setAttribute("aria-pressed", String(b === btn)));
   render();
 });
@@ -127,11 +135,13 @@ $("#q").addEventListener("input", (e) => {
   const val = e.target.value;
   qTimer = setTimeout(() => {
     state.q = val.trim().toLowerCase();
+    state.shown = PAGE;
     render();
   }, 120);
 });
 
 $("#refreshBtn").addEventListener("click", loadData);
+$("#moreBtn").addEventListener("click", () => { state.shown += PAGE; render(); });
 
 loadData();
 setInterval(loadData, REFRESH_MS);
